@@ -1,0 +1,604 @@
+{ "type": "FeatureCollection",
+	"features": [
+		{ "type": "Feature",
+			"properties": {
+				"city": "Bangalore",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [77.4,13.14], [77.8,12.784]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Delhi-NCR",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [76.746,28.88], [77.808,28.253]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Chennai",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [80.078,13.264], [80.34,12.83]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Mumbai",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [72.76,19.32], [73.08,18.88]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Hyderabad",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [78.16,17.61], [78.66,17.22]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Mysore",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [76.56,12.38], [76.7,12.24]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Kolkata",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [88.2,23.0], [88.54,22.34]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Kochi",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [76.2,10.1], [76.435,9.78]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Chandigarh",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [76.69,30.8], [76.84,30.67]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Jakarta",
+				"country":"ID"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [106.4,-5.4], [107.0,-6.37]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Pune",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [73.505,18.683], [74.204,18.358]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Nagpur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [78.907,21.229], [79.257,21.069]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Mangalore",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [74.808,12.917], [74.983,12.834]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Thiruvananthapuram",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [76.729,8.673], [77.259,8.333]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Kozhikode",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [75.510,11.412], [76.041,11.075]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Ahmedabad",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [72.314,23.179], [72.844,22.863]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Surat",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [72.703,21.26], [72.968,21.1]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Pondicherry",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [79.565,12.101], [80.095,11.765]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Jaipur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [75.542,27.058], [76.073,26.752]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Varanasi",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [82.647,25.491], [83.368,25.180]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Panaji",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [73.563,15.664], [74.093,15.333]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Kanpur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [80.193,26.529], [80.458,26.375]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Indore",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [75.559,22.855], [76.09,22.538]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Lucknow",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [80.668,27.004], [81.199,26.697]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Bhopal",
+				"country":"ID"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [77.134,23.409], [77.665,23.094]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Patna",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [84.859,25.764], [85.387,25.454]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Vishakhapatnam",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [83.101,17.775], [83.366,17.612]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Coimbatore",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [76.872,11.09], [77.136,10.921]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Vijayawada",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [80.354,16.673], [80.882,16.343]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Ajmer",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [74.149,26.668], [75.206,26.053]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Bhubaneswar",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [85.582,20.452], [86.11,20.13]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Guwahati",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [91.468,26.313,], [91.997,26.004]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Dehradun",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [77.911,30.399], [78.175,30.251]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Thrissur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [75.948,10.694], [76.477,10.356]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Kannur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [75.309,11.983], [75.574,11.815]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Vadodara",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [72.835,22.457], [73.556,22.139]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Udaipur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [73.596,24.66], [73.956,24.504]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Nashik",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [73.591,20.148], [74.119,19.825]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Jodhpur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [72.886,26.356], [73.15,26.202]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Ludhiana",
+				"country":"ID"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [75.587,31.056], [76.116,30.761]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Salem",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [77.895,11.829], [78.424,11.492]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Amritsar",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [74.741,31.72], [75.005,31.574]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Ranchi",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [85.16,23.418], [85.521,23.26]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Meerut",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [77.441,29.146], [77.97,28.846]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Agra",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [77.877,27.25], [78.141,27.097]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Jamshedpur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [86.04,22.857], [86.304,22.699]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Allahabad",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [81.32,25.749], [82.378,25.129]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Tiruchirapalli",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [78.422,10.973], [78.951,10.636]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Solapur",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [75.735,17.739], [76.096,17.575]]
+				]
+			},
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Madurai",
+				"country":"IN"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [77.973,10.011], [78.23,9.842]]
+				]
+			},
+		}
+	]
+}
