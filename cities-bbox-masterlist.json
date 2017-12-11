@@ -2,8 +2,9 @@
 	"features": [
 		{ "type": "Feature",
 			"properties": {
-				"city": "Bangalore",
-				"country":"IN"
+				"city": "Bengaluru, Karnataka, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -15,7 +16,8 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Delhi-NCR",
-				"country":"IN"
+				"country":"IN",
+				"PlaceID":"ChIJ4ZrhZpThDDkRbN7VX1brzkU"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -26,8 +28,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Chennai",
-				"country":"IN"
+				"city": "Chennai, Tamil Nadu, India",
+				"country":"IN",
+				"PlaceID":"ChIJYTN9T-plUjoRM9RjaAunYW4"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -38,8 +41,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Mumbai",
-				"country":"IN"
+				"city": "Mumbai, Maharashtra, India",
+				"country":"IN",
+				"PlaceID":"ChIJwe1EZjDG5zsRaYxkjY_tpF0"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -50,8 +54,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Hyderabad",
-				"country":"IN"
+				"city": "Hyderabad, Telangana, India",
+				"country":"IN",
+				"PlaceID":"ChIJx9Lr6tqZyzsRwvu6koO3k64"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -62,8 +67,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Mysore",
-				"country":"IN"
+				"city": "Mysore, Karnataka, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -74,8 +80,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Kolkata",
-				"country":"IN"
+				"city": "Kolkata, West Bengal, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -86,8 +93,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Kochi",
-				"country":"IN"
+				"city": "Kochi, Kerala, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -98,8 +106,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Chandigarh",
-				"country":"IN"
+				"city": "Chandigarh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -110,8 +119,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Jakarta",
-				"country":"ID"
+				"city": "Jakarta, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -122,8 +132,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Pune",
-				"country":"IN"
+				"city": "Pune, Maharashtra, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -134,8 +145,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Nagpur",
-				"country":"IN"
+				"city": "Nagpur, Maharashtra, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -146,8 +158,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Mangalore",
-				"country":"IN"
+				"city": "Mangalore, Karnataka, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -158,8 +171,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Thiruvananthapuram",
-				"country":"IN"
+				"city": "Thiruvananthapuram, Kerala, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -170,8 +184,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Kozhikode",
-				"country":"IN"
+				"city": "Kozhikode, Kerala, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -182,8 +197,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Ahmedabad",
-				"country":"IN"
+				"city": "Ahmedabad, Gujarat, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -194,8 +210,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Surat",
-				"country":"IN"
+				"city": "Surat, Gujarat, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -206,8 +223,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Pondicherry",
-				"country":"IN"
+				"city": "Puducherry, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -218,8 +236,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Jaipur",
-				"country":"IN"
+				"city": "Jaipur, Rajasthan, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -230,8 +249,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Varanasi",
-				"country":"IN"
+				"city": "Varanasi, Uttar Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -242,8 +262,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Panaji",
-				"country":"IN"
+				"city": "Panaji, Goa, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -254,8 +275,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Kanpur",
-				"country":"IN"
+				"city": "Kanpur, Uttar Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -266,8 +288,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Indore",
-				"country":"IN"
+				"city": "Indore, Madhya Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -278,8 +301,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Lucknow",
-				"country":"IN"
+				"city": "Lucknow, Uttar Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -290,8 +314,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Bhopal",
-				"country":"ID"
+				"city": "Bhopal, Madhya Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -302,8 +327,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Patna",
-				"country":"IN"
+				"city": "Patna, Bihar, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -314,8 +340,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Vishakhapatnam",
-				"country":"IN"
+				"city": "Vishakhapatnam, Andhra Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -326,8 +353,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Coimbatore",
-				"country":"IN"
+				"city": "Coimbatore, Tamil Nadu, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -338,8 +366,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Vijayawada",
-				"country":"IN"
+				"city": "Vijayawada, Andhra Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -350,8 +379,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Ajmer",
-				"country":"IN"
+				"city": "Ajmer, Rajasthan, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -362,8 +392,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Bhubaneswar",
-				"country":"IN"
+				"city": "Bhubaneswar, Odisha, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -374,8 +405,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Guwahati",
-				"country":"IN"
+				"city": "Guwahati, Assam, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -386,8 +418,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Dehradun",
-				"country":"IN"
+				"city": "Dehradun, Uttarakhand, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -398,8 +431,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Thrissur",
-				"country":"IN"
+				"city": "Thrissur, Kerala, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -410,8 +444,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Kannur",
-				"country":"IN"
+				"city": "Kannur, Kerala, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -422,8 +457,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Vadodara",
-				"country":"IN"
+				"city": "Vadodara, Gujarat, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -434,8 +470,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Udaipur",
-				"country":"IN"
+				"city": "Udaipur, Rajasthan, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -446,8 +483,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Nashik",
-				"country":"IN"
+				"city": "Nashik, Maharashtra, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -458,8 +496,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Jodhpur",
-				"country":"IN"
+				"city": "Jodhpur, Rajasthan, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -470,8 +509,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Ludhiana",
-				"country":"ID"
+				"city": "Ludhiana, Punjab, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -482,8 +522,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Salem",
-				"country":"IN"
+				"city": "Salem, Tamil Nadu, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -494,8 +535,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Amritsar",
-				"country":"IN"
+				"city": "Amritsar, Punjab, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -506,8 +548,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Ranchi",
-				"country":"IN"
+				"city": "Ranchi, Jharkhand, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -518,8 +561,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Meerut",
-				"country":"IN"
+				"city": "Meerut, Uttar Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -530,8 +574,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Agra",
-				"country":"IN"
+				"city": "Agra, Uttar Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -542,8 +587,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Jamshedpur",
-				"country":"IN"
+				"city": "Jamshedpur, Jharkhand, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -554,8 +600,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Allahabad",
-				"country":"IN"
+				"city": "Allahabad, Uttar Pradesh, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -566,8 +613,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Tiruchirapalli",
-				"country":"IN"
+				"city": "Tiruchirapalli, Tamil Nadu, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -578,8 +626,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Solapur",
-				"country":"IN"
+				"city": "Solapur, Maharashtra, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -590,8 +639,9 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Madurai",
-				"country":"IN"
+				"city": "Madurai, Tamil Nadu, India",
+				"country":"IN",
+				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g"
 			},
 			"geometry": {
 				"type": "Polygon",
