@@ -15,7 +15,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Delhi-NCR",
+				"city": "Delhi Metropolitan Area",
 				"country":"IN",
 				"PlaceID":"ChIJ4ZrhZpThDDkRbN7VX1brzkU"
 			},
