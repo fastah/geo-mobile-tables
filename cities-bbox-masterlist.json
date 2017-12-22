@@ -1014,6 +1014,20 @@
 				]
 			}
 		}
+,
+		{ "type": "Feature",
+			"properties": {
+				"city": "Manado City, North Sulawesi, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJXebM__mehzIR764dCXoiNwQ"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [124.6811831,1.6503871], [124.9333621,1.4299869]]
+				]
+			}
+		}
 	]
 }
 
