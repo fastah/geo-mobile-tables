@@ -649,6 +649,371 @@
 					[ [77.973,10.011], [78.23,9.842]]
 				]
 			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Singapore",
+				"country":"NA",
+				"PlaceID":"ChIJdZOLiiMR2jERxPWrUs9peIg"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [103.594,1.4784001], [104.0945001,1.1496]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Bogor, West Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJN4R5EuPDaS4RkLn-FG1XAQM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [106.4010851,-6.3022091], [107.2271119,-6.788518]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Depok, Depok City, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJn968KAjsaS4R8CQFFW1XAQM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [106.716747,-6.3144141], [106.918848,-6.461283]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Tangerang, Tangerang City, Banten, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJjePSU-j4aS4RwLn-FG1XAQM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [106.551456,-6.097141], [106.748612,-6.2562341]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Bekasi, Bekasi City, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJaU-WAGmMaS4RmGOJUVNJAA0"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [106.904228,-6.172131], [107.0425259,-6.396948]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Bandung, Bandung City, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJf0dSgjnmaC4RshXo05MfahQ"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [107.547601,-6.839278], [107.7387141,-6.9676209]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Cimahi, Central Cimahi, Cimahi City, West Java, Indonesia",
+				"country":"West Java",
+				"PlaceID":"ChIJF3a_jj7kaC4R4HQp_PHoAQU"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [107.5215981,-6.86634], [107.5606451,-6.906175]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Cirebon, West Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJ1cXbaQ8dby4RILoo_PHoAQM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [108.3235241,-6.516304], [108.839768,-7.006303]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Surakarta City, Central Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJ-56wXYUWei4R-aR18v3bwqY"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [110.769123,-7.523208], [110.868944,-7.59521]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Semarang, Central Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJzQZQckSCcC4RsLxS43Z6AgM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [110.251734,-7.078638], [110.661484,-7.496947]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Yogyakarta, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJxWtbvYdXei4RcU9o09Q_ciE"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [110.3446059,-7.7663509], [110.405084,-7.84015]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Surabaya City, East Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJa97yPPn71y0RVdo_1ZYmlTs"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [112.591545,-7.1915459], [112.846629,-7.356889]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Sidoarjo Regency, East Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJv9yOhKDh1y0R8L1S43Z6AgM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [112.4566879,-7.330211], [112.873983,-7.5796059]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Gresik Regency, East Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJUcpJDf77dy4R0L5S43Z6AgM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [112.366323,-5.713304], [112.776694,-7.409171]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Malang City, East Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJfwjwUj0o1i0ReqoAt0Wt6Zg"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [112.569099,-7.911282], [112.6947539,-8.051315]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Batu City, East Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJvfrjmQ9-eC4R2Kk4dNrC39c"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [112.4736419,-7.725119], [112.594705,-7.942272]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Banyuwangi Regency, East Java, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJ76wUlxZU0S0R4LxS43Z6AgM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [113.837441,-7.8846659], [114.6055719,-8.780561]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Bali, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJoQ8Q6NNB0S0RkOYkS7EPkSQ"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [114.431626,-8.0616818], [115.7115281,-8.849261]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Lombok, West Nusa Tenggara, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJRceMPtK3zS0RydhQq8SJZkQ"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [115.8210601,-8.2104221], [116.724935,-8.955809]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Bandar Lampung City, Lampung, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJH7Uhv8rbQC4RnsvzvyRjsNw"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [105.175532,-5.335307], [105.359419,-5.5218521]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Palembang City, South Sumatra, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJczwN5eZ1Oy4RsVBSbfeq5ks"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [104.6226999,-2.864375], [104.865734,-3.094524]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Medan City, North Sumatra, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJ-bZg7HIyMTARdOMdSIdObuc"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [98.592467,3.796456], [98.74652,3.488117]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Deli Serdang Regency, North Sumatra, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJVWb9PzBHMTAREMsgsoCdAwM"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [98.4651839,3.909507], [98.94902,3.05045]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Pekanbaru City, Riau, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJ72ZVVfSs1TERtMlXvGeleXA"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [101.3260619,0.6924209], [101.5928809,0.416975]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Batam City, Riau Islands, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJR2eJ_FW82TEReqaZhslBfoI"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [103.7484891,1.1996769], [104.357741,0.474655]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Pontianak, West Kalimantan, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJm3mwBPZYHS4R4__JH1D5HlE"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [109.2794662,0.0275153], [109.3836348,-0.098305]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Balikpapan City, East Kalimantan, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJ6UaYXkRJ8S0RAvB7QoqiudE"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [116.727761,-1.039488], [117.0224519,-1.282297]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Makassar City, South Sulawesi, Indonesia",
+				"country":"NA",
+				"PlaceID":"ChIJz1K5OpECvy0RPZHi201bG0E"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [119.262447,-5.005672], [119.5428081,-5.233519]]
+				]
+			}
 		}
 	]
 }
+
