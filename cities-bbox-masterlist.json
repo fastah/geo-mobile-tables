@@ -653,7 +653,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Singapore",
-				"country":"NA",
+				"country":"SG",
 				"PlaceID":"ChIJdZOLiiMR2jERxPWrUs9peIg"
 			},
 			"geometry": {
@@ -666,7 +666,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Bogor, West Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJN4R5EuPDaS4RkLn-FG1XAQM"
 			},
 			"geometry": {
@@ -744,7 +744,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Cirebon, West Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJ1cXbaQ8dby4RILoo_PHoAQM"
 			},
 			"geometry": {
@@ -757,7 +757,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Surakarta City, Central Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJ-56wXYUWei4R-aR18v3bwqY"
 			},
 			"geometry": {
@@ -770,7 +770,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Semarang, Central Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJzQZQckSCcC4RsLxS43Z6AgM"
 			},
 			"geometry": {
@@ -796,7 +796,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Surabaya City, East Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJa97yPPn71y0RVdo_1ZYmlTs"
 			},
 			"geometry": {
@@ -809,7 +809,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Sidoarjo Regency, East Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJv9yOhKDh1y0R8L1S43Z6AgM"
 			},
 			"geometry": {
@@ -822,7 +822,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Gresik Regency, East Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJUcpJDf77dy4R0L5S43Z6AgM"
 			},
 			"geometry": {
@@ -835,7 +835,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Malang City, East Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJfwjwUj0o1i0ReqoAt0Wt6Zg"
 			},
 			"geometry": {
@@ -848,7 +848,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Batu City, East Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJvfrjmQ9-eC4R2Kk4dNrC39c"
 			},
 			"geometry": {
@@ -861,7 +861,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Banyuwangi Regency, East Java, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJ76wUlxZU0S0R4LxS43Z6AgM"
 			},
 			"geometry": {
@@ -874,7 +874,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Bali, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJoQ8Q6NNB0S0RkOYkS7EPkSQ"
 			},
 			"geometry": {
@@ -887,7 +887,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Lombok, West Nusa Tenggara, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJRceMPtK3zS0RydhQq8SJZkQ"
 			},
 			"geometry": {
@@ -900,7 +900,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Bandar Lampung City, Lampung, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJH7Uhv8rbQC4RnsvzvyRjsNw"
 			},
 			"geometry": {
@@ -913,7 +913,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Palembang City, South Sumatra, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJczwN5eZ1Oy4RsVBSbfeq5ks"
 			},
 			"geometry": {
@@ -926,7 +926,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Medan City, North Sumatra, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJ-bZg7HIyMTARdOMdSIdObuc"
 			},
 			"geometry": {
@@ -939,7 +939,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Deli Serdang Regency, North Sumatra, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJVWb9PzBHMTAREMsgsoCdAwM"
 			},
 			"geometry": {
@@ -952,7 +952,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Pekanbaru City, Riau, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJ72ZVVfSs1TERtMlXvGeleXA"
 			},
 			"geometry": {
@@ -965,7 +965,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Batam City, Riau Islands, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJR2eJ_FW82TEReqaZhslBfoI"
 			},
 			"geometry": {
@@ -991,7 +991,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Balikpapan City, East Kalimantan, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJ6UaYXkRJ8S0RAvB7QoqiudE"
 			},
 			"geometry": {
@@ -1004,7 +1004,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Makassar City, South Sulawesi, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJz1K5OpECvy0RPZHi201bG0E"
 			},
 			"geometry": {
@@ -1018,7 +1018,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Manado City, North Sulawesi, Indonesia",
-				"country":"NA",
+				"country":"ID",
 				"PlaceID":"ChIJXebM__mehzIR764dCXoiNwQ"
 			},
 			"geometry": {
