@@ -731,7 +731,7 @@
 		{ "type": "Feature",
 			"properties": {
 				"city": "Cimahi, Central Cimahi, Cimahi City, West Java, Indonesia",
-				"country":"West Java",
+				"country":"ID",
 				"PlaceID":"ChIJF3a_jj7kaC4R4HQp_PHoAQU"
 			},
 			"geometry": {
