@@ -913,7 +913,8 @@
 			"properties": {
 				"city": "Bandar Lampung City, Lampung, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJH7Uhv8rbQC4RnsvzvyRjsNw"
+				"PlaceID":"ChIJH7Uhv8rbQC4RnsvzvyRjsNw",
+				"mobilenetworks":["Telkomsel", "Tri", "Indosat", "Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -926,7 +927,8 @@
 			"properties": {
 				"city": "Palembang City, South Sumatra, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJczwN5eZ1Oy4RsVBSbfeq5ks"
+				"PlaceID":"ChIJczwN5eZ1Oy4RsVBSbfeq5ks",
+				"mobilenetworks":["Telkomsel", "Tri", "Indosat"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -939,7 +941,8 @@
 			"properties": {
 				"city": "Medan City, North Sumatra, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJ-bZg7HIyMTARdOMdSIdObuc"
+				"PlaceID":"ChIJ-bZg7HIyMTARdOMdSIdObuc",
+				"mobilenetworks":["Telkomsel", "XL", "Tri"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -952,7 +955,8 @@
 			"properties": {
 				"city": "Deli Serdang Regency, North Sumatra, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJVWb9PzBHMTAREMsgsoCdAwM"
+				"PlaceID":"ChIJVWb9PzBHMTAREMsgsoCdAwM",
+				"mobilenetworks":["Telkomsel", "AXIS"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -965,7 +969,8 @@
 			"properties": {
 				"city": "Pekanbaru City, Riau, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJ72ZVVfSs1TERtMlXvGeleXA"
+				"PlaceID":"ChIJ72ZVVfSs1TERtMlXvGeleXA",
+				"mobilenetworks":["Telkomsel", "XL", "Tri"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -978,7 +983,8 @@
 			"properties": {
 				"city": "Batam City, Riau Islands, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJR2eJ_FW82TEReqaZhslBfoI"
+				"PlaceID":"ChIJR2eJ_FW82TEReqaZhslBfoI",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Indosat"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -991,7 +997,8 @@
 			"properties": {
 				"city": "Pontianak, West Kalimantan, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJm3mwBPZYHS4R4__JH1D5HlE"
+				"PlaceID":"ChIJm3mwBPZYHS4R4__JH1D5HlE",
+				"mobilenetworks":["Telkomsel", "Indosat", "XL"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1004,7 +1011,8 @@
 			"properties": {
 				"city": "Balikpapan City, East Kalimantan, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJ6UaYXkRJ8S0RAvB7QoqiudE"
+				"PlaceID":"ChIJ6UaYXkRJ8S0RAvB7QoqiudE",
+				"mobilenetworks":["Telkomsel", "Indosat"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1017,7 +1025,8 @@
 			"properties": {
 				"city": "Makassar City, South Sulawesi, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJz1K5OpECvy0RPZHi201bG0E"
+				"PlaceID":"ChIJz1K5OpECvy0RPZHi201bG0E",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL", "Indosat"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1025,18 +1034,32 @@
 					[ [119.262447,-5.005672], [119.5428081,-5.233519]]
 				]
 			}
-		}
-,
+		},
 		{ "type": "Feature",
 			"properties": {
 				"city": "Manado City, North Sulawesi, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJXebM__mehzIR764dCXoiNwQ"
+				"PlaceID":"ChIJXebM__mehzIR764dCXoiNwQ",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL"]
 			},
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [
 					[ [124.6811831,1.6503871], [124.9333621,1.4299869]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Kuala Lumpur, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJ5-rvAcdJzDERfSgcL1uO2fQ",
+				"mobilenetworks":["Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [101.40244,3.24815], [102.04788,2.90532]]
 				]
 			}
 		}
