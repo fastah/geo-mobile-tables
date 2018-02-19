@@ -146,7 +146,6 @@
 				"country":"IN",
 				"PlaceID":"ChIJARFGZy6_wjsRQ-Oenb9DjYI",
 				"mobilenetworks":["Idea", "Jio", "Vodafone"]
-
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -159,7 +158,8 @@
 			"properties": {
 				"city": "Nagpur, Maharashtra, India",
 				"country":"IN",
-				"PlaceID":"ChIJE68fo6XA1DsRKz670AZ9sxk"
+				"PlaceID":"ChIJE68fo6XA1DsRKz670AZ9sxk",
+				"mobilenetworks":["Idea", "Jio", "Vodafone"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -172,7 +172,8 @@
 			"properties": {
 				"city": "Mangalore, Karnataka, India",
 				"country":"IN",
-				"PlaceID":"ChIJj0i_N0xaozsRZP78dHq8e4I"
+				"PlaceID":"ChIJj0i_N0xaozsRZP78dHq8e4I",
+				"mobilenetworks":["Idea", "Airtel", "Jio"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -185,7 +186,8 @@
 			"properties": {
 				"city": "Thiruvananthapuram, Kerala, India",
 				"country":"IN",
-				"PlaceID":"ChIJR827Bbi7BTsRy4FcXKufQxU"
+				"PlaceID":"ChIJR827Bbi7BTsRy4FcXKufQxU",
+				"mobilenetworks":["Aircel"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -198,7 +200,8 @@
 			"properties": {
 				"city": "Kozhikode, Kerala, India",
 				"country":"IN",
-				"PlaceID":"ChIJR0c9VjhZpjsRq-wyykEGFTI"
+				"PlaceID":"ChIJR0c9VjhZpjsRq-wyykEGFTI",
+				"mobilenetworks":["Vodafone"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -211,7 +214,8 @@
 			"properties": {
 				"city": "Ahmedabad, Gujarat, India",
 				"country":"IN",
-				"PlaceID":"ChIJSdRbuoqEXjkRFmVPYRHdzk8"
+				"PlaceID":"ChIJSdRbuoqEXjkRFmVPYRHdzk8",
+				"mobilenetworks":["Jio", "Airtel"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -224,7 +228,8 @@
 			"properties": {
 				"city": "Surat, Gujarat, India",
 				"country":"IN",
-				"PlaceID":"ChIJYxUdQVlO4DsRQrA4CSlYRf4"
+				"PlaceID":"ChIJYxUdQVlO4DsRQrA4CSlYRf4",
+				"mobilenetworks":["Jio", "Idea"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -237,7 +242,8 @@
 			"properties": {
 				"city": "Puducherry, India",
 				"country":"IN",
-				"PlaceID":"ChIJz89JjqthUzoRTrDw0ibTa8w"
+				"PlaceID":"ChIJz89JjqthUzoRTrDw0ibTa8w",
+				"mobilenetworks":["Jio", "Airtel"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -250,7 +256,8 @@
 			"properties": {
 				"city": "Jaipur, Rajasthan, India",
 				"country":"IN",
-				"PlaceID":"ChIJgeJXTN9KbDkRCS7yDDrG4Qw"
+				"PlaceID":"ChIJgeJXTN9KbDkRCS7yDDrG4Qw",
+				"mobilenetworks":["Jio", "Airtel", "Vodafone", "Idea"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -263,7 +270,8 @@
 			"properties": {
 				"city": "Varanasi, Uttar Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJTc_rb7ctjjkRtfA_hRAXE2g"
+				"PlaceID":"ChIJTc_rb7ctjjkRtfA_hRAXE2g",
+				"mobilenetworks":["Vodafone", "Tata Docomo"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -274,9 +282,10 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Panaji, Goa, India",
+				"city": "Goa, India",
 				"country":"IN",
-				"PlaceID":"ChIJ2cxhM6nAvzsRYb7lJAsSmN0"
+				"PlaceID":"ChIJQbc2YxC6vzsRkkDzYv-H-Oo",
+				"mobilenetworks":["Jio"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -872,14 +881,14 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Banyuwangi Regency, East Java, Indonesia",
+				"city": "Banyuwangi, Banyuwangi Regency, East Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJ76wUlxZU0S0R4LxS43Z6AgM"
+				"PlaceID":"ChIJq0L4mOta0S0RkApT43Z6AgQ"
 			},
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [
-					[ [113.837441,-7.8846659], [114.6055719,-8.780561]]
+					[ [114.34,-8.177], [114.39,-8.243]]
 				]
 			}
 		},
@@ -1059,7 +1068,7 @@
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [
-					[ [101.40244,3.24815], [102.04788,2.90532]]
+					[ [101.61530,3.24815], [101.756,3.0411]]
 				]
 			}
 		}
