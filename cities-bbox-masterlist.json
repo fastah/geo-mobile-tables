@@ -894,14 +894,14 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Bali, Indonesia",
+				"city": "Denpasar City, Bali, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJoQ8Q6NNB0S0RkOYkS7EPkSQ"
+				"PlaceID":"ChIJIS3zf-1A0i0R7rQDrcUDeLw"
 			},
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [
-					[ [114.431626,-8.0616818], [115.7115281,-8.849261]]
+					[ [115.16,-8.59], [115.274,-8.755]]
 				]
 			}
 		},
