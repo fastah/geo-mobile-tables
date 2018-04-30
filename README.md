@@ -1,4 +1,4 @@
-[![License: CC BY-SA 4.0](LICENSE.md)]
+![License: CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 # geo-mobile-tables
 Metadata about mobile networks (carriers/operators) around the world, including geographical co-ordinates, MCC-MNC pairs and such. 
