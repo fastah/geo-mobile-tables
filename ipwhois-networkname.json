@@ -9,53 +9,36 @@
   },
   "AU": {
    "@optus.net.au": "Optus",
-   "5053": "Vodafone"
   },
   "BD": {
-   "47001": "datacoreplanning@grameenphone.com",
-   "47002": "hostmaster@robi.com.bd",
-   "47003": "psplanning@banglalinkgsm.com",
-   "4701": "datacoreplanning@grameenphone.com"
+   "@grameenphone.com": "Grameenphone",
+   "@robi.com.bd": "Robi",
+   "@banglalinkgsm.com": "Banglalink",
   },
   "BH": {
-   "42601": "hussain@batelco.com.bh",
-   "4261": "hussain@batelco.com.bh",
-   "4262": "bb_isp@bh.zain.com",
-   "4264": "hselem@viva.com.bh"
-  },
-  "CZ": {
-   "51010": "zdenek@superhosting.cz"
-  },
-  "FJ": {
-   "5421": "Vodafone"
+   "@batelco.com.bh": "Pronto",
+   "@bh.zain.com": "Zain",
+   "@viva.com.bh": "Viva"
   },
   "GB": {
-   "20820": "kadams@lycatel.com",
-   "23420": "ripeadmin@three.co.uk",
-   "405852": "noc@fb.com",
-   "405867": "noc@fb.com",
-   "405868": "noc@fb.com",
-   "4203": "mostager.elfar@sa.zain.com",
-   "4204": "mostager.elfar@sa.zain.com",
-   "5101": "noc@fb.com",
-   "51010": "abuse@digitalocean.com"
+   "@lycatel.com": "Lycatel",
+   "@three.co.uk": "Three",
+   "@sa.zain.com": "Zain",
   },
   "HR": {
-   "2191": "damir.slavicek@t.ht.hr mario.ravnjak@t.ht.hr"
+   "@t.ht.hr": "Hrvatski Telekom"
   },
   "ID": {
    "51001": "Indosat",
-   "51009": "kunto@smartfren.com",
+   "@smartfren.com": "Smartfren",
    "5101": "Indosat",
    "51010": "Telkomsel",
    "51011": "XL",
-   "51028": "kunto@smartfren.com",
    "51088": "Bolt (Internux)",
    "51089": "Tri",
-   "5109": "kunto@smartfren.com"
   },
   "IL": {
-   "4253": "hostmaster@pelephone.co.il"
+   "@pelephone.co.il": "Pelephone"
   },
   "IN": {
    "1268101": "Idea",
@@ -192,45 +175,32 @@
    "405929": "Tata DoCoMo"
   },
   "KH": {
-   "4566": "it.net@smart.com.kh"
+   "@smart.com.kh": "Smart"
   },
   "KW": {
-   "41902": "abuse@kw.zain.com",
-   "41903": "ripe-ooredookuwait@ooredoo.com.kw",
-   "41904": "core_network@viva.com.kw",
-   "4192": "abuse@kw.zain.com",
-   "4193": "ripe-ooredookuwait@ooredoo.com.kw",
-   "4194": "core_network@viva.com.kw"
+   "@kw.zain.com": "Zain",
+   "@ooredoo.com.kw": "Ooredoo",
+   "@viva.com.kw": "Viva",
   },
   "LK": {
-   "4132": "ip.noc@dialog.lk abuse-noc@dialog.lk"
+   "@dialog.lk": "Dialog"
   },
   "MM": {
    "4146": "Telenor"
   },
   "MU": {
-   "61710": "yanesh.goburdhone@emtelnet.com"
+   "@emtelnet.com": "Emtelnet"
   },
   "MY": {
-   "50211": "abuse.p1@packet-1.com",
+   "@packet-1.com": "P1",
    "50212": "Maxis",
-   "502153": "abuse.p1@packet-1.com",
-   "50216": "chsoo@digi.com.my",
+   "@digi.com.my": "Digi",
    "50218": "U Mobile",
    "50219": "Celcom"
   },
-  "NL": {
-   "5101": "abuse@digitalocean.com",
-   "51010": "abuse@digitalocean.com"
-  },
-  "NO": {
-   "4193": "abuse@opera.com"
-  },
   "OM": {
-   "42202": "salim@omantel.om",
-   "42203": "kamalnath.singh@nawras.om",
-   "4222": "kamalnath.singh@nawras.om",
-   "4223": "kamalnath.singh@nawras.om"
+   "@omantel.om": "Omantel",
+   "@nawras.om": "Ooredoo"
   },
   "PH": {
    "51502": "Globe Philippines",
@@ -240,31 +210,22 @@
   },
   "QA": {
    "42702": "Vodafone",
-   "4271": "abuse@qatar.net.qa",
    "4272": "Vodafone"
   },
   "SA": {
-   "42001": "registry@stc.com.sa",
-   "42003": "ripe-admin@mobily.com.sa",
-   "4201": "registry@stc.com.sa",
-   "4203": "ripe-admin@mobily.com.sa",
-   "4204": "mostager.elfar@sa.zain.com"
+   "@stc.com.sa": "STC",
+   "@mobily.com.sa": "Mobily",
+   "@sa.zain.com": "Zain"
   },
   "SG": {
-   "5101": "abuse@digitalocean.com",
-   "51010": "abuse@digitalocean.com",
    "5251": "Singnet",
    "5253": "M1",
-   "5255": "ipnoc@starhub.com"
   },
   "SN": {
-   "6081": "ada.coundoul@orange-sonatel.com"
-  },
-  "US": {
-   "5109": "abuse@us.leaseweb.com"
+   "@orange-sonatel.com": "Orange"
   },
   "ZA": {
-   "65501": "jacques.hendricks@vodacom.co.za"
+   "@vodacom.co.za": "Vodacom"
   },
   "ZM": {
    "6451": "Airtel"
@@ -275,7 +236,7 @@
             return "Reliance Communications"
         if item.find("vodafone") != -1 :
             return "Vodafone"
-        if item.find("ril.com") != -1 :
+        if item.find("@ril.com") != -1 :
             return "Jio"
         if item.find("aircel") != -1 :
             return "Aircel"
@@ -293,46 +254,46 @@
             return "RailTel India"
         if item.find("mtsindia") != -1 :
             return "MTS India"
-        if item.find("bol.net.in") != -1 :
+        if item.find("@bol.net.in") != -1 :
             return "MTNL"
         if item.find("hathway") != -1 :
             return "Hathway"
-        if item.find("telkomsel.co.id") != -1 or item.find("telkom.net.id") != -1 :
+        if item.find("@telkomsel.co.id") != -1 or item.find("@telkom.net.id") != -1 :
             return "Telkomsel"
-        if item.find("xl.co.id") != -1 :
+        if item.find("@xl.co.id") != -1 :
             return "XL"
-        if item.find("tri.co.id") != -1 or item.find("three.co.id") != -1 :
+        if item.find("@tri.co.id") != -1 or item.find("@three.co.id") != -1 :
             return "Tri"
-        if item.find("telkom.co.id") != -1 :
+        if item.find("@telkom.co.id") != -1 :
             return "Telkom"
-        if item.find("access.net.id") != -1 :
+        if item.find("@access.net.id") != -1 :
             return "Smartfren"
-        if item.find("indosat.co.id") != -1 or item.find("indosatooredoo.com") != -1  :
+        if item.find("@indosat.co.id") != -1 or item.find("@indosatooredoo.com") != -1  :
             return "Indosat"
-        if item.find("internux.co.id") != -1 :
+        if item.find("@internux.co.id") != -1 :
             return "Bolt (Internux)"
-        if item.find("axisworld.co.id") != -1 :
+        if item.find("@axisworld.co.id") != -1 :
             return "AXIS"
-        if item.find("smart.com.ph") != -1 or item.find("pldt.com.ph") != -1  :
+        if item.find("@smart.com.ph") != -1 or item.find("@pldt.com.ph") != -1  :
             return "Smart (PLDT)"
-        if item.find("viettel.com.vn") != -1 :
+        if item.find("@viettel.com.vn") != -1 :
             return "Viettel"
-        if item.find("vnpt.vn") != -1 :
+        if item.find("@vnpt.vn") != -1 :
             return "VNPT"
-        if item.find("mobifone.vn") != -1 :
+        if item.find("@mobifone.vn") != -1 :
             return "Mobifone"
-        if item.find("globe.com.ph") != -1 :
+        if item.find("@globe.com.ph") != -1 :
             return "Globe Philippines"
-        if item.find("maxis.com.my") != -1 :
+        if item.find("@maxis.com.my") != -1 :
             return "Maxis"
-        if item.find("u.com.my") != -1 :
+        if item.find("@u.com.my") != -1 :
             return "U Mobile"
-        if item.find("celcom.com.my") != -1 :
+        if item.find("@celcom.com.my") != -1 :
             return "Celcom"
-        if item.find("m1.com.sg") != -1 :
+        if item.find("@m1.com.sg") != -1 :
             return "M1"
-        if item.find("singnet.com.sg") != -1 :
+        if item.find("@singnet.com.sg") != -1 :
             return "Singnet"
-        if item.find("ais.co.th") != -1 :
+        if item.find("@ais.co.th") != -1 :
             return "AIS"
  }
