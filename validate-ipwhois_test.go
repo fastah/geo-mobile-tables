@@ -8,7 +8,7 @@ import (
 	"testing"
 )
 
-func TestCitiesJsonFormat(t *testing.T) {
+func TestIPWhoisFormat(t *testing.T) {
 
 	var ruleBook map[string]map[string]string
 
