@@ -4,7 +4,6 @@ package main
 
 import (
 	"io/ioutil"
-	"net/http"
 	"testing"
 
 	"github.com/paulmach/orb/geojson"
@@ -12,15 +11,7 @@ import (
 
 func TestCitiesJsonFormat(t *testing.T) {
 
-	inputUrl := "https://raw.githubusercontent.com/fastah/geo-mobile-tables/master/cities-bbox-masterlist.json"
-	// fetch and parse master geojson
-	resp, err := http.Get(inputUrl)
-	if err != nil {
-		t.Errorf("Problem fetching GeoJSON file %v (url = %s)\n", err, inputUrl)
-	}
-	defer resp.Body.Close()
-
-	raw, err := ioutil.ReadAll(resp.Body)
+	raw, err := ioutil.ReadFile("cities-bbox-masterlist.json")
 	if err != nil {
 		t.Errorf("HTTP body read error with GeoJSON document: %v\n", err)
 	}
