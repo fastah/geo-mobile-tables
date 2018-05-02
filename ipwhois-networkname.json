@@ -29,150 +29,40 @@
    "@t.ht.hr": "Hrvatski Telekom"
   },
   "ID": {
-   "51001": "Indosat",
+   "@indosat.co.id": "Indosat",
    "@smartfren.com": "Smartfren",
-   "5101": "Indosat",
-   "51010": "Telkomsel",
-   "51011": "XL",
-   "51088": "Bolt (Internux)",
-   "51089": "Tri",
+   "@access.net.id":"Smartfren",
+   "@indosatooredoo.com": "Indosat",
+   "@telkomsel.co.id": "Telkomsel",
+   "@telkom.net.id": "Telkomsel",
+   "@telkom.co.id": "Telkom Indonesia",
+   "@xl.co.id": "XL",
+   "@internux.co.id": "Bolt (Internux)",
+   "@tri.co.id": "Tri",
+   "@three.co.id": "Tri",
+   "@axisworld.co.id":"AXIS"
   },
   "IL": {
    "@pelephone.co.il": "Pelephone"
   },
   "IN": {
-   "1268101": "Idea",
-   "126834": "Airtel",
-   "126969": "Tata DoCoMo",
-   "20020": "Vodafone",
-   "310260": "Airtel",
-   "40401": "Vodafone",
-   "40402": "Airtel",
-   "40403": "Airtel",
-   "40404": "Idea",
-   "40405": "Vodafone",
-   "40407": "Idea",
-   "4041": "Vodafone",
-   "40410": "Airtel",
-   "40411": "Vodafone",
-   "40412": "Idea",
-   "40413": "Jio",
-   "40414": "Idea",
-   "40415": "Vodafone",
-   "40416": "Airtel",
-   "40419": "Idea",
-   "4042": "Airtel",
-   "40420": "Vodafone",
-   "40422": "Idea",
-   "40424": "Idea",
-   "40427": "Vodafone",
-   "4043": "Airtel",
-   "40430": "Vodafone",
-   "40431": "Airtel",
-   "40434": "BSNL",
-   "40438": "BSNL",
-   "4044": "Idea",
-   "40440": "Airtel",
-   "40442": "Airtel",
-   "40443": "Vodafone",
-   "40444": "Idea",
-   "40445": "Airtel",
-   "40446": "Vodafone",
-   "40449": "Airtel",
-   "4045": "Vodafone",
-   "40451": "BSNL",
-   "40453": "BSNL",
-   "40454": "BSNL",
-   "40455": "BSNL",
-   "40456": "Idea",
-   "40457": "BSNL",
-   "40458": "BSNL",
-   "40459": "BSNL",
-   "40460": "Vodafone",
-   "40462": "BSNL",
-   "40464": "BSNL",
-   "40466": "BSNL",
-   "40468": "Jio",
-   "40469": "BSNL",
-   "4047": "Idea",
-   "40470": "Airtel",
-   "40471": "BSNL",
-   "40472": "BSNL",
-   "40473": "BSNL",
-   "40474": "BSNL",
-   "40475": "BSNL",
-   "40476": "BSNL",
-   "40477": "BSNL",
-   "40478": "Idea",
-   "40480": "BSNL",
-   "40481": "Vodafone",
-   "40482": "Idea",
-   "40484": "Vodafone",
-   "40486": "Vodafone",
-   "40487": "Idea",
-   "40488": "Vodafone",
-   "40489": "Idea",
-   "40490": "Airtel",
-   "40492": "Airtel",
-   "40493": "Airtel",
-   "40494": "Airtel",
-   "40495": "Airtel",
-   "40496": "Airtel",
-   "40497": "Airtel",
-   "40498": "Airtel",
-   "40534": "Tata DoCoMo",
-   "40537": "Tata DoCoMo",
-   "40551": "Airtel",
-   "40552": "Airtel",
-   "40553": "Airtel",
-   "40554": "Airtel",
-   "40555": "Airtel",
-   "40556": "Airtel",
-   "40566": "Vodafone",
-   "40567": "Vodafone",
-   "40570": "Idea",
-   "405751": "Vodafone",
-   "405752": "Jio",
-   "405753": "Vodafone",
-   "405754": "Vodafone",
-   "405755": "Vodafone",
-   "405756": "Jio",
-   "405799": "Idea",
-   "405818": "Jio",
-   "405819": "Jio",
-   "405840": "Jio",
-   "405845": "Idea",
-   "405846": "Idea",
-   "405848": "Idea",
-   "405849": "Jio",
-   "405850": "Idea",
-   "405852": "Idea",
-   "405853": "Idea",
-   "405854": "Jio",
-   "405855": "Jio",
-   "405856": "Jio",
-   "405857": "Jio",
-   "405858": "Jio",
-   "405859": "Jio",
-   "405860": "Jio",
-   "405861": "Jio",
-   "405862": "Jio",
-   "405863": "Jio",
-   "405864": "Jio",
-   "405865": "Jio",
-   "405866": "Jio",
-   "405867": "Jio",
-   "405868": "Jio",
-   "405869": "Jio",
-   "405870": "Jio",
-   "405871": "Jio",
-   "405872": "Jio",
-   "405873": "Jio",
-   "405874": "Jio",
-   "405876": "Jio",
-   "405879": "Jio",
-   "405927": "Vodafone",
-   "405929": "Tata DoCoMo"
+   "bsnl": "BSNL",
+   "bhooma.sri62@gmail.com": "BSNL",
+   "sdenodalgprs@gmail.com": "BSNL",
+   "airtel": "Airtel",
+   "reliance": "Reliance Communications",
+   "vodafone": "Vodafone",
+   "@ril.com": "Jio",
+   "aircel": "Aircel",
+   "idea" : "Idea",
+   "tata": "Tata DoCoMo",
+   "telenor": "Telenor",
+   "acttv": "ACT Internet",
+   "actcorp": "ACT Internet",
+   "railtelindia": "RailTel India",
+   "mtsindia": "MTS India",
+   "mtnl": "MTNL India",
+   "hathway": "Hathway"
   },
   "KH": {
    "@smart.com.kh": "Smart"
@@ -186,31 +76,29 @@
    "@dialog.lk": "Dialog"
   },
   "MM": {
-   "4146": "Telenor"
+   "telenor": "Telenor"
   },
   "MU": {
    "@emtelnet.com": "Emtelnet"
   },
   "MY": {
    "@packet-1.com": "P1",
-   "50212": "Maxis",
+   "@maxis.com.my": "Maxis",
    "@digi.com.my": "Digi",
-   "50218": "U Mobile",
-   "50219": "Celcom"
+   "@u.com.my": "U Mobile",
+   "@celcom.com.my": "Celcom"
   },
   "OM": {
    "@omantel.om": "Omantel",
    "@nawras.om": "Ooredoo"
   },
   "PH": {
-   "51502": "Globe Philippines",
-   "51503": "Smart (PLDT)",
-   "5152": "Globe Philippines",
-   "5153": "Smart (PLDT)"
+   "@globe.com.ph": "Globe Philippines",
+   "@pldt.com.ph": "Smart",
+   "@smart.com.ph": "Smart"
   },
   "QA": {
-   "42702": "Vodafone",
-   "4272": "Vodafone"
+   "vodafone": "Vodafone"
   },
   "SA": {
    "@stc.com.sa": "STC",
@@ -218,82 +106,25 @@
    "@sa.zain.com": "Zain"
   },
   "SG": {
-   "5251": "Singnet",
-   "5253": "M1",
+   "@singnet.com.sg": "Singnet",
+   "@m1.com.sg": "M1",
   },
   "SN": {
    "@orange-sonatel.com": "Orange"
   },
+  "TH": {
+   "@ais.co.th": "AIS"
+  },
   "ZA": {
    "@vodacom.co.za": "Vodacom"
   },
+  "VN": {
+   "@mobifone.vn": "Mobifone",
+   "@vnpt.vn": "VNPT",
+   "@viettel.com.vn": "Viettel"
+  },
   "ZM": {
-   "6451": "Airtel"
+   "airtel": "Airtel"
   }
-    if item.find("airtel") != -1 :
-            return "Airtel"
-        if item.find("reliance") != -1 :
-            return "Reliance Communications"
-        if item.find("vodafone") != -1 :
-            return "Vodafone"
-        if item.find("@ril.com") != -1 :
-            return "Jio"
-        if item.find("aircel") != -1 :
-            return "Aircel"
-        if item.find("bsnl") != -1 or item.find("bhooma.sri62@gmail.com") != -1 or item.find("sdenodalgprs@gmail.com") != -1 :
-            return "BSNL"
-        if item.find("idea") != -1 :
-            return "Idea"
-        if item.find("tata") != -1 :
-            return "Tata DoCoMo"
-        if item.find("telenor") != -1 :
-            return "Telenor"
-        if item.find("acttv") != -1 or item.find("actcorp") != -1 :
-            return "ACT Internet"
-        if item.find("railtelindia") != -1 :
-            return "RailTel India"
-        if item.find("mtsindia") != -1 :
-            return "MTS India"
-        if item.find("@bol.net.in") != -1 :
-            return "MTNL"
-        if item.find("hathway") != -1 :
-            return "Hathway"
-        if item.find("@telkomsel.co.id") != -1 or item.find("@telkom.net.id") != -1 :
-            return "Telkomsel"
-        if item.find("@xl.co.id") != -1 :
-            return "XL"
-        if item.find("@tri.co.id") != -1 or item.find("@three.co.id") != -1 :
-            return "Tri"
-        if item.find("@telkom.co.id") != -1 :
-            return "Telkom"
-        if item.find("@access.net.id") != -1 :
-            return "Smartfren"
-        if item.find("@indosat.co.id") != -1 or item.find("@indosatooredoo.com") != -1  :
-            return "Indosat"
-        if item.find("@internux.co.id") != -1 :
-            return "Bolt (Internux)"
-        if item.find("@axisworld.co.id") != -1 :
-            return "AXIS"
-        if item.find("@smart.com.ph") != -1 or item.find("@pldt.com.ph") != -1  :
-            return "Smart (PLDT)"
-        if item.find("@viettel.com.vn") != -1 :
-            return "Viettel"
-        if item.find("@vnpt.vn") != -1 :
-            return "VNPT"
-        if item.find("@mobifone.vn") != -1 :
-            return "Mobifone"
-        if item.find("@globe.com.ph") != -1 :
-            return "Globe Philippines"
-        if item.find("@maxis.com.my") != -1 :
-            return "Maxis"
-        if item.find("@u.com.my") != -1 :
-            return "U Mobile"
-        if item.find("@celcom.com.my") != -1 :
-            return "Celcom"
-        if item.find("@m1.com.sg") != -1 :
-            return "M1"
-        if item.find("@singnet.com.sg") != -1 :
-            return "Singnet"
-        if item.find("@ais.co.th") != -1 :
-            return "AIS"
+    
  }
