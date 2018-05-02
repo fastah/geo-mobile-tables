@@ -32,6 +32,6 @@ func TestIPWhoisFormat(t *testing.T) {
 	}
 
 	for country, countryRules := range ruleBook {
-		t.Fatalf("Observing country %s -> %v\n", country, countryRules)
+		t.Logf("Observing country %s -> %v\n", country, countryRules)
 	}
 }

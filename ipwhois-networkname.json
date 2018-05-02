@@ -8,12 +8,12 @@
    "@etisalat.af": "Etisalat"
   },
   "AU": {
-   "@optus.net.au": "Optus",
+   "@optus.net.au": "Optus"
   },
   "BD": {
    "@grameenphone.com": "Grameenphone",
    "@robi.com.bd": "Robi",
-   "@banglalinkgsm.com": "Banglalink",
+   "@banglalinkgsm.com": "Banglalink"
   },
   "BH": {
    "@batelco.com.bh": "Pronto",
@@ -23,7 +23,7 @@
   "GB": {
    "@lycatel.com": "Lycatel",
    "@three.co.uk": "Three",
-   "@sa.zain.com": "Zain",
+   "@sa.zain.com": "Zain"
   },
   "HR": {
    "@t.ht.hr": "Hrvatski Telekom"
@@ -70,7 +70,7 @@
   "KW": {
    "@kw.zain.com": "Zain",
    "@ooredoo.com.kw": "Ooredoo",
-   "@viva.com.kw": "Viva",
+   "@viva.com.kw": "Viva"
   },
   "LK": {
    "@dialog.lk": "Dialog"
@@ -107,7 +107,7 @@
   },
   "SG": {
    "@singnet.com.sg": "Singnet",
-   "@m1.com.sg": "M1",
+   "@m1.com.sg": "M1"
   },
   "SN": {
    "@orange-sonatel.com": "Orange"
