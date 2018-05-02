@@ -8,11 +8,11 @@ import (
 	"testing"
 )
 
-func TestIPWhoisFormat(t *testing.T) {
+func TestMCCMNCFormat(t *testing.T) {
 
 	var ruleBook map[string]map[string]string
 
-	filename := "ipwhois-networkname.json"
+	filename := "country-mccmnc-provider.json"
 	raw, err := ioutil.ReadFile(filename)
 	if err != nil {
 		t.Errorf("Read error with JSON document: %v\n", err)
