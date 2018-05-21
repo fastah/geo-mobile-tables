@@ -896,7 +896,8 @@
 			"properties": {
 				"city": "Denpasar City, Bali, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJIS3zf-1A0i0R7rQDrcUDeLw"
+				"PlaceID":"ChIJIS3zf-1A0i0R7rQDrcUDeLw",
+				"mobilenetworks":["Telkomsel", "Indosat", "XL", "Tri"]
 			},
 			"geometry": {
 				"type": "Polygon",
