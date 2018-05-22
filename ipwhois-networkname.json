@@ -41,6 +41,10 @@
    "@tri.co.id": "Tri",
    "@three.co.id": "Tri",
    "@axisworld.co.id":"AXIS"
+   "@cbn.net.id" : "CBN"
+   "@top.net.id" : "CBN" 
+   "@myrepublic.net.id" : "MyRepubic"
+   "@linknet.co.id" : "LinkNet"
   },
   "IL": {
    "@pelephone.co.il": "Pelephone"
@@ -67,6 +71,9 @@
   "KH": {
    "@smart.com.kh": "Smart"
   },
+  "KR": {
+  "@orange.sk" : "Orange"
+  },
   "KW": {
    "@kw.zain.com": "Zain",
    "@ooredoo.com.kw": "Ooredoo",
@@ -77,6 +84,10 @@
   },
   "MM": {
    "telenor": "Telenor"
+   "@packet-1.com" : "P1"
+   "@kddi.com" : "MPT"
+   "@mptmail.net.mm" : "MPT"
+   "@ooredoo.com.mm" : "Ooredoo"
   },
   "MU": {
    "@emtelnet.com": "Emtelnet"
@@ -87,6 +98,11 @@
    "@digi.com.my": "Digi",
    "@u.com.my": "U Mobile",
    "@celcom.com.my": "Celcom"
+   "@tm.com.my": "TM" 
+   "@maxis.net.my" : "Maxis"
+  },
+  "NP": {
+  "@ntc.net.np" : "Nepal Telecom"
   },
   "OM": {
    "@omantel.om": "Omantel",
