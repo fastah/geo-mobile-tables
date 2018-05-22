@@ -40,10 +40,10 @@
    "@internux.co.id": "Bolt (Internux)",
    "@tri.co.id": "Tri",
    "@three.co.id": "Tri",
-   "@axisworld.co.id":"AXIS"
-   "@cbn.net.id" : "CBN"
-   "@top.net.id" : "CBN" 
-   "@myrepublic.net.id" : "MyRepubic"
+   "@axisworld.co.id":"AXIS",
+   "@cbn.net.id" : "CBN",
+   "@top.net.id" : "CBN" ,
+   "@myrepublic.net.id" : "MyRepubic",
    "@linknet.co.id" : "LinkNet"
   },
   "IL": {
@@ -83,10 +83,10 @@
    "@dialog.lk": "Dialog"
   },
   "MM": {
-   "telenor": "Telenor"
-   "@packet-1.com" : "P1"
-   "@kddi.com" : "MPT"
-   "@mptmail.net.mm" : "MPT"
+   "telenor": "Telenor",
+   "@packet-1.com" : "P1",
+   "@kddi.com" : "MPT",
+   "@mptmail.net.mm" : "MPT",
    "@ooredoo.com.mm" : "Ooredoo"
   },
   "MU": {
@@ -97,12 +97,14 @@
    "@maxis.com.my": "Maxis",
    "@digi.com.my": "Digi",
    "@u.com.my": "U Mobile",
-   "@celcom.com.my": "Celcom"
-   "@tm.com.my": "TM" 
+   "@celcom.com.my": "Celcom",
+   "@tm.com.my": "TM",
    "@maxis.net.my" : "Maxis"
   },
   "NP": {
-  "@ntc.net.np" : "Nepal Telecom"
+  "@ntc.net.np" : "Nepal Telecom",
+  "@ncell.axiata.com" : "Ncell",
+    "@ncell.com.np" : "Ncell"
   },
   "OM": {
    "@omantel.om": "Omantel",
