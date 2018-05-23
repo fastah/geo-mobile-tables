@@ -675,7 +675,8 @@
 			"properties": {
 				"city": "Singapore",
 				"country":"SG",
-				"PlaceID":"ChIJdZOLiiMR2jERxPWrUs9peIg"
+				"PlaceID":"ChIJdZOLiiMR2jERxPWrUs9peIg",
+				"mobilenetworks":["Singnet", "M1", "Starhub"]
 			},
 			"geometry": {
 				"type": "Polygon",
