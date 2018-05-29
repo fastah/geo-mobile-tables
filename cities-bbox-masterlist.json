@@ -145,7 +145,7 @@
 				"city": "Pune, Maharashtra, India",
 				"country":"IN",
 				"PlaceID":"ChIJARFGZy6_wjsRQ-Oenb9DjYI",
-				"mobilenetworks":["Idea", "Jio", "Vodafone"]
+				"mobilenetworks":["Idea", "Jio", "Vodafone", "Airtel"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -159,7 +159,7 @@
 				"city": "Nagpur, Maharashtra, India",
 				"country":"IN",
 				"PlaceID":"ChIJE68fo6XA1DsRKz670AZ9sxk",
-				"mobilenetworks":["Idea", "Jio", "Vodafone"]
+				"mobilenetworks":["Idea", "Jio", "Vodafone", "Airtel"]
 			},
 			"geometry": {
 				"type": "Polygon",
