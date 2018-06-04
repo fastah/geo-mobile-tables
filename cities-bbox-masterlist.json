@@ -5,7 +5,7 @@
 				"city": "Bengaluru, Karnataka, India",
 				"country":"IN",
 				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g",
-				"mobilenetworks":["Airtel", "Jio", "Vodafone"],
+				"mobilenetworks":["Airtel", "Jio", "Vodafone","Idea","Aircel"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
@@ -20,7 +20,8 @@
 				"city": "Delhi Metropolitan Area",
 				"country":"IN",
 				"PlaceID":"ChIJ4ZrhZpThDDkRbN7VX1brzkU",
-				"mobilenetworks":["Airtel", "Jio", "Vodafone"]
+				"mobilenetworks":["Airtel", "Jio", "Vodafone"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -34,7 +35,8 @@
 				"city": "Chennai, Tamil Nadu, India",
 				"country":"IN",
 				"PlaceID":"ChIJYTN9T-plUjoRM9RjaAunYW4",
-				"mobilenetworks":["Airtel", "Jio", "Vodafone"]
+				"mobilenetworks":["Airtel", "Jio", "Vodafone","Aircel","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -48,7 +50,8 @@
 				"city": "Mumbai, Maharashtra, India",
 				"country":"IN",
 				"PlaceID":"ChIJwe1EZjDG5zsRaYxkjY_tpF0",
-				"mobilenetworks":["Vodafone", "Jio", "Airtel"]
+				"mobilenetworks":["Vodafone", "Jio", "Airtel","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -62,7 +65,8 @@
 				"city": "Hyderabad, Telangana, India",
 				"country":"IN",
 				"PlaceID":"ChIJx9Lr6tqZyzsRwvu6koO3k64",
-				"mobilenetworks":["Jio", "Airtel"]
+				"mobilenetworks":["Jio", "Airtel","Idea", "Vodafone"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -76,7 +80,8 @@
 				"city": "Mysore, Karnataka, India",
 				"country":"IN",
 				"PlaceID":"ChIJ-S5XHThwrzsRbTn4wOjsiSs",
-				"mobilenetworks":["Jio", "Airtel"]
+				"mobilenetworks":["Jio", "Airtel","Vodafone", "Tata DoCoMo"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -90,7 +95,8 @@
 				"city": "Kolkata, West Bengal, India",
 				"country":"IN",
 				"PlaceID":"ChIJZ_YISduC-DkRvCxsj-Yw40M",
-				"mobilenetworks":["Vodafone", "Jio", "Airtel"]
+				"mobilenetworks":["Vodafone", "Jio", "Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -104,7 +110,8 @@
 				"city": "Kochi, Kerala, India",
 				"country":"IN",
 				"PlaceID":"ChIJv8a-SlENCDsRkkGEpcqC1Qs",
-				"mobilenetworks":["BSNL", "Jio", "Vodafone"]
+				"mobilenetworks":["BSNL", "Jio", "Vodafone","Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -118,7 +125,8 @@
 				"city": "Chandigarh, India",
 				"country":"IN",
 				"PlaceID":"ChIJa8lu5gvtDzkR_hlzUvln_6U",
-				"mobilenetworks":["Idea", "Jio"]
+				"mobilenetworks":["Idea", "Jio","Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -146,7 +154,8 @@
 				"city": "Pune, Maharashtra, India",
 				"country":"IN",
 				"PlaceID":"ChIJARFGZy6_wjsRQ-Oenb9DjYI",
-				"mobilenetworks":["Idea", "Jio", "Vodafone", "Airtel"]
+				"mobilenetworks":["Idea", "Jio", "Vodafone", "Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -160,7 +169,8 @@
 				"city": "Nagpur, Maharashtra, India",
 				"country":"IN",
 				"PlaceID":"ChIJE68fo6XA1DsRKz670AZ9sxk",
-				"mobilenetworks":["Idea", "Jio", "Vodafone", "Airtel"]
+				"mobilenetworks":["Idea", "Jio", "Vodafone"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -174,7 +184,8 @@
 				"city": "Mangalore, Karnataka, India",
 				"country":"IN",
 				"PlaceID":"ChIJj0i_N0xaozsRZP78dHq8e4I",
-				"mobilenetworks":["Idea", "Airtel", "Jio"]
+				"mobilenetworks":["Idea", "Airtel", "Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -188,7 +199,8 @@
 				"city": "Thiruvananthapuram, Kerala, India",
 				"country":"IN",
 				"PlaceID":"ChIJR827Bbi7BTsRy4FcXKufQxU",
-				"mobilenetworks":["Aircel"]
+				"mobilenetworks":["Aircel", "Jio","Airtel", "Idea","Vodafone"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -202,7 +214,8 @@
 				"city": "Kozhikode, Kerala, India",
 				"country":"IN",
 				"PlaceID":"ChIJR0c9VjhZpjsRq-wyykEGFTI",
-				"mobilenetworks":["Vodafone"]
+				"mobilenetworks":["Vodafone","Jio","Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -216,7 +229,8 @@
 				"city": "Ahmedabad, Gujarat, India",
 				"country":"IN",
 				"PlaceID":"ChIJSdRbuoqEXjkRFmVPYRHdzk8",
-				"mobilenetworks":["Jio", "Airtel"]
+				"mobilenetworks":["Jio", "Airtel","Vodafone","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -230,7 +244,8 @@
 				"city": "Surat, Gujarat, India",
 				"country":"IN",
 				"PlaceID":"ChIJYxUdQVlO4DsRQrA4CSlYRf4",
-				"mobilenetworks":["Jio", "Idea"]
+				"mobilenetworks":["Jio", "Idea","Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -244,7 +259,8 @@
 				"city": "Puducherry, India",
 				"country":"IN",
 				"PlaceID":"ChIJz89JjqthUzoRTrDw0ibTa8w",
-				"mobilenetworks":["Jio", "Airtel"]
+				"mobilenetworks":["Jio", "Airtel","Vodafone"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -258,7 +274,7 @@
 				"city": "Jaipur, Rajasthan, India",
 				"country":"IN",
 				"PlaceID":"ChIJgeJXTN9KbDkRCS7yDDrG4Qw",
-				"mobilenetworks":["Jio", "Airtel", "Vodafone", "Idea"]
+				"mobilenetworks":["Jio", "Airtel", "Vodafone", "Idea","BSNL"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -272,7 +288,8 @@
 				"city": "Varanasi, Uttar Pradesh, India",
 				"country":"IN",
 				"PlaceID":"ChIJTc_rb7ctjjkRtfA_hRAXE2g",
-				"mobilenetworks":["Vodafone", "Tata Docomo"]
+				"mobilenetworks":["Vodafone", "Tata Docomo","Jio", "Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -286,7 +303,8 @@
 				"city": "Goa, India",
 				"country":"IN",
 				"PlaceID":"ChIJQbc2YxC6vzsRkkDzYv-H-Oo",
-				"mobilenetworks":["Jio"]
+				"mobilenetworks":["Jio","Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -299,7 +317,9 @@
 			"properties": {
 				"city": "Kanpur, Uttar Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJb8QnsXBHnDkRQXu-nyoweBc"
+				"PlaceID":"ChIJb8QnsXBHnDkRQXu-nyoweBc",
+				"mobilenetworks":["Vodafone","Jio","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -312,7 +332,9 @@
 			"properties": {
 				"city": "Indore, Madhya Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJ2w1BG638YjkR9EBiNdrEbgk"
+				"PlaceID":"ChIJ2w1BG638YjkR9EBiNdrEbgk",
+				"mobilenetworks":["Airtel","Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -325,7 +347,9 @@
 			"properties": {
 				"city": "Lucknow, Uttar Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJa7EyH5n9mzkR54uXCYm6zJM"
+				"PlaceID":"ChIJa7EyH5n9mzkR54uXCYm6zJM",
+				"mobilenetworks":["Airtel","Jio","Idea","Vodafone"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -338,7 +362,9 @@
 			"properties": {
 				"city": "Bhopal, Madhya Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJvY_Wj49CfDkR-NRy1RZXFQI"
+				"PlaceID":"ChIJvY_Wj49CfDkR-NRy1RZXFQI",
+				"mobilenetworks":["Airtel","Jio","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -351,7 +377,9 @@
 			"properties": {
 				"city": "Patna, Bihar, India",
 				"country":"IN",
-				"PlaceID":"ChIJBU8txTeZ8jkRcLIH9gUOGoM"
+				"PlaceID":"ChIJBU8txTeZ8jkRcLIH9gUOGoM",
+				"mobilenetworks":["Airtel","Jio","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -364,7 +392,9 @@
 			"properties": {
 				"city": "Vishakhapatnam, Andhra Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJP5fmiRNDOToRaIRJlQPC2ZI"
+				"PlaceID":"ChIJP5fmiRNDOToRaIRJlQPC2ZI",
+				"mobilenetworks":["Airtel","Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -377,7 +407,9 @@
 			"properties": {
 				"city": "Coimbatore, Tamil Nadu, India",
 				"country":"IN",
-				"PlaceID":"ChIJtRyXL69ZqDsRgtI-GB7IwS8"
+				"PlaceID":"ChIJtRyXL69ZqDsRgtI-GB7IwS8",
+				"mobilenetworks":["Airtel","Jio","Vodafone","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -390,7 +422,9 @@
 			"properties": {
 				"city": "Vijayawada, Andhra Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJS5QtSPnvNToRZQJKq4R-m5M"
+				"PlaceID":"ChIJS5QtSPnvNToRZQJKq4R-m5M",
+				"mobilenetworks":["Airtel","Jio","Idea","BSNL"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -403,7 +437,9 @@
 			"properties": {
 				"city": "Ajmer, Rajasthan, India",
 				"country":"IN",
-				"PlaceID":"ChIJAc23_NjmazkR7gCB6xKPr8s"
+				"PlaceID":"ChIJAc23_NjmazkR7gCB6xKPr8s",
+				"mobilenetworks":["Jio","Airtel","Tata DoCoMo","Aircel","Vodafone","BSNL","Idea"]
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -416,7 +452,9 @@
 			"properties": {
 				"city": "Bhubaneswar, Odisha, India",
 				"country":"IN",
-				"PlaceID":"ChIJpQoX1dIJGToRqD-zaCsOWPw"
+				"PlaceID":"ChIJpQoX1dIJGToRqD-zaCsOWPw",
+				"mobilenetworks":["Airtel","Jio","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -429,7 +467,9 @@
 			"properties": {
 				"city": "Guwahati, Assam, India",
 				"country":"IN",
-				"PlaceID":"ChIJ_zORfyhaWjcRMt5rQzITvSs"
+				"PlaceID":"ChIJ_zORfyhaWjcRMt5rQzITvSs",
+				"mobilenetworks":["Jio","Airtel","Vodafone", "Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -442,7 +482,9 @@
 			"properties": {
 				"city": "Dehradun, Uttarakhand, India",
 				"country":"IN",
-				"PlaceID":"ChIJr4jIVsMpCTkRmYdRMsBiNUw"
+				"PlaceID":"ChIJr4jIVsMpCTkRmYdRMsBiNUw",
+				"mobilenetworks":["Vodafone", "Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -455,7 +497,8 @@
 			"properties": {
 				"city": "Thrissur, Kerala, India",
 				"country":"IN",
-				"PlaceID":"ChIJu9FC7RXupzsR26dsAapFLgg"
+				"PlaceID":"ChIJu9FC7RXupzsR26dsAapFLgg",
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -468,7 +511,8 @@
 			"properties": {
 				"city": "Kannur, Kerala, India",
 				"country":"IN",
-				"PlaceID":"ChIJU6essrkipDsRbE_iHKEFBjg"
+				"PlaceID":"ChIJU6essrkipDsRbE_iHKEFBjg",
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -481,7 +525,9 @@
 			"properties": {
 				"city": "Vadodara, Gujarat, India",
 				"country":"IN",
-				"PlaceID":"ChIJq92jkavIXzkRuD9H4b_TOaw"
+				"PlaceID":"ChIJq92jkavIXzkRuD9H4b_TOaw",
+				"mobilenetworks":["Vodafone","Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -494,7 +540,9 @@
 			"properties": {
 				"city": "Udaipur, Rajasthan, India",
 				"country":"IN",
-				"PlaceID":"ChIJEUShUGXlZzkRsGi4VYTC2Ns"
+				"PlaceID":"ChIJEUShUGXlZzkRsGi4VYTC2Ns",
+				"mobilenetworks":["Airtel","Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -507,7 +555,9 @@
 			"properties": {
 				"city": "Nashik, Maharashtra, India",
 				"country":"IN",
-				"PlaceID":"ChIJsxSZsJDS3TsRXCEonV2EB8s"
+				"PlaceID":"ChIJsxSZsJDS3TsRXCEonV2EB8s",
+				"mobilenetworks":["Idea","Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -520,7 +570,9 @@
 			"properties": {
 				"city": "Jodhpur, Rajasthan, India",
 				"country":"IN",
-				"PlaceID":"ChIJucwGqk6MQTkRuKvhClvqFIE"
+				"PlaceID":"ChIJucwGqk6MQTkRuKvhClvqFIE",
+				"mobilenetworks":["Airtel"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -533,7 +585,8 @@
 			"properties": {
 				"city": "Ludhiana, Punjab, India",
 				"country":"IN",
-				"PlaceID":"ChIJfVo0YnSDGjkREAbGjjQCEWg"
+				"PlaceID":"ChIJfVo0YnSDGjkREAbGjjQCEWg",
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -546,7 +599,9 @@
 			"properties": {
 				"city": "Salem, Tamil Nadu, India",
 				"country":"IN",
-				"PlaceID":"ChIJC7os9czxqzsRR8pocACJme4"
+				"PlaceID":"ChIJC7os9czxqzsRR8pocACJme4",
+				"mobilenetworks":["Airtel","Jio","Vodafone","Tata DoCoMo"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -559,7 +614,9 @@
 			"properties": {
 				"city": "Amritsar, Punjab, India",
 				"country":"IN",
-				"PlaceID":"ChIJVXOeVqpkGTkRfe-E7ltgou4"
+				"PlaceID":"ChIJVXOeVqpkGTkRfe-E7ltgou4",
+				"mobilenetworks":["Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -572,7 +629,9 @@
 			"properties": {
 				"city": "Ranchi, Jharkhand, India",
 				"country":"IN",
-				"PlaceID":"ChIJ3bddqgTh9DkRPvSZaJ3UCdw"
+				"PlaceID":"ChIJ3bddqgTh9DkRPvSZaJ3UCdw",
+				"mobilenetworks":["Airtel","Jio","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -585,7 +644,9 @@
 			"properties": {
 				"city": "Meerut, Uttar Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJJWO2V_RkDDkRXr6mhzOo-kI"
+				"PlaceID":"ChIJJWO2V_RkDDkRXr6mhzOo-kI",
+				"mobilenetworks":["Airtel","Jio","Vodafone", "Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -598,7 +659,9 @@
 			"properties": {
 				"city": "Agra, Uttar Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJ2UEvfIUNdDkRQjtSqTjvSng"
+				"PlaceID":"ChIJ2UEvfIUNdDkRQjtSqTjvSng",
+				"mobilenetworks":["Telenor","Jio","Airtel","Idea"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -611,7 +674,9 @@
 			"properties": {
 				"city": "Jamshedpur, Jharkhand, India",
 				"country":"IN",
-				"PlaceID":"ChIJteLwiRnj9TkRRLPpHOjI7g4"
+				"PlaceID":"ChIJteLwiRnj9TkRRLPpHOjI7g4",
+				"mobilenetworks":["Vodafone","Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -624,7 +689,9 @@
 			"properties": {
 				"city": "Allahabad, Uttar Pradesh, India",
 				"country":"IN",
-				"PlaceID":"ChIJn9QLssk0hTkRGgTUaoU3Igo"
+				"PlaceID":"ChIJn9QLssk0hTkRGgTUaoU3Igo",
+				"mobilenetworks":["Jio","Airtel","Vodafone"]
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -637,7 +704,9 @@
 			"properties": {
 				"city": "Tiruchirapalli, Tamil Nadu, India",
 				"country":"IN",
-				"PlaceID":"ChIJrc2u8g_1qjsRpq677Tss4G0"
+				"PlaceID":"ChIJrc2u8g_1qjsRpq677Tss4G0",
+				"mobilenetworks":["Jio","Airtel"]
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -650,7 +719,8 @@
 			"properties": {
 				"city": "Solapur, Maharashtra, India",
 				"country":"IN",
-				"PlaceID":"ChIJ1cVKtYLQxTsR0BA3yOadcTw"
+				"PlaceID":"ChIJ1cVKtYLQxTsR0BA3yOadcTw",
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -663,7 +733,9 @@
 			"properties": {
 				"city": "Madurai, Tamil Nadu, India",
 				"country":"IN",
-				"PlaceID":"ChIJM5YYsYLFADsRMzn2ZHJbldw"
+				"PlaceID":"ChIJM5YYsYLFADsRMzn2ZHJbldw",
+				"mobilenetworks":["Airtel","Jio"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -729,7 +801,8 @@
 			"properties": {
 				"city": "Bekasi, Bekasi City, West Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJaU-WAGmMaS4RmGOJUVNJAA0"
+				"PlaceID":"ChIJaU-WAGmMaS4RmGOJUVNJAA0",
+				"mobilenetworks":["Tri","Indosat","AXIS","Telkom","XL","Telkomsel","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -742,7 +815,8 @@
 			"properties": {
 				"city": "Bandung, Bandung City, West Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJf0dSgjnmaC4RshXo05MfahQ"
+				"PlaceID":"ChIJf0dSgjnmaC4RshXo05MfahQ",
+				"mobilenetworks":["Tri","Indosat","AXIS","Telkom","XL","Telkomsel","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -755,7 +829,8 @@
 			"properties": {
 				"city": "Cimahi, Central Cimahi, Cimahi City, West Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJF3a_jj7kaC4R4HQp_PHoAQU"
+				"PlaceID":"ChIJF3a_jj7kaC4R4HQp_PHoAQU",
+				"mobilenetworks":["Telkom","XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -769,6 +844,7 @@
 				"city": "Cirebon, West Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJ1cXbaQ8dby4RILoo_PHoAQM"
+				"mobilenetworks":["Telkom","XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -781,7 +857,8 @@
 			"properties": {
 				"city": "Surakarta City, Central Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJ-56wXYUWei4R-aR18v3bwqY"
+				"PlaceID":"ChIJ-56wXYUWei4R-aR18v3bwqY",
+				"mobilenetworks":["Telkomsel", "AXIS", "XL", "Tri", "Smartfren", "Indosat"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -794,7 +871,8 @@
 			"properties": {
 				"city": "Semarang, Central Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJzQZQckSCcC4RsLxS43Z6AgM"
+				"PlaceID":"ChIJzQZQckSCcC4RsLxS43Z6AgM",
+				"mobilenetworks":["Telkom","XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -807,7 +885,8 @@
 			"properties": {
 				"city": "Yogyakarta, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJxWtbvYdXei4RcU9o09Q_ciE"
+				"PlaceID":"ChIJxWtbvYdXei4RcU9o09Q_ciE",
+				"mobilenetworks":["Indosat","Smartfren", "Telkomsel","Tri", "XL","AXIS"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -820,7 +899,8 @@
 			"properties": {
 				"city": "Surabaya City, East Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJa97yPPn71y0RVdo_1ZYmlTs"
+				"PlaceID":"ChIJa97yPPn71y0RVdo_1ZYmlTs",
+				"mobilenetworks":["Telkom","XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -833,7 +913,8 @@
 			"properties": {
 				"city": "Sidoarjo Regency, East Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJv9yOhKDh1y0R8L1S43Z6AgM"
+				"PlaceID":"ChIJv9yOhKDh1y0R8L1S43Z6AgM",
+				"mobilenetworks":["Telkom","XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -846,7 +927,8 @@
 			"properties": {
 				"city": "Gresik Regency, East Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJUcpJDf77dy4R0L5S43Z6AgM"
+				"PlaceID":"ChIJUcpJDf77dy4R0L5S43Z6AgM",
+				"mobilenetworks":["XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -859,7 +941,8 @@
 			"properties": {
 				"city": "Malang City, East Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJfwjwUj0o1i0ReqoAt0Wt6Zg"
+				"PlaceID":"ChIJfwjwUj0o1i0ReqoAt0Wt6Zg",
+				"mobilenetworks":["XL","Smartfren","AXIS","Tri", "Telkomsel","Indosat"],
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -872,7 +955,8 @@
 			"properties": {
 				"city": "Batu City, East Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJvfrjmQ9-eC4R2Kk4dNrC39c"
+				"PlaceID":"ChIJvfrjmQ9-eC4R2Kk4dNrC39c",
+				"mobilenetworks":["Telkomsel","Smartfren","Tri","XL","Indosat","AXIS"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -885,7 +969,8 @@
 			"properties": {
 				"city": "Banyuwangi, Banyuwangi Regency, East Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJq0L4mOta0S0RkApT43Z6AgQ"
+				"PlaceID":"ChIJq0L4mOta0S0RkApT43Z6AgQ",
+				"mobilenetworks":["XL","Telkomsel","AXIS","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -912,7 +997,8 @@
 			"properties": {
 				"city": "Lombok, West Nusa Tenggara, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJRceMPtK3zS0RydhQq8SJZkQ"
+				"PlaceID":"ChIJRceMPtK3zS0RydhQq8SJZkQ",
+				"mobilenetworks":["XL","Telkomsel","AXIS","Tri"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -926,7 +1012,7 @@
 				"city": "Bandar Lampung City, Lampung, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJH7Uhv8rbQC4RnsvzvyRjsNw",
-				"mobilenetworks":["Telkomsel", "Tri", "Indosat", "Smartfren"]
+				"mobilenetworks":["Telkomsel", "Tri", "Indosat", "Smartfren","AXIS","XL"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -940,7 +1026,7 @@
 				"city": "Palembang City, South Sumatra, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJczwN5eZ1Oy4RsVBSbfeq5ks",
-				"mobilenetworks":["Telkomsel", "Tri", "Indosat"]
+				"mobilenetworks":["Telkomsel", "Tri", "Indosat","AXIS","Telkom","XL","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -954,7 +1040,7 @@
 				"city": "Medan City, North Sumatra, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJ-bZg7HIyMTARdOMdSIdObuc",
-				"mobilenetworks":["Telkomsel", "XL", "Tri"]
+				"mobilenetworks":["Telkomsel", "XL", "Tri","Axis", "Indosat", "Smartfren", "Bolt"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -968,7 +1054,7 @@
 				"city": "Deli Serdang Regency, North Sumatra, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJVWb9PzBHMTAREMsgsoCdAwM",
-				"mobilenetworks":["Telkomsel", "AXIS"]
+				"mobilenetworks":["Telkomsel", "AXIS","Indosat","XL"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -982,7 +1068,7 @@
 				"city": "Pekanbaru City, Riau, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJ72ZVVfSs1TERtMlXvGeleXA",
-				"mobilenetworks":["Telkomsel", "XL", "Tri"]
+				"mobilenetworks":["Telkomsel", "XL", "Tri","AXIS","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -996,7 +1082,7 @@
 				"city": "Batam City, Riau Islands, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJR2eJ_FW82TEReqaZhslBfoI",
-				"mobilenetworks":["Telkomsel", "Smartfren", "Indosat"]
+				"mobilenetworks":["Telkomsel", "Smartfren", "Indosat","Tri","XL","AXIS"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1010,7 +1096,7 @@
 				"city": "Pontianak, West Kalimantan, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJm3mwBPZYHS4R4__JH1D5HlE",
-				"mobilenetworks":["Telkomsel", "Indosat", "XL"]
+				"mobilenetworks":["AXIS","Telkomsel", "Indosat", "XL","Smartfren","Tri"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1024,7 +1110,7 @@
 				"city": "Balikpapan City, East Kalimantan, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJ6UaYXkRJ8S0RAvB7QoqiudE",
-				"mobilenetworks":["Telkomsel", "Indosat"]
+				"mobilenetworks":["Telkomsel", "Indosat","XL","Tri","AXIS","Telkom"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1038,7 +1124,7 @@
 				"city": "Makassar City, South Sulawesi, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJz1K5OpECvy0RPZHi201bG0E",
-				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL", "Indosat"]
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL", "Indosat","AXIS"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1052,7 +1138,7 @@
 				"city": "Manado City, North Sulawesi, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJXebM__mehzIR764dCXoiNwQ",
-				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL"]
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
 			},
 			"geometry": {
 				"type": "Polygon",
