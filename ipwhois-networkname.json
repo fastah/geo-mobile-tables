@@ -68,6 +68,9 @@
    "mtnl": "MTNL India",
    "hathway": "Hathway"
   },
+  "JP": {
+    "@kg-nishimura" : "KDDI"
+    },
   "KH": {
    "@smart.com.kh": "Smart"
   },
@@ -96,9 +99,11 @@
    "@packet-1.com": "P1",
    "@maxis.com.my": "Maxis",
    "@digi.com.my": "Digi",
+   "chsoo@digi.com.my" : "Digi",
    "@u.com.my": "U Mobile",
    "@celcom.com.my": "Celcom",
    "@tm.com.my": "TM",
+   "@abuse@tm.com.my" : "TM",
    "@maxis.net.my" : "Maxis"
   },
   "NP": {
