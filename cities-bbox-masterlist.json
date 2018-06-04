@@ -439,7 +439,7 @@
 				"city": "Ajmer, Rajasthan, India",
 				"country":"IN",
 				"PlaceID":"ChIJAc23_NjmazkR7gCB6xKPr8s",
-				"mobilenetworks":["Jio","Airtel","Tata DoCoMo","Aircel","Vodafone","BSNL","Idea"]
+				"mobilenetworks":["Jio","Airtel","Tata DoCoMo","Aircel","Vodafone","BSNL","Idea"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
@@ -844,7 +844,7 @@
 			"properties": {
 				"city": "Cirebon, West Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJ1cXbaQ8dby4RILoo_PHoAQM"
+				"PlaceID":"ChIJ1cXbaQ8dby4RILoo_PHoAQM",
 				"mobilenetworks":["Telkom","XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
 			},
 			"geometry": {
@@ -943,7 +943,7 @@
 				"city": "Malang City, East Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJfwjwUj0o1i0ReqoAt0Wt6Zg",
-				"mobilenetworks":["XL","Smartfren","AXIS","Tri", "Telkomsel","Indosat"],
+				"mobilenetworks":["XL","Smartfren","AXIS","Tri", "Telkomsel","Indosat"]
 			},
 			"geometry": {
 				"type": "Polygon",
