@@ -5,7 +5,8 @@
 				"city": "Bengaluru, Karnataka, India",
 				"country":"IN",
 				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g",
-				"mobilenetworks":["Airtel", "Jio", "Vodafone"]
+				"mobilenetworks":["Airtel", "Jio", "Vodafone"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
