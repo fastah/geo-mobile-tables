@@ -274,7 +274,8 @@
 				"city": "Jaipur, Rajasthan, India",
 				"country":"IN",
 				"PlaceID":"ChIJgeJXTN9KbDkRCS7yDDrG4Qw",
-				"mobilenetworks":["Jio", "Airtel", "Vodafone", "Idea","BSNL"]
+				"mobilenetworks":["Jio", "Airtel", "Vodafone", "Idea","BSNL"],
+				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -690,7 +691,7 @@
 				"city": "Allahabad, Uttar Pradesh, India",
 				"country":"IN",
 				"PlaceID":"ChIJn9QLssk0hTkRGgTUaoU3Igo",
-				"mobilenetworks":["Jio","Airtel","Vodafone"]
+				"mobilenetworks":["Jio","Airtel","Vodafone"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
@@ -705,7 +706,7 @@
 				"city": "Tiruchirapalli, Tamil Nadu, India",
 				"country":"IN",
 				"PlaceID":"ChIJrc2u8g_1qjsRpq677Tss4G0",
-				"mobilenetworks":["Jio","Airtel"]
+				"mobilenetworks":["Jio","Airtel"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
