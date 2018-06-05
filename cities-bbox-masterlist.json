@@ -20,7 +20,7 @@
 				"city": "Delhi Metropolitan Area",
 				"country":"IN",
 				"PlaceID":"ChIJ4ZrhZpThDDkRbN7VX1brzkU",
-				"mobilenetworks":["Airtel", "Jio", "Vodafone"],
+				"mobilenetworks":["Airtel", "Jio", "Vodafone","Airtel","Idea"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
@@ -140,7 +140,7 @@
 				"city": "Jakarta, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJnUvjRenzaS4RILjULejFAAE",
-				"mobilenetworks":["Bolt", "XL", "Indosat", "Telkomsel", "Tri", "Smartfren"]
+				"mobilenetworks":["Bolt", "XL", "Indosat", "Telkomsel", "Tri", "Smartfren","Telkom","AXIS"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -763,7 +763,8 @@
 			"properties": {
 				"city": "Bogor, West Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJN4R5EuPDaS4RkLn-FG1XAQM"
+				"PlaceID":"ChIJN4R5EuPDaS4RkLn-FG1XAQM",
+				"mobilenetworks":["Bolt","Tri","AXIS","Telkom","XL","Telkomsel","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -776,7 +777,8 @@
 			"properties": {
 				"city": "Depok, Depok City, West Java, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJn968KAjsaS4R8CQFFW1XAQM"
+				"PlaceID":"ChIJn968KAjsaS4R8CQFFW1XAQM",
+				"mobilenetworks":["Bolt","Tri","AXIS","Telkom","XL","Telkomsel","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -789,12 +791,27 @@
 			"properties": {
 				"city": "Tangerang, Tangerang City, Banten, Indonesia",
 				"country":"ID",
-				"PlaceID":"ChIJjePSU-j4aS4RwLn-FG1XAQM"
+				"PlaceID":"ChIJjePSU-j4aS4RwLn-FG1XAQM",
+				"mobilenetworks":["Bolt","Tri","AXIS","Telkom","XL","Telkomsel","Smartfren"]
 			},
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [
 					[ [106.551456,-6.097141], [106.748612,-6.2562341]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Tangerang Selatan, Banten, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJlcAZBLH6aS4R5K9KLBxIBoc",
+				"mobilenetworks":["Bolt","Tri","AXIS","Telkom","XL","Telkomsel","Smartfren"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [106.5485494,-6.4555404], [106.8685494,-6.1355404]]
 				]
 			}
 		},
@@ -985,7 +1002,7 @@
 				"city": "Denpasar City, Bali, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJIS3zf-1A0i0R7rQDrcUDeLw",
-				"mobilenetworks":["Telkomsel", "Indosat", "XL", "Tri"]
+				"mobilenetworks":["Bolt","Tri","AXIS","Telkom","XL","Telkomsel","Smartfren","Indosat"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1033,6 +1050,20 @@
 				"type": "Polygon",
 				"coordinates": [
 					[ [104.6226999,-2.864375], [104.865734,-3.094524]]
+				]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Padang, Padang City, West Sumatra, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJuxex4kK51C8RpWsEw7WMRrg",
+				"mobilenetworks":["Telkomsel", "Tri", "Indosat","AXIS","Telkom","XL","Smartfren"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[ [100.3631919,-0.9525285], [100.3632919,-0.9524285]]
 				]
 			}
 		},
