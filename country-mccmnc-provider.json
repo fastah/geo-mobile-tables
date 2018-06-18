@@ -1,29 +1,41 @@
 {
   "AE": {
     "42402": "Etisalat",
-    "42403": "DU"
+    "42403": "DU",
+    "4242": "Emirates",
+    "4243": "DU"
+  },
+  "AF": {
+    "41250": "Etisalat"
   },
   "AU": {
-    "50502": "Optus"
+    "50502": "Optus",
+    "5052": "Optus"
   },
   "BD": {
     "47001": "GP",
+    "4701": "Grameenphone",
     "47002": "Robi"
   },
   "BH": {
     "42601": "Batelco",
-    "42604": "Viva"
+    "42602": "Zain",
+    "42604": "Viva",
+    "4262": "Zain"
   },
   "FJ": {
     "5421": "Vodafone"
   },
   "GB": {
+    "20820": "Lycatel",
     "23420": "Three"
   },
   "HR": {
     "2191": "HRVATSKI TELEKOM"
   },
   "ID": {
+    "302720": "Tri",
+    "4601": "Telkomsel",
     "51001": "Indosat",
     "51009": "Smartfren",
     "5101": "Indosat",
@@ -33,6 +45,9 @@
     "51088": "Bolt",
     "51089": "Tri",
     "5109": "Smartfren"
+  },
+  "IL": {
+   "4253": "Pelephone"
   },
   "IN": {
     "20020": "Vodafone",
@@ -172,6 +187,9 @@
     "4193": "Oredoo",
     "4194": "Viva"
   },
+  "LK": {
+   "4132": "Dialog"
+  },
   "MM": {
     "4146": "Telenor"
   },
@@ -184,10 +202,14 @@
     "50219": "Celcom"
   },
   "NP": {
-    "42901": "NT"
+    "42901": "NT",
+    "4292": "Ncell"
   },
   "OM": {
-    "4223": "Ooredoo"
+   "42202": "Omantel",
+   "42203": "Ooredoo",
+   "4222": "Ooredoo",
+   "4223": "Ooredoo"
   },
   "PH": {
     "51502": "Globe",
@@ -200,12 +222,14 @@
     "4272": "Vodafone"
   },
   "SA": {
-    "42001": "STC",
-    "4201": "STC",
-    "4203": "Mobily",
-    "4204": "Zain"
+   "42001": "STC",
+   "42003": "Mobily",
+   "4201": "STC",
+   "4203": "Mobily",
+   "4204": "Zain"
   },
   "SG": {
+    "52501": "Singnet",
     "5251": "Singnet",
     "5253": "M1",
     "5255": "Starhub"
@@ -213,6 +237,9 @@
   "SN": {
     "6081": "Orange"
   },
+  "TH": {
+   "5203": "AIS"
+   },
   "ZA": {
     "65501": "Vodacom"
   },
