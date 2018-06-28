@@ -1036,18 +1036,6 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Banting, Selangor, Malaysia",
-				"country":"MY",
-				"PlaceID":"ChIJzbLSh1e7zTERpMLgLAMw_OM",
-				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
-			},
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [[[101.4881470234,2.7872813887],[101.5662314922,2.7872813887],[101.5662314922,2.8581236622],[101.4881470234,2.8581236622],[101.4881470234,2.7872813887]]]
-			}
-		},
-		{ "type": "Feature",
-			"properties": {
 				"city": "Klang, Selangor, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJz4H-T0xTzDERFEXVL3f1Yes",
