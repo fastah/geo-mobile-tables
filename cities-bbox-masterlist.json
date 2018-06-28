@@ -649,6 +649,7 @@
 				"coordinates": [[[103.594,1.1957115019],[104.0858157291,1.1957115019],[104.0858157291,1.4784001],[103.594,1.4784001],[103.594,1.1957115019]]]
 			}
 		},
+
 		{ "type": "Feature",
 			"properties": {
 				"city": "Jakarta, Indonesia",
@@ -1002,11 +1003,215 @@
 				"city": "Kuala Lumpur, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJ5-rvAcdJzDERfSgcL1uO2fQ",
-				"mobilenetworks":["Maxis", "U Mobile", "Celcom"]
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
 			},
 			"geometry": {
 				"type": "Polygon",
-				"coordinates": [[[101.5212365086,3.0694030414],[101.7808867283,3.0694030414],[101.7808867283,3.2436252146],[101.5212365086,3.2436252146],[101.5212365086,3.0694030414]]]
+				"coordinates": [[[101.61545,3.0336329],[101.758529,3.0336329],[101.758529,3.2433789],[101.61545,3.2433789],[101.61545,3.0336329]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "KLIA, Kuala Lumpur International Airport, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJmfH754C_zTERokIY__usEAY",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[101.6039721152,2.6751574906],[101.83248023,2.6751574906],[101.83248023,2.8607814615],[101.6039721152,2.8607814615],[101.6039721152,2.6751574906]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Banting, Selangor, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJzbLSh1e7zTERpMLgLAMw_OM",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[101.4881470234,2.7872813887],[101.5662314922,2.7872813887],[101.5662314922,2.8581236622],[101.4881470234,2.8581236622],[101.4881470234,2.7872813887]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Banting, Selangor, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJzbLSh1e7zTERpMLgLAMw_OM",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[101.4881470234,2.7872813887],[101.5662314922,2.7872813887],[101.5662314922,2.8581236622],[101.4881470234,2.8581236622],[101.4881470234,2.7872813887]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Klang, Selangor, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJz4H-T0xTzDERFEXVL3f1Yes",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[101.355583,2.949781],[101.5422536131,2.949781],[101.5422536131,3.136154],[101.355583,3.136154],[101.355583,2.949781]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Putrajaya, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJIwuORCW2zTERbK-BqY9eFoU",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[101.6081372415,2.8762051],[101.7570186173,2.8762051],[101.7570186173,2.9821749533],[101.6081372415,2.9821749533],[101.6081372415,2.8762051]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Butterworth, Penang, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJc2PAmgbFSjARarR7nJnZJP0",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[100.3627109,5.3506185412],[100.4875007721,5.3506185412],[100.4875007721,5.485735],[100.3627109,5.485735],[100.3627109,5.3506185412]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Kajang, Selangor, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJj0FW38XLzTERD5wGfZ1nhrE",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[101.69742,2.8684469],[101.8388749726,2.8684469],[101.8388749726,3.0715155],[101.69742,3.0715155],[101.69742,2.8684469]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Subang Jaya, Selangor, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJFY7sEdBMzDER0-cmAvfz-Us",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[101.5493918,2.975538],[101.6210431,2.975538],[101.6210431,3.085025],[101.5493918,3.085025],[101.5493918,2.975538]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "George Town, Penang, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJ1XsrrZfDSjARNLmpeFnkmiM",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[100.272712,5.3471099731],[100.3554096515,5.3471099731],[100.3554096515,5.4520208],[100.272712,5.4520208],[100.272712,5.3471099731]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Ipoh, Perak, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJ4zNA83nsyjERWehSaUaf3I8",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[101.0313714,4.4644154264],[101.1590518957,4.4644154264],[101.1590518957,4.7242534458],[101.0313714,4.7242534458],[101.0313714,4.4644154264]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Malacca, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJ3WWMjifu0TERagGedoFyKgM",
+				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[102.1557088,2.168183],[102.3472987,2.168183],[102.3472987,2.3065749],[102.1557088,2.3065749],[102.1557088,2.168183]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Manila, Metro Manila, Philippines",
+				"country":"PH",
+				"PlaceID":"ChIJi8MeVwPKlzMRH8FpEHXV0Wk",
+				"mobilenetworks":["Globe", "Smart"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[120.9416783836,14.5539791],[121.0261686,14.5539791],[121.0261686,14.6390175],[120.9416783836,14.6390175],[120.9416783836,14.5539791]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Caloocan, Metro Manila, Philippines",
+				"country":"PH",
+				"PlaceID":"ChIJXxuEGbWxlzMRGi0EJeJw5wU",
+				"mobilenetworks":["Globe", "Smart"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[121.0100188414,14.6102921055],[121.1346208,14.6102921055],[121.1346208,14.7780362],[121.0100188414,14.7780362],[121.0100188414,14.6102921055]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Quezon City, Metro Manila, Philippines",
+				"country":"PH",
+				"PlaceID":"ChIJdXPvQgm6lzMRQD0I_tkymko",
+				"mobilenetworks":["Globe", "Smart"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[120.9604979,14.6528146614],[121.0265362569,14.6528146614],[121.0265362569,14.787331],[120.9604979,14.787331],[120.9604979,14.6528146614]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Davao City, Davao del Sur, Philippines",
+				"country":"PH",
+				"PlaceID":"ChIJfzKeUZ9t-TIRc8V5n1gkOrU",
+				"mobilenetworks":["Globe", "Smart"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[125.4057650147,6.9675546655],[125.6632773324,6.9675546655],[125.6632773324,7.2392720457],[125.4057650147,7.2392720457],[125.4057650147,6.9675546655]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Cebu City, Cebu, Philippines",
+				"country":"PH",
+				"PlaceID":"ChIJ_S3NjSWZqTMRBzXT2wwDNEw",
+				"mobilenetworks":["Globe", "Smart"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[123.8254244317,10.274480055],[123.9534140814,10.274480055],[123.9534140814,10.3812646547],[123.8254244317,10.3812646547],[123.8254244317,10.274480055]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Taguig, Metro Manila, Philippines",
+				"country":"PH",
+				"PlaceID":"ChIJATD-VErPlzMRrdKYqfB6ri8",
+				"mobilenetworks":["Globe", "Smart"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[121.0349741298,14.4994093095],[121.1391725856,14.4994093095],[121.1391725856,14.562770786],[121.0349741298,14.562770786],[121.0349741298,14.4994093095]]]
 			}
 		},
 		{ "type": "Feature",
