@@ -564,7 +564,7 @@
 				"city": "Agra, Uttar Pradesh, India",
 				"country":"IN",
 				"PlaceID":"ChIJ2UEvfIUNdDkRQjtSqTjvSng",
-				"mobilenetworks":["Telenor","Jio","Airtel","Tata DoCoMo","Aircel","Vodafone","BSNL","Idea"],
+				"mobilenetworks":["Jio","Airtel","Tata DoCoMo","Aircel","Vodafone","BSNL","Idea"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
