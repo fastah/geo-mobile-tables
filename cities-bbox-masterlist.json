@@ -18,7 +18,7 @@
 				"city": "Delhi Metropolitan Area",
 				"country":"IN",
 				"PlaceID":"ChIJ4ZrhZpThDDkRbN7VX1brzkU",
-				"mobilenetworks":["Airtel", "Jio", "Vodafone","Airtel","Idea","BSNL"],
+				"mobilenetworks":["Airtel", "Jio", "Vodafone","Idea","BSNL", "MTNL"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
@@ -44,7 +44,7 @@
 				"city": "Mumbai, Maharashtra, India",
 				"country":"IN",
 				"PlaceID":"ChIJwe1EZjDG5zsRaYxkjY_tpF0",
-				"mobilenetworks":["Vodafone", "Jio", "Airtel","Idea"],
+				"mobilenetworks":["Vodafone", "Jio", "Airtel","Idea", "MTNL"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
