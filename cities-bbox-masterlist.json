@@ -2,6 +2,30 @@
 	"features": [
 		{ "type": "Feature",
 			"properties": {
+				"city": "Iblur, Bengaluru, Karnataka,India",
+				"country":"IN",
+				"PlaceID":"ChIJM47uV38TrjsRF7ARI0gFZsk",
+				"mobilenetworks":["Jio","Airtel","Vodafone","Idea"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[77.6517359,12.920345],[77.665628,12.920345],[77.665628,12.929651],[77.6517359,12.929651],[77.6517359,12.920345]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Ganganagar, Bengaluru, Karnataka,India",
+				"country":"IN",
+				"PlaceID":"ChIJExtrF7gXrjsReKOSwpmE8_s",
+				"mobilenetworks":["Jio","Airtel","Vodafone","Idea"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[77.5829804015,13.0136502338],[77.5906716358,13.0136502338],[77.5906716358,13.0281648433],[77.5829804015,13.0281648433],[77.5829804015,13.0136502338]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
 				"city": "Bengaluru, Karnataka, India",
 				"country":"IN",
 				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g",
@@ -642,7 +666,7 @@
 				"city": "Singapore",
 				"country":"SG",
 				"PlaceID":"ChIJdZOLiiMR2jERxPWrUs9peIg",
-				"mobilenetworks":["Singnet", "M1", "Starhub"]
+				"mobilenetworks":["M1", "Singnet", "Starhub"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -655,7 +679,7 @@
 				"city": "Jakarta, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJnUvjRenzaS4RILjULejFAAE",
-				"mobilenetworks":["Bolt", "XL", "Indosat", "Telkomsel", "Tri", "Smartfren","AXIS"]
+				"mobilenetworks":["Telkomsel", "Indosat", "Tri", "Smartfren","Bolt", "XL", "AXIS"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -676,7 +700,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Depok, Depok City, West Java, Indonesia",
+				"city": "Depok, West Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJn968KAjsaS4R8CQFFW1XAQM",
 				"mobilenetworks":["Bolt","Telkomsel","Tri","AXIS","XL","Smartfren"]
@@ -688,7 +712,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Tangerang, Tangerang City, Banten, Indonesia",
+				"city": "Tangerang, Banten, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJjePSU-j4aS4RwLn-FG1XAQM",
 				"mobilenetworks":["Bolt","Telkomsel","Tri","AXIS","XL","Smartfren"]
@@ -712,7 +736,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Bekasi, Bekasi City, West Java, Indonesia",
+				"city": "Bekasi, West Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJaU-WAGmMaS4RmGOJUVNJAA0",
 				"mobilenetworks":["Tri","Telkomsel","Indosat","AXIS","XL","Smartfren"]
@@ -724,7 +748,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Bandung, Bandung City, West Java, Indonesia",
+				"city": "Bandung, West Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJf0dSgjnmaC4RshXo05MfahQ",
 				"mobilenetworks":["Tri","Telkomsel","Indosat","AXIS","XL","Smartfren"]
@@ -736,7 +760,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Cimahi, Central Cimahi, Cimahi City, West Java, Indonesia",
+				"city": "Cimahi, West Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJF3a_jj7kaC4R4HQp_PHoAQU",
 				"mobilenetworks":["XL","Telkomsel","Indosat","AXIS","Tri","Smartfren"]
@@ -760,7 +784,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Surakarta, Surakarta City, Central Java, Indonesia",
+				"city": "Surakarta, Central Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJ-56wXYUWei4R-aR18v3bwqY",
 				"mobilenetworks":[ "AXIS", "Telkomsel","XL", "Tri", "Smartfren", "Indosat"]
@@ -772,7 +796,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Semarang, Semarang City, Central Java, Indonesia",
+				"city": "Semarang, Central Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJzQZQckSCcC4RsLxS43Z6AgM",
 				"mobilenetworks":["XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
@@ -784,7 +808,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Yogyakarta, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+				"city": "Yogyakarta, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJxWtbvYdXei4RcU9o09Q_ciE",
 				"mobilenetworks":["Indosat","Smartfren", "Telkomsel","Tri", "XL","AXIS"]
@@ -796,7 +820,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Surabaya, Surabaya City, East Java, Indonesia",
+				"city": "Surabaya, East Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJa97yPPn71y0RVdo_1ZYmlTs",
 				"mobilenetworks":["XL","Indosat","Telkomsel","AXIS","Tri","Smartfren"]
@@ -832,7 +856,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Batu, Batu City, East Java, Indonesia",
+				"city": "Batu, East Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJvfrjmQ9-eC4R2Kk4dNrC39c",
 				"mobilenetworks":["Bolt","Tri","AXIS","XL","Telkomsel","Smartfren","Indosat"]
@@ -844,7 +868,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Banyuwangi, Banyuwangi Regency, East Java, Indonesia",
+				"city": "Banyuwangi, East Java, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJq0L4mOta0S0RkApT43Z6AgQ",
 				"mobilenetworks":["Bolt","Tri","AXIS","XL","Telkomsel","Smartfren","Indosat"]
@@ -856,7 +880,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Denpasar, Denpasar City, Bali, Indonesia",
+				"city": "Denpasar, Bali, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJIS3zf-1A0i0R7rQDrcUDeLw",
 				"mobilenetworks":["Bolt","Tri","AXIS","XL","Telkomsel","Smartfren","Indosat"]
@@ -880,7 +904,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Bandar Lampung, Bandar Lampung City, Lampung, Indonesia",
+				"city": "Bandar Lampung, Lampung, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJH7Uhv8rbQC4RnsvzvyRjsNw",
 				"mobilenetworks":["Bolt","Tri","AXIS","XL","Telkomsel","Smartfren","Indosat"]
@@ -892,7 +916,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Palembang, Palembang City, South Sumatra, Indonesia",
+				"city": "Palembang, South Sumatra, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJczwN5eZ1Oy4RsVBSbfeq5ks",
 				"mobilenetworks":["Bolt","Tri","AXIS","XL","Telkomsel","Smartfren","Indosat"]
@@ -904,7 +928,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Padang, Padang City, West Sumatra, Indonesia",
+				"city": "Padang, West Sumatra, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJuxex4kK51C8RpWsEw7WMRrg",
 				"mobilenetworks":["Telkomsel", "Tri", "Indosat","AXIS","XL","Smartfren"]
@@ -916,7 +940,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Medan, Medan City, North Sumatra, Indonesia",
+				"city": "Medan, North Sumatra, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJ-bZg7HIyMTARdOMdSIdObuc",
 				"mobilenetworks":["Telkomsel", "XL", "Tri","Axis", "Indosat", "Smartfren", "Bolt"]
@@ -940,7 +964,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Batam, Batam City, Riau Islands, Indonesia",
+				"city": "Batam, Riau Islands, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJR2eJ_FW82TEReqaZhslBfoI",
 				"mobilenetworks":["Telkomsel", "Smartfren", "Indosat","Tri","XL","AXIS"]
@@ -964,7 +988,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Balikpapan, Balikpapan City, East Kalimantan, Indonesia",
+				"city": "Balikpapan, East Kalimantan, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJ6UaYXkRJ8S0RAvB7QoqiudE",
 				"mobilenetworks":["Telkomsel", "Indosat","XL","Tri","AXIS","Telkom"]
@@ -976,7 +1000,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Makassar, Makassar City, South Sulawesi, Indonesia",
+				"city": "Makassar, South Sulawesi, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJz1K5OpECvy0RPZHi201bG0E",
 				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL", "Indosat","AXIS"]
@@ -1003,7 +1027,7 @@
 				"city": "Kuala Lumpur, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJ5-rvAcdJzDERfSgcL1uO2fQ",
-				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+				"mobilenetworks":["U Mobile","Celcom","Digi","P1", "Maxis"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1015,7 +1039,7 @@
 				"city": "KLIA, Kuala Lumpur International Airport, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJmfH754C_zTERokIY__usEAY",
-				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+				"mobilenetworks":["Digi", "Maxis", "Celcom", "U Mobile","P1"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1027,7 +1051,7 @@
 				"city": "Banting, Selangor, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJzbLSh1e7zTERpMLgLAMw_OM",
-				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+				"mobilenetworks":[ "Digi", "P1","Maxis", "U Mobile", "Celcom"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1039,7 +1063,7 @@
 				"city": "Klang, Selangor, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJz4H-T0xTzDERFEXVL3f1Yes",
-				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+				"mobilenetworks":["Celcom","P1", "Digi", "Maxis", "U Mobile"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1063,7 +1087,7 @@
 				"city": "Butterworth, Penang, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJc2PAmgbFSjARarR7nJnZJP0",
-				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+				"mobilenetworks":["U Mobile","P1", "Digi", "Maxis", "Celcom"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1111,7 +1135,7 @@
 				"city": "Ipoh, Perak, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJ4zNA83nsyjERWehSaUaf3I8",
-				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+				"mobilenetworks":["U Mobile", "P1", "Digi", "Maxis", "Celcom"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1123,7 +1147,7 @@
 				"city": "Malacca, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJ3WWMjifu0TERagGedoFyKgM",
-				"mobilenetworks":["P1", "Digi", "Maxis", "U Mobile", "Celcom"]
+				"mobilenetworks":["Digi", "Maxis", "U Mobile", "Celcom","P1"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1200,30 +1224,6 @@
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": 	[[[121.0349741298,14.4994093095],[121.1391725856,14.4994093095],[121.1391725856,14.562770786],[121.0349741298,14.562770786],[121.0349741298,14.4994093095]]]
-			}
-		},
-		{ "type": "Feature",
-			"properties": {
-				"city": "Iblur, Bengaluru, Karnataka,India",
-				"country":"IN",
-				"PlaceID":"ChIJM47uV38TrjsRF7ARI0gFZsk",
-				"mobilenetworks":["Jio","Airtel","Vodafone","Idea"]
-			},
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [[[77.6517359,12.920345],[77.665628,12.920345],[77.665628,12.929651],[77.6517359,12.929651],[77.6517359,12.920345]]]
-			}
-		},
-		{ "type": "Feature",
-			"properties": {
-				"city": "Ganganagar, Bengaluru, Karnataka,India",
-				"country":"IN",
-				"PlaceID":"ChIJExtrF7gXrjsReKOSwpmE8_s",
-				"mobilenetworks":["Jio","Airtel","Vodafone","Idea"]
-			},
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [[[77.5829804015,13.0136502338],[77.5906716358,13.0136502338],[77.5906716358,13.0281648433],[77.5829804015,13.0281648433],[77.5829804015,13.0136502338]]]
 			}
 		}
 	]
