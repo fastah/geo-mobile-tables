@@ -1024,6 +1024,186 @@
 		},
 		{ "type": "Feature",
 			"properties": {
+				"city": "Pekalongan City, Central Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJE_6QpCwkcC4RtowlaxKKxsA",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[109.6581696983,-6.9353453556],[109.707199138,-6.9353453556],[109.707199138,-6.8617764456],[109.6581696983,-6.8617764456],[109.6581696983,-6.9353453556]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Tegal City, Central Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJw2Qyv9-5by4R4LtS43Z6AgM",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[109.0990136082,-6.9234687527],[109.1633235927,-6.9234687527],[109.1633235927,-6.8463321438],[109.0990136082,-6.8463321438],[109.0990136082,-6.9234687527]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Indramayu, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJYYfXPVLIbi4RMLko_PHoAQM",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[108.1753171499,-6.5492140168],[108.541484278,-6.5492140168],[108.541484278,-6.2456718187],[108.1753171499,-6.2456718187],[108.1753171499,-6.5492140168]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Indramayu, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJYYfXPVLIbi4RMLko_PHoAQM",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[108.1753171499,-6.5492140168],[108.541484278,-6.5492140168],[108.541484278,-6.2456718187],[108.1753171499,-6.2456718187],[108.1753171499,-6.5492140168]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Karawang, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJV8xQosB3aS4Rt30KaSYP9xI",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[107.1243230517,-6.464325297],[107.6062087233,-6.464325297],[107.6062087233,-6.143908399],[107.1243230517,-6.143908399],[107.1243230517,-6.464325297]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Sukabumi, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJ9USebCVIaC4R1hXDaRaaznU",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[106.884108688,-6.9735604506],[106.9539453641,-6.9735604506],[106.9539453641,-6.9084004961],[106.884108688,-6.9084004961],[106.884108688,-6.9735604506]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Serang, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJYUpTuw2LQS4R0Lgo_PHoAQM",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[106.1331611,-6.1386147],[106.1848788,-6.1386147],[106.1848788,-6.0826924],[106.1331611,-6.0826924],[106.1331611,-6.1386147]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Tasikmalaya, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJb1dMkuVWby4RACUv_PHoAQM",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[106.1331611,-6.1386147],[106.1848788,-6.1386147],[106.1848788,-6.0826924],[106.1331611,-6.0826924],[106.1331611,-6.1386147]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Banjar, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJz95gJvthby4RQOEo_PHoAQQ",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[108.4862615681,-7.3939063],[108.5838296033,-7.3939063],[108.5838296033,-7.3510588],[108.4862615681,-7.3510588],[108.4862615681,-7.3939063]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Cilacap, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJO9S-Co0MZS4RUAlT43Z6AgQ",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[108.9847949042,-7.7501164056],[109.1143134131,-7.7501164056],[109.1143134131,-7.6341340496],[108.9847949042,-7.6341340496],[108.9847949042,-7.7501164056]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Jepara, West Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJq-OaS9MYcS4RD66Xh_lnMJ0",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[110.6450078804,-6.6183907825],[110.7027276773,-6.6183907825],[110.7027276773,-6.5589659022],[110.6450078804,-6.5589659022],[110.6450078804,-6.6183907825]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Pati, Central Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJDaZtcOTScC4RcPJS43Z6AgQ",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[110.6583034006,-7.003669],[111.2419306246,-7.003669],[111.2419306246,-6.4768673904],[110.6583034006,-6.4768673904],[110.6583034006,-7.003669]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Tulungagung, East Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJZxH-xPrieC4RACBT43Z6AgQ",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[111.8238257,-8.1994779017],[112.1066757253,-8.1994779017],[112.1066757253,-8.0184543],[111.8238257,-8.0184543],[111.8238257,-8.1994779017]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Probolinggo City, East Java, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJd8dIEXqt1y0RM6KfoikN5Lo",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[113.1654255,-7.8201999],[113.2454813622,-7.8201999],[113.2454813622,-7.7407269658],[113.1654255,-7.7407269658],[113.1654255,-7.8201999]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": " Samarinda City, East Kalimantan, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJV0hbOp5_9i0R4-rmrY1n2dk",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[117.0672370432,-0.6750007673],[117.2400088547,-0.6750007673],[117.2400088547,-0.4022485139],[117.0672370432,-0.4022485139],[117.0672370432,-0.6750007673]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
 				"city": "Kuala Lumpur, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJ5-rvAcdJzDERfSgcL1uO2fQ",
