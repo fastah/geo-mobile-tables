@@ -1,155 +1,227 @@
 {
   "AE": {
-   "@du.ae": "DU",
-   "@emirates.net.ae": "Emirates",
-   "@du.ae": "DU"
+    "@du.ae": "DU",
+    "@emirates.net.ae": "Emirates"
   },
   "AF": {
-   "@etisalat.af": "Etisalat"
+    "@etisalat.af": "Etisalat"
+  },
+  "AM": {
+    "@mts.am": "MTS"
+  },
+  "AO": {
+    "@unitel.co.ao": "unitel"
+  },
+  "AT": {
+    "@gcore.lu": "gcore"
   },
   "AU": {
-   "@optus.net.au": "Optus"
+    "@optus.net.au": "Optus"
   },
   "BD": {
-   "@grameenphone.com": "Grameenphone",
-   "@robi.com.bd": "Robi",
-   "@banglalinkgsm.com": "Banglalink"
+    "@grameenphone.com": "Grameenphone",
+    "@robi.com.bd": "Robi",
+    "@banglalinkgsm.com": "Banglalink"
   },
   "BH": {
-   "@batelco.com.bh": "Pronto",
-   "@bh.zain.com": "Zain",
-   "@viva.com.bh": "Viva"
+    "@batelco.com.bh": "Batelco",
+    "@bh.zain.com": "Zain",
+    "@viva.com.bh": "Viva",
+    "@btc.com.bh": "Batelco"
+  },
+  "BJ": {
+    "@mtn.bj": "MTN"
+  },
+  "BT": {
+    "@bt.bt": "BT",
+    "@tashicell.com": "tashicell"
+  },
+  "BY": {
+    "sss@mts.by": "MTS"
+  },
+  "CA": {
+    "@windmobile.ca": "windmobile"
+  },
+  "CD": {
+    "@orange.com": "Orange"
+  },
+  "CN": {
+    "@chinaunicom.cn": "Chinaunicom"
+  },
+  "DE": {
+    "@telekom.de": "Telekom"
+  },
+  "EG": {
+    "@tedata.net": "TelecomEgypt"
+  },
+  "GA": {
+    "@gabontelecom.ga": "Gabon Telecom"
   },
   "GB": {
-   "@lycatel.com": "Lycatel",
-   "@three.co.uk": "Three",
-   "@sa.zain.com": "Zain"
+    "@lycatel.com": "Lycatel",
+    "@three.co.uk": "Three",
+    "@sa.zain.com": "Zain",
+    "@o2.com": "O2",
+    "@manxtelecom.com": "Manx Telecom"
+  },
+  "HK": {
+    "@hk.chinamobile.com": "China Mobile"
   },
   "HR": {
-   "@t.ht.hr": "Hrvatski Telekom"
+    "@t.ht.hr": "Hrvatski Telekom"
   },
   "ID": {
-   "@indosat.co.id": "Indosat",
-   "@smartfren.com": "Smartfren",
-   "@access.net.id":"Smartfren",
-   "@indosatooredoo.com": "Indosat",
-   "@telkomsel.co.id": "Telkomsel",
-   "@telkom.net.id": "Telkomsel",
-   "@telkom.co.id": "Telkom Indonesia",
-   "@xl.co.id": "XL",
-   "@internux.co.id": "Bolt (Internux)",
-   "@tri.co.id": "Tri",
-   "@three.co.id": "Tri",
-   "@axisworld.co.id":"AXIS",
-   "@cbn.net.id" : "CBN",
-   "@top.net.id" : "CBN" ,
-   "@myrepublic.net.id" : "MyRepubic",
-   "@linknet.co.id" : "LinkNet",
-   "@idnic.net" : "Telkomsel"
+    "@indosat.co.id": "Indosat",
+    "@smartfren.com": "Smartfren",
+    "@access.net.id": "Smartfren",
+    "@indosatooredoo.com": "Indosat",
+    "@telkomsel.co.id": "Telkomsel",
+    "@telkom.net.id": "Telkomsel",
+    "@telkom.co.id": "Telkom Indonesia",
+    "@xl.co.id": "XL",
+    "@internux.co.id": "Bolt (Internux)",
+    "@tri.co.id": "Tri",
+    "@three.co.id": "Tri",
+    "@axisworld.co.id": "AXIS",
+    "@cbn.net.id": "CBN",
+    "@top.net.id": "CBN",
+    "@myrepublic.net.id": "MyRepubic",
+    "@linknet.co.id": "LinkNet",
+    "@idnic.net": "Telkomsel"
   },
   "IL": {
-   "@pelephone.co.il": "Pelephone"
+    "@pelephone.co.il": "Pelephone"
   },
   "IN": {
-   "bsnl": "BSNL",
-   "bhooma.sri62@gmail.com": "BSNL",
-   "sdenodalgprs@gmail.com": "BSNL",
-   "airtel": "Airtel",
-   "reliance": "Reliance Communications",
-   "vodafone": "Vodafone",
-   "@ril.com": "Jio",
-   "aircel": "Aircel",
-   "idea" : "Idea",
-   "tata": "Tata DoCoMo",
-   "telenor": "Airtel",
-   "acttv": "ACT Internet",
-   "actcorp": "ACT Internet",
-   "railtelindia": "RailTel India",
-   "mtsindia": "MTS India",
-   "mtnl": "MTNL India",
-   "hathway": "Hathway"
+    "bsnl": "BSNL",
+    "bhooma.sri62@gmail.com": "BSNL",
+    "sdenodalgprs@gmail.com": "BSNL",
+    "airtel": "Airtel",
+    "reliance": "Reliance Communications",
+    "vodafone": "Vodafone",
+    "@ril.com": "Jio",
+    "aircel": "Aircel",
+    "idea": "Idea",
+    "tata": "Tata DoCoMo",
+    "telenor": "Airtel",
+    "acttv": "ACT Internet",
+    "actcorp": "ACT Internet",
+    "railtelindia": "RailTel India",
+    "mtsindia": "MTS India",
+    "mtnl": "MTNL India",
+    "hathway": "Hathway"
   },
   "JP": {
-    "@kg-nishimura" : "KDDI"
-    },
+    "@kg-nishimura": "KDDI"
+  },
   "KH": {
-   "@smart.com.kh": "Smart"
+    "@smart.com.kh": "Smart"
   },
   "KR": {
-  "@orange.sk" : "Orange"
+    "@orange.sk": "Orange"
   },
   "KW": {
-   "@kw.zain.com": "Zain",
-   "@ooredoo.com.kw": "Ooredoo",
-   "@viva.com.kw": "Viva"
+    "@kw.zain.com": "Zain",
+    "@ooredoo.com.kw": "Ooredoo",
+    "@viva.com.kw": "Viva"
   },
   "LK": {
-   "@dialog.lk": "Dialog"
+    "@dialog.lk": "Dialog"
   },
   "MM": {
-   "telenor": "Telenor",
-   "@packet-1.com" : "P1",
-   "@kddi.com" : "MPT",
-   "@mptmail.net.mm" : "MPT",
-   "@ooredoo.com.mm" : "Ooredoo"
+    "telenor": "Telenor",
+    "@packet-1.com": "P1",
+    "@kddi.com": "MPT",
+    "@mptmail.net.mm": "MPT",
+    "@ooredoo.com.mm": "Ooredoo"
   },
   "MU": {
-   "@emtelnet.com": "Emtelnet"
+    "@emtelnet.com": "Emtelnet"
   },
   "MY": {
-   "@packet-1.com": "P1",
-   "@maxis.com.my": "Maxis",
-   "@digi.com.my": "Digi",
-   "chsoo@digi.com.my" : "Digi",
-   "@u.com.my": "U Mobile",
-   "@celcom.com.my": "Celcom",
-   "@tm.com.my": "TM",
-   "@abuse@tm.com.my" : "TM",
-   "@maxis.net.my" : "Maxis"
+    "@packet-1.com": "P1",
+    "@maxis.com.my": "Maxis",
+    "@digi.com.my": "Digi",
+    "chsoo@digi.com.my": "Digi",
+    "@u.com.my": "U Mobile",
+    "@celcom.com.my": "Celcom",
+    "@tm.com.my": "TM",
+    "@abuse@tm.com.my": "TM",
+    "@maxis.net.my": "Maxis"
+  },
+  "NG": {
+    "@gloworld.com": "Glo"
+  },
+  "NO": {
+    "@netcom.no": "Telia"
   },
   "NP": {
-  "@ntc.net.np" : "Nepal Telecom",
-  "@ncell.axiata.com" : "Ncell",
-    "@ncell.com.np" : "Ncell"
+    "@ntc.net.np": "Nepal Telecom",
+    "@ncell.axiata.com": "Ncell",
+    "@ncell.com.np": "Ncell"
   },
   "OM": {
-   "@omantel.om": "Omantel",
-   "@nawras.om": "Ooredoo"
+    "@omantel.om": "Omantel",
+    "@nawras.om": "Ooredoo"
+  },
+  "PK": {
+    "@zong.com.pk": "Zong",
+    "@mobilink.net": "Mobilink"
   },
   "PH": {
-   "@globe.com.ph": "Globe Philippines",
-   "@pldt.com.ph": "Smart",
-   "@smart.com.ph": "Smart"
+    "@globe.com.ph": "Globe Philippines",
+    "@pldt.com.ph": "Smart",
+    "@smart.com.ph": "Smart"
   },
   "QA": {
-   "vodafone": "Vodafone"
+    "@qatar.net.qa": "Ooredoo"
+  },
+  "RU": {
+    "@megafon.ru": "Megafon"
+  },
+  "RS": {
+    "@telekom.rs": "Telekom"
   },
   "SA": {
-   "@stc.com.sa": "STC",
-   "@mobily.com.sa": "Mobily",
-   "@sa.zain.com": "Zain"
+    "@stc.com.sa": "STC",
+    "@mobily.com.sa": "Mobily",
+    "@sa.zain.com": "Zain"
+  },
+  "SD": {
+    "@mtn.sd": "MTN"
   },
   "SG": {
-   "@singnet.com.sg": "Singnet",
-   "@m1.com.sg": "M1",
-   "@starhub.com": "Starhub"
+    "@singnet.com.sg": "Singnet",
+    "@m1.com.sg": "M1",
+    "@starhub.com": "Starhub"
   },
   "SN": {
-   "@orange-sonatel.com": "Orange"
+    "@orange-sonatel.com": "Orange"
+  },
+  "SS": {
+    "@mtn.com": "MTN"
   },
   "TH": {
-   "@ais.co.th": "AIS"
+    "@ais.co.th": "AIS",
+    "@dtac.co.th": "DTAC",
+    "@truecorp.co.th": "True"
+  },
+  "UA": {
+    "@mts.com.ua": "MTS"
+  },
+  "US": {
+    "@sprint.net": "Sprint"
   },
   "ZA": {
-   "@vodacom.co.za": "Vodacom"
+    "@vodacom.co.za": "Vodacom",
+    "@cellc.co.za": "CellC"
   },
   "VN": {
-   "@mobifone.vn": "Mobifone",
-   "@vnpt.vn": "VNPT",
-   "@viettel.com.vn": "Viettel"
+    "@mobifone.vn": "Mobifone",
+    "@vnpt.vn": "VNPT",
+    "@viettel.com.vn": "Viettel"
   },
   "ZM": {
-   "airtel": "Airtel"
+    "airtel": "Airtel"
   }
-    
- }
+}
