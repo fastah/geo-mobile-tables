@@ -2,20 +2,30 @@
   "AE": {
     "42402": "Etisalat",
     "42403": "DU",
-    "4242": "Emirates",
+    "4242": "Etisalat",
     "4243": "DU"
   },
   "AF": {
     "41250": "Etisalat"
   },
+  "AM": {
+    "2835": "VivaCell MTS"
+  },
+  "AO": {
+    "6312": "Unitel"
+  },
   "AU": {
     "50502": "Optus",
-    "5052": "Optus"
+    "5052": "Optus",
+    "5053": "Vodafone"
   },
   "BD": {
-    "47001": "GP",
+    "47001": "Grameenphone",
+    "47002": "Robi",
+    "47003": "Banglalink",
     "4701": "Grameenphone",
-    "47002": "Robi"
+    "4702": "Robi",
+    "4703": "Banglalink"
   },
   "BH": {
     "42601": "Batelco",
@@ -23,12 +33,45 @@
     "42604": "Viva",
     "4262": "Zain"
   },
+  "BJ": {
+    "6163": "MTN"
+  },
+  "BT": {
+    "40211": "BT",
+    "40277": "Tashicell"
+  },
+  "BY": {
+    "25702": "MTS"
+  },
+  "CA": {
+    "302490": "Freedom Mobile"
+  },
+  "CD": {
+    "63086": "Orange"
+  },
+  "CN": {
+    "4601": "China Unicom"
+  },
+  "DE": {
+    "2621": "Telekom"
+  },
+  "EG": {
+    "6022": "Vodafone",
+    "6023": "Etisalat"
+  },
   "FJ": {
     "5421": "Vodafone"
   },
+  "GA": {
+    "62801": "Gabon Telecom"
+  },
   "GB": {
     "20820": "Lycatel",
-    "23420": "Three"
+    "23420": "Three",
+    "310410": "Manx telecom"
+  },
+  "HK": {
+    "45412": "China Mobile"
   },
   "HR": {
     "2191": "HRVATSKI TELEKOM"
@@ -47,10 +90,9 @@
     "5109": "Smartfren"
   },
   "IL": {
-   "4253": "Pelephone"
+    "4253": "Pelephone"
   },
   "IN": {
-    "20020": "Vodafone",
     "40401": "Vodafone",
     "40402": "Airtel",
     "40403": "Airtel",
@@ -97,11 +139,9 @@
     "40462": "BSNL",
     "40464": "BSNL",
     "40466": "BSNL",
-    "40468": "Jio",
-    "40469": "BSNL",
+    "40468": "MTNL",
+    "40469": "MTNL",
     "4047": "Idea",
-    "40468":"MTNL",
-    "40469":"MTNL",
     "40470": "Airtel",
     "40471": "BSNL",
     "40472": "BSNL",
@@ -178,7 +218,18 @@
     "405879": "Jio",
     "405927": "Vodafone"
   },
+  "IQ": {
+    "41820": "Zain"
+  },
+  "JO": {
+    "4163": "Wi-tribe",
+    "41677": "Orange"
+  },
+  "KG": {
+    "4371": "Beeline"
+  },
   "KH": {
+    "45606": "Viettel",
     "4566": "Smart"
   },
   "KW": {
@@ -190,10 +241,15 @@
     "4194": "Viva"
   },
   "LK": {
-   "4132": "Dialog"
+    "4132": "Dialog"
   },
   "MM": {
+    "4141": "MPT",
     "4146": "Telenor"
+  },
+  "MU": {
+    "61710": "Emtel",
+    "6173": "MTML"
   },
   "MY": {
     "50211": "P1",
@@ -203,32 +259,65 @@
     "50218": "U Mobile",
     "50219": "Celcom"
   },
+  "MZ": {
+    "6433": "Viettel"
+  },
+  "NG": {
+    "62120": "Airtel",
+    "62150": "Glo"
+  },
+  "NO": {
+    "24202": "Telia"
+  },
   "NP": {
-    "42901": "NT",
+    "42901": "Nepal Telecom",
+    "4291": "Nepal Telecom",
     "4292": "Ncell"
   },
+  "NZ": {
+    "5301": "Vodafone"
+  },
   "OM": {
-   "42202": "Omantel",
-   "42203": "Ooredoo",
-   "4222": "Ooredoo",
-   "4223": "Ooredoo"
+    "42202": "Omantel",
+    "42203": "Ooredoo",
+    "4222": "Ooredoo",
+    "4223": "Ooredoo"
   },
   "PH": {
-    "51502": "Globe",
-    "51503": "Smart",
-    "5152": "Globe",
-    "5153": "Smart"
+    "51502": "Globe Philippines",
+    "51503": "Smart (PLDT)",
+    "5152": "Globe Philippines",
+    "5153": "Smart (PLDT)"
+  },
+  "PK": {
+    "41004": "Zong",
+    "41006": "Telenor",
+    "4101": "Jazz",
+    "4103": "Ufone",
+    "4104": "Zong",
+    "4106": "Telenor"
   },
   "QA": {
+    "42702": "Vodafone",
     "4271": "Ooredoo",
     "4272": "Vodafone"
   },
+  "RS": {
+    "2203": "Telekom"
+  },
+  "RU": {
+    "2502": "Megafon"
+  },
   "SA": {
-   "42001": "STC",
-   "42003": "Mobily",
-   "4201": "STC",
-   "4203": "Mobily",
-   "4204": "Zain"
+    "42001": "STC",
+    "42003": "Mobily",
+    "42004": "Zain",
+    "4201": "STC",
+    "4203": "Mobily",
+    "4204": "Zain"
+  },
+  "SD": {
+    "6342": "MTN"
   },
   "SG": {
     "52501": "Singnet",
@@ -239,11 +328,36 @@
   "SN": {
     "6081": "Orange"
   },
+  "SS": {
+    "6592": "MTN"
+  },
   "TH": {
-   "5203": "AIS"
-   },
+    "5203": "AIS",
+    "5200": "true",
+    "52000": "true",
+    "52003": "AIS",
+    "52018": "dtac",
+    "5204": "true",
+    "5205": "dtac"
+  },
+  "UA": {
+    "2551": "MTS"
+  },
+  "UG": {
+    "6411": "Airtel"
+  },
+  "US": {
+    "310120": "Sprint",
+    "310410": "AT&T"
+  },
+  "VN": {
+    "4521": "Mobifone",
+    "45201": "Mobifone"
+  },
   "ZA": {
-    "65501": "Vodacom"
+    "65501": "Vodacom",
+    "6557": "CellC",
+    "65507": "CellC"
   },
   "ZM": {
     "6451": "Airtel"
