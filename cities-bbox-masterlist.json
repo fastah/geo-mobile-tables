@@ -1209,6 +1209,18 @@
 		},
 		{ "type": "Feature",
 			"properties": {
+				"city": " Banjarmasin City, South Kalimantan, Indonesia",
+				"country":"ID",
+				"PlaceID":"ChIJYcnuoZog5C0R0gSSwPwLAyY",
+				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates":[[[114.560301944,-3.3549218606],[114.6263627403,-3.3549218606],[114.6263627403,-3.276998925],[114.560301944,-3.276998925],[114.560301944,-3.3549218606]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
 				"city": "Kuala Lumpur, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJ5-rvAcdJzDERfSgcL1uO2fQ",
@@ -1216,7 +1228,7 @@
 			},
 			"geometry": {
 				"type": "Polygon",
-				"coordinates": [[[101.61545,3.0336329],[101.758529,3.0336329],[101.758529,3.2433789],[101.61545,3.2433789],[101.61545,3.0336329]]]
+				"coordinates": [[[101.5164207856,3.0445272731],[101.7914384048,3.0445272731],[101.7914384048,3.2734191424],[101.5164207856,3.2734191424],[101.5164207856,3.0445272731]]]
 			}
 		},
 		{ "type": "Feature",
@@ -1317,6 +1329,18 @@
 		},
 		{ "type": "Feature",
 			"properties": {
+				"city": "Johor Bahru, Johor, Malaysia",
+				"country":"MY",
+				"PlaceID":"ChIJJzpr08YS2jER9dSTtR2y9NU",
+				"mobilenetworks":["U Mobile", "P1", "Digi", "Maxis", "Celcom"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[103.6848728379,1.4815006468],[103.8315413913,1.4815006468],[103.8315413913,1.5581821506],[103.6848728379,1.5581821506],[103.6848728379,1.4815006468]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
 				"city": "Ipoh, Perak, Malaysia",
 				"country":"MY",
 				"PlaceID":"ChIJ4zNA83nsyjERWehSaUaf3I8",
@@ -1409,6 +1433,42 @@
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": 	[[[121.0349741298,14.4994093095],[121.1391725856,14.4994093095],[121.1391725856,14.562770786],[121.0349741298,14.562770786],[121.0349741298,14.4994093095]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Hồ Chí Minh City, Vietnam",
+				"country":"VN",
+				"PlaceID":"ChIJ0T2NLikpdTERKxE8d61aX_E",
+				"mobilenetworks":["Viettel", "GMobile", "Vinafone"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[106.334905666,10.3190913718],[107.2700632034,10.3190913718],[107.2700632034,11.0652356872],[106.334905666,11.0652356872],[106.334905666,10.3190913718]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Hà Nội, Vietnam",
+				"country":"VN",
+				"PlaceID":"ChIJoRyG2ZurNTERqRfKcnt_iOc",
+				"mobilenetworks":["Viettel", "GMobile", "Vinafone"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[105.2598310579,20.564516],[106.1850966085,20.564516],[106.1850966085,21.3969139125],[105.2598310579,21.3969139125],[105.2598310579,20.564516]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Hải Phòng,Vietnam",
+				"country":"VN",
+				"PlaceID":"ChIJ0xo_nvN6SjER6Ad6-F_I_6U",
+				"mobilenetworks":["Viettel", "GMobile", "Vinafone"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[106.525656306,20.7927293289],[106.8004754416,20.7927293289],[106.8004754416,21.021215],[106.525656306,21.021215],[106.525656306,20.7927293289]]]
 			}
 		}
 	]
