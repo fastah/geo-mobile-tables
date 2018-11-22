@@ -2,32 +2,6 @@
 	"features": [
 		{ "type": "Feature",
 			"properties": {
-				"city": "Iblur, Bengaluru, Karnataka,India",
-				"country":"IN",
-				"PlaceID":"ChIJM47uV38TrjsRF7ARI0gFZsk",
-				"mobilenetworks":["Jio","Airtel","Vodafone","Idea"],
-				"tz": "Asia/Kolkata"
-			},
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [[[77.6517359,12.920345],[77.665628,12.920345],[77.665628,12.929651],[77.6517359,12.929651],[77.6517359,12.920345]]]
-			}
-		},
-		{ "type": "Feature",
-			"properties": {
-				"city": "Ganganagar, Bengaluru, Karnataka,India",
-				"country":"IN",
-				"PlaceID":"ChIJExtrF7gXrjsReKOSwpmE8_s",
-				"mobilenetworks":["Jio","Airtel","Vodafone","Idea"],
-				"tz": "Asia/Kolkata"
-			},
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [[[77.5829804015,13.0136502338],[77.5906716358,13.0136502338],[77.5906716358,13.0281648433],[77.5829804015,13.0281648433],[77.5829804015,13.0136502338]]]
-			}
-		},
-		{ "type": "Feature",
-			"properties": {
 				"city": "Bengaluru, Karnataka, India",
 				"country":"IN",
 				"PlaceID":"ChIJbU60yXAWrjsR4E9-UejD3_g",
@@ -1197,7 +1171,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": " Samarinda City, East Kalimantan, Indonesia",
+				"city": "Samarinda City, East Kalimantan, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJV0hbOp5_9i0R4-rmrY1n2dk",
 				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
@@ -1209,7 +1183,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": " Banjarmasin City, South Kalimantan, Indonesia",
+				"city": "Banjarmasin City, South Kalimantan, Indonesia",
 				"country":"ID",
 				"PlaceID":"ChIJYcnuoZog5C0R0gSSwPwLAyY",
 				"mobilenetworks":["Telkomsel", "Smartfren", "Tri", "XL","AXIS","Indosat"]
