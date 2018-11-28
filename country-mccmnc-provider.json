@@ -286,8 +286,11 @@
   "PH": {
     "51502": "Globe Philippines",
     "51503": "Smart (PLDT)",
+    "51505": "Sun Cellular",
     "5152": "Globe Philippines",
-    "5153": "Smart (PLDT)"
+    "5153": "Smart (PLDT)",
+    "51588": "Next Mobile",
+    "51524": "ABS-CBN Mobile"
   },
   "PK": {
     "41004": "Zong",
@@ -333,12 +336,15 @@
   },
   "TH": {
     "5203": "AIS",
-    "5200": "true",
-    "52000": "true",
+    "5200": "TrueMove H",
+    "52000": "TrueMove H",
     "52003": "AIS",
     "52018": "dtac",
-    "5204": "true",
-    "5205": "dtac"
+    "5204": "TrueMove H",
+    "52004": "TrueMove H",
+    "5205": "dtac",
+    "52005": "dtac",
+    "52025": "TrueMove H"
   },
   "UA": {
     "2551": "MTS"
