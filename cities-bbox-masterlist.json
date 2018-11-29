@@ -1462,7 +1462,7 @@
 				"city": "Bangkok,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJ82ENKDJgHTERIEjiXbIAAQE",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1474,7 +1474,7 @@
 				"city": "Pattaya,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJ49cxTZKVAjER_xC9qQHzf6k",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1486,7 +1486,7 @@
 				"city": " Phuket,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJT1JixOIxUDARIbo9BoWayuk",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1498,7 +1498,7 @@
 				"city": "Ayutthaya,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJg4-8rtp14jARGSv_p5Bvw0c",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1510,7 +1510,7 @@
 				"city": "Chiang Mai,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJXW-7kH462jARZ0ObpXBi1Jg",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1522,7 +1522,7 @@
 				"city": "Khon Kaen,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJL46YkStgIjERxpx5zwUIPwk",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1534,7 +1534,7 @@
 				"city": "Nakhon Si Thammarat,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJi1amohUBUzAR8gJfvEMI4zQ",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1546,7 +1546,7 @@
 				"city": "Hat Yai,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJQQ4s5UQoTTARbuXMfeczYLM",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1558,7 +1558,7 @@
 				"city": "Udon Thani,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJhUO3g153IzEROAErH0LKwjY",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1570,7 +1570,7 @@
 				"city": "Chiang Rai,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJZYPDE2cG1zARNwa2sbtUFXE",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1582,7 +1582,7 @@
 				"city": "Krabi,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJCZN_LXmNUTARkEw2LLwjAgE",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1594,7 +1594,7 @@
 				"city": "Buri Ram,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJRzKjJ8CZGTERcEneyM9pBAE",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1606,7 +1606,7 @@
 				"city": "Hua Hin,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJ8xFjcVla_DAR4H02LLwjAgM",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1618,7 +1618,7 @@
 				"city": "Nakhon Ratchasima,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJ75DkzLdMGTERUD7OM9JpBAo",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1630,7 +1630,7 @@
 				"city": "Ubon Ratchathani,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJzfzghbQuFDERx0XQjV54hjc",
-				"mobilenetworks":["TrueMove H","AIS", "dtac"]
+				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
 			},
 			"geometry": {
 				"type": "Polygon",
