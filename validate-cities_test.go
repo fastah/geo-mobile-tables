@@ -3,6 +3,8 @@
 package main
 
 import (
+	"bytes"
+	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"os"
@@ -31,16 +33,35 @@ func TestCitiesJsonFormat(t *testing.T) {
 		t.Errorf("Features array inside GeoJSON should not be zero :(\n")
 	}
 
+	// Country duplicate entries
+	duplicates, err := CheckDuplicateKeys(json.NewDecoder(bytes.NewReader(raw)), nil)
+	if err != nil {
+		t.Fatalf("Error ! %+v\n", err)
+	}
+	if len(duplicates) > 0 {
+		for _, dup := range duplicates {
+			t.Logf("Duplicate key: %s\n", dup)
+		}
+		t.Fatalf("Duplicate keys found in JSON : %d\n", len(duplicates))
+	}
+
 	// 1. Counting number of countries and cities in each
 	distinctCountries := make(map[string]int)
+	placeIDs := make(map[string]int)
 	for _, city := range cities.Features {
 		country := city.Properties["country"].(string)
 		cityName := city.Properties["city"].(string)
+		placeId := city.Properties["PlaceID"].(string)
 		if country == "" || cityName == "" {
 			t.Errorf("Country or city are MISSING %+v\n", *city)
 		}
+		if placeId == "" {
+			t.Errorf("PlaceID is MISSING %+v\n", *city)
+		}
 		distinctCountries[country] = distinctCountries[country] + 1
+		placeIDs[placeId] = placeIDs[placeId] + 1
 	}
+
 	//t.Logf("Cities in EACH COUNTRY %+v\n", distinctCountries)
 	table := tablewriter.NewWriter(os.Stdout)
 	table.SetHeader([]string{"Country", "Cities"})
@@ -51,7 +72,6 @@ func TestCitiesJsonFormat(t *testing.T) {
 
 	// 2. Parsing and dimension checks
 	for _, city := range cities.Features {
-
 		if !(city.Geometry.GeoJSONType() == "Polygon") {
 			t.Errorf("Feature type is not Polygon, must be one. %+v\n", *city)
 		}
@@ -71,6 +91,13 @@ func TestCitiesJsonFormat(t *testing.T) {
 			t.Errorf("Duplication entry for city %s\n", cityName)
 		} else {
 			areasMap[cityName] = fakeArea
+		}
+	}
+
+	// 4. Duplication PlaceID checks
+	for k, v := range placeIDs {
+		if v > 1 {
+			t.Errorf("PlaceID %s is mentioned %d times\n", k, v)
 		}
 	}
 

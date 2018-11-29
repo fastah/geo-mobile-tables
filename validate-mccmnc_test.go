@@ -3,6 +3,7 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"io/ioutil"
 	"testing"
@@ -29,6 +30,18 @@ func TestMCCMNCFormat(t *testing.T) {
 
 	if len(ruleBook) == 0 {
 		t.Fatalf("JSON has zero rules :(\n")
+	}
+
+	// Country duplicate entries
+	duplicates, err := CheckDuplicateKeys(json.NewDecoder(bytes.NewReader(raw)), nil)
+	if err != nil {
+		t.Fatalf("Error ! %+v\n", err)
+	}
+	if len(duplicates) > 0 {
+		for _, dup := range duplicates {
+			t.Logf("Duplicate key: %s\n", dup)
+		}
+		t.Fatalf("Duplicate keys found in JSON : %d\n", len(duplicates))
 	}
 
 	for country, countryRules := range ruleBook {
