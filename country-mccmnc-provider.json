@@ -74,7 +74,7 @@
     "45412": "China Mobile"
   },
   "HR": {
-    "2191": "HRVATSKI TELEKOM"
+    "2191": "HRVATSKI"
   },
   "ID": {
     "302720": "Tri",
@@ -336,15 +336,17 @@
   },
   "TH": {
     "5203": "AIS",
-    "5200": "TrueMove H",
-    "52000": "TrueMove H",
     "52003": "AIS",
+    "52015": "AIS",
+    "5200": "TrueMove",
+    "52000": "TrueMove",
     "52018": "dtac",
-    "5204": "TrueMove H",
-    "52004": "TrueMove H",
+    "5204": "TrueMove",
+    "52004": "TrueMove",
     "5205": "dtac",
     "52005": "dtac",
-    "52025": "TrueMove H"
+    "52025": "TrueMove",
+    "52047": "dtac"
   },
   "UA": {
     "2551": "MTS"
