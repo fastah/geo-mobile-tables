@@ -7,6 +7,8 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"testing"
+
+	"./utils"
 )
 
 func TestMCCMNCFormat(t *testing.T) {
@@ -33,7 +35,7 @@ func TestMCCMNCFormat(t *testing.T) {
 	}
 
 	// Country duplicate entries
-	duplicates, err := CheckDuplicateKeys(json.NewDecoder(bytes.NewReader(raw)), nil)
+	duplicates, err := utils.CheckDuplicateKeys(json.NewDecoder(bytes.NewReader(raw)), nil)
 	if err != nil {
 		t.Fatalf("Error ! %+v\n", err)
 	}

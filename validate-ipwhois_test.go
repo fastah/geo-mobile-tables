@@ -8,6 +8,8 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"testing"
+
+	"./utils"
 )
 
 func TestIPWhoisFormat(t *testing.T) {
@@ -34,7 +36,7 @@ func TestIPWhoisFormat(t *testing.T) {
 	}
 
 	// Country duplicate entries
-	duplicates, err := CheckDuplicateKeys(json.NewDecoder(bytes.NewReader(raw)), nil)
+	duplicates, err := utils.CheckDuplicateKeys(json.NewDecoder(bytes.NewReader(raw)), nil)
 	if err != nil {
 		t.Fatalf("Error ! %+v\n", err)
 	}

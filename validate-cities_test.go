@@ -15,6 +15,8 @@ import (
 	"github.com/olekukonko/tablewriter"
 	"github.com/paulmach/orb/geojson"
 	"github.com/paulmach/orb/planar"
+
+	"./utils"
 )
 
 func TestCitiesJsonFormat(t *testing.T) {
@@ -34,7 +36,7 @@ func TestCitiesJsonFormat(t *testing.T) {
 	}
 
 	// Country duplicate entries
-	duplicates, err := CheckDuplicateKeys(json.NewDecoder(bytes.NewReader(raw)), nil)
+	duplicates, err := utils.CheckDuplicateKeys(json.NewDecoder(bytes.NewReader(raw)), nil)
 	if err != nil {
 		t.Fatalf("Error ! %+v\n", err)
 	}
