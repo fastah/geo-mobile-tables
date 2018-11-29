@@ -6,7 +6,7 @@
   "AF": {
     "@etisalat.af": "Etisalat",
     "@mtn.com.af": "MTN",
-    "@telsysint.com":"Afghan Wireless"
+    "@telsysint.com": "Afghan Wireless"
   },
   "AM": {
     "@mts.am": "MTS",
@@ -17,7 +17,6 @@
     "@movicel.co.ao": "movicel"
   },
   "AT": {
-    "@gcore.lu": "gcore",
     "@drei.at": "Drei"
   },
   "AU": {
@@ -27,8 +26,7 @@
   },
   "AZ": {
     "@bakcell.com": "bakcell",
-    "@azercell.com": "Azercell",
-    "@telstra.net": "Telstra"
+    "@azercell.com": "Azercell"
   },
   "BD": {
     "@grameenphone.com": "Grameenphone",
@@ -44,8 +42,7 @@
     "@batelco.com.bh": "Batelco",
     "@btc.com.bh": "Batelco",
     "@bh.zain.com": "Zain",
-    "@viva.com.bh": "Viva",
-    "@btc.com.bh": "Batelco"
+    "@viva.com.bh": "Viva"
   },
   "BJ": {
     "@mtn.bj": "MTN",
@@ -98,9 +95,6 @@
     "@orange.com": "Orange",
     "@etisalat.com": "Etisalat Misr"
   },
-  "GA": {
-    "@gabontelecom.ga": "Gabon Telecom"
-  },
   "ES": {
     "@orange.es": "Orange",
     "@telefonica.es": " Telefonica"
@@ -108,18 +102,18 @@
   "ET": {
     "@ethiotelecom.et": " Ethio Telecom"
   },
-  "FI":{
+  "FI": {
     "@telia.fi": "Telia",
     "@digicelgroup.com": "Digicel"
   },
-  "FR":{
+  "FR": {
     "@orange.com": "Orange",
     "@bouyguestelecom.fr": "Bouygues Telecom"
   },
-  "GA":{
+  "GA": {
     "@gabontelecom.ga": "Gabon Telecom"
   },
-  "GE":{
+  "GE": {
     "@beeline.ge": "Beeline"
   },
   "GB": {
@@ -147,7 +141,7 @@
     "@telkom.net.id": "Telkomsel",
     "@telkom.co.id": "Telkom Indonesia",
     "@xl.co.id": "XL",
-    "@internux.co.id": "Bolt (Internux)",
+    "@internux.co.id": "Bolt",
     "@tri.co.id": "Tri",
     "@three.co.id": "Tri",
     "@axisworld.co.id": "AXIS",
@@ -162,13 +156,19 @@
   },
   "IN": {
     "@bsnl.co.in": "BSNL",
+    "bhooma.sri62@gmail.com": "BSNL",
+    "sdenodalgprs@gmail.com": "BSNL",
     "@in.airtel.com": "Airtel",
-    "@relianceada.com": "Reliance Communications",
+    "@airtel": "Airtel",
+    "@telenor": "Airtel",
+    "@aircel": "Aircel",
+    "@relianceada.com": "RCom",
     "@vodafone.com": "Vodafone",
+    "@tata": "Tata DoCoMo",
     "@jio.com": "Jio",
+    "@ril.com": "Jio",
     "@idea.adityabirla.com": "Idea",
-    "@railtelindia.com": "RailTel India",
-    "@mtsindia,in": "MTS India",
+    "@mtsindia.in": "MTS",
     "@mtnl.net.in": "MTNL India"
   },
   "IQ": {
@@ -218,8 +218,8 @@
   "LK": {
     "@dialog.lk": "Dialog",
     "@hutchison.lk": "Hutch",
-    "@mobitel.lk" : "Mobitel",
-    "@sltnet.lk" : "SLT",
+    "@mobitel.lk": "Mobitel",
+    "@sltnet.lk": "SLT",
     "@slt.lk": "SLT"
   },
   "LR": {
@@ -229,11 +229,11 @@
     "@lmt.lv": "LMT",
     "@iam.ma": "Maroc"
   },
-   "MA": {
+  "MA": {
     "@orange.com": "Orange",
     "@iam.ma": "Maroc"
   },
-   "MG": {
+  "MG": {
     "@telma.mg": "Telma",
     "@orange.com": "Orange"
   },
@@ -251,22 +251,19 @@
   "MU": {
     "@emtelnet.com": "Emtelnet",
     "@emtel.com": "Emtel",
-    "@telecom.mu" : "Telecom"
+    "@telecom.mu": "Telecom"
   },
   "MV": {
-    "@ooredoo.mv": "Ooredoo"  
+    "@ooredoo.mv": "Ooredoo"
   },
   "MY": {
     "@packet-1.com": "P1",
     "@maxis.com.my": "Maxis",
     "@maxis.net.my": "Maxis",
     "@digi.com.my": "Digi",
-    "@digi.com.my": "Digi",
     "@u.com.my": "U Mobile",
     "@celcom.com.my": "Celcom",
-    "@tm.com.my": "TM",
-    "@tm.com.my": "TM",
-    "@maxis.net.my": "Maxis"
+    "@tm.com.my": "TM"
   },
   "MZ": {
     "@vm.co.mz": "Vodafone"
@@ -277,9 +274,9 @@
   },
   "NG": {
     "@gloworld.com": "Glo",
-    "@mtnnigeria.net" : "MTN",
+    "@mtnnigeria.net": "MTN",
     "@9mobile.com.ng": "9Mobile",
-    "@ntel.com.ng" : "ntel"
+    "@ntel.com.ng": "ntel"
   },
   "NO": {
     "@netcom.no": "Telia"
@@ -289,11 +286,11 @@
     "@ncell.axiata.com": "Ncell",
     "@ncell.com.np": "Ncell"
   },
-  "NZ":{
+  "NZ": {
     "@2degreesmobile.co.nz": "2degrees",
     "@spark.co.nz": "Spark",
-    "abuse@xtra.co.nz": "Spark"
-},
+    "@xtra.co.nz": "Spark"
+  },
   "OM": {
     "@omantel.om": "Omantel",
     "@nawras.om": "Ooredoo"
@@ -320,18 +317,16 @@
     "@qatar.net.qa": "Ooredoo"
   },
   "RS": {
-    "@telekom.rs": "Telekom",
+    "@telekom.rs": "MTS",
     "@vipmobile.rs": "VIP"
   },
   "RU": {
+    "@mtu.ru": "MTC",
+    "@beeline.ru": "Beeline",
     "@megafon.ru": "Megafon"
   },
   "RW": {
     "@tigo.co.rw": "Tigo"
-  },  
-  "RU": {
-    "@mtu.ru": "MTC",
-    "@beeline.ru": "Beeline"
   },
   "SA": {
     "@stc.com.sa": "STC",
