@@ -16,7 +16,7 @@ import (
 	"github.com/paulmach/orb/geojson"
 	"github.com/paulmach/orb/planar"
 
-	"./utils"
+	"github.com/fastah/geo-mobile-tables/utils"
 )
 
 func TestCitiesJsonFormat(t *testing.T) {

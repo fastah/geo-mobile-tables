@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"./utils"
+	"github.com/fastah/geo-mobile-tables/utils"
 )
 
 func TestIPWhoisFormat(t *testing.T) {

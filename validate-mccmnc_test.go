@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"./utils"
+	"github.com/fastah/geo-mobile-tables/utils"
 )
 
 func TestMCCMNCFormat(t *testing.T) {
