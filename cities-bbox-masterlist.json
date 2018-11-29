@@ -1483,7 +1483,7 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": " Phuket,Thailand",
+				"city": "Phuket,Thailand",
 				"country":"TH",
 				"PlaceID":"ChIJT1JixOIxUDARIbo9BoWayuk",
 				"mobilenetworks":["TrueMove","AIS", "dtac", "TOT"]
