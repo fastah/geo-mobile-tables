@@ -239,7 +239,6 @@
   },
   "MM": {
     "telenor": "Telenor",
-    "@packet-1.com": "P1",
     "@kddi.com": "MPT",
     "@mptmail.net.mm": "MPT",
     "@ooredoo.com.mm": "Ooredoo"
@@ -257,7 +256,7 @@
     "@ooredoo.mv": "Ooredoo"
   },
   "MY": {
-    "@packet-1.com": "P1",
+    "@packet-1.com": "Unifi",
     "@maxis.com.my": "Maxis",
     "@maxis.net.my": "Maxis",
     "@digi.com.my": "Digi",
