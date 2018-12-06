@@ -6,6 +6,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"io/ioutil"
+	"strings"
 	"testing"
 
 	"github.com/fastah/geo-mobile-tables/utils"
@@ -47,6 +48,13 @@ func TestMCCMNCFormat(t *testing.T) {
 	}
 
 	for country, countryRules := range ruleBook {
-		t.Logf("Observing country %s -> %v\n", country, countryRules)
+		t.Logf("Country %s\n", country)
+		for mccmncpair, opname := range countryRules {
+			t.Logf("\t%s -> %s\n", mccmncpair, opname)
+			tuple := strings.Split(mccmncpair, ",")
+			if len(tuple) != 2 {
+				t.Fatalf("Invalid MCC MNC key pair %s (%s/%s)\n", mccmncpair, country, opname)
+			}
+		}
 	}
 }
