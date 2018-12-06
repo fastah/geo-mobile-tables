@@ -6,6 +6,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"io/ioutil"
+	"strconv"
 	"strings"
 	"testing"
 
@@ -54,6 +55,12 @@ func TestMCCMNCFormat(t *testing.T) {
 			tuple := strings.Split(mccmncpair, ",")
 			if len(tuple) != 2 {
 				t.Fatalf("Invalid MCC MNC key pair %s (%s/%s)\n", mccmncpair, country, opname)
+			}
+			if _, err := strconv.ParseInt(tuple[0], 10, 32); err != nil {
+				t.Fatalf("Not an integer two-tuple MCC MNC key pair %s (%s/%s)\n", mccmncpair, country, opname)
+			}
+			if _, err := strconv.ParseInt(tuple[1], 10, 32); err != nil {
+				t.Fatalf("Not an integer two-tuple MCC MNC key pair %s (%s/%s)\n", mccmncpair, country, opname)
 			}
 		}
 	}
