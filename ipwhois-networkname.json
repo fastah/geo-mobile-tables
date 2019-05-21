@@ -22,7 +22,8 @@
   "AU": {
     "@optus.net.au": "Optus",
     "@tpg.com.au": "TPG",
-    "@telstra.net": "Telstra"
+    "@telstra.net": "Telstra",
+    "@team.telstra.com": "Telstra"
   },
   "AZ": {
     "@bakcell.com": "bakcell",
