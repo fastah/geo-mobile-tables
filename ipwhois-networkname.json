@@ -157,19 +157,19 @@
     "@pelephone.co.il": "Pelephone"
   },
   "IN": {
-    "@bsnl.co.in": "BSNL",
+    "@bsnl": "BSNL",
     "bhooma.sri62@gmail.com": "BSNL",
     "sdenodalgprs@gmail.com": "BSNL",
     "@in.airtel.com": "Airtel",
     "@airtel": "Airtel",
     "@telenor": "Airtel",
     "@aircel": "Aircel",
-    "@relianceada.com": "RCom",
-    "@vodafone.com": "Vodafone",
+    "@relianceada.com": "Reliance",
+    "@vodafone.com": "Vodafone Idea",
     "@tata": "Tata DoCoMo",
     "@jio.com": "Jio",
     "@ril.com": "Jio",
-    "@idea.adityabirla.com": "Idea",
+    "@idea.adityabirla.com": "Vodafone Idea",
     "@mtsindia.in": "MTS",
     "@mtnl.net.in": "MTNL India"
   },
