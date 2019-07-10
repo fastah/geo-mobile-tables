@@ -146,12 +146,10 @@
     "@internux.co.id": "Bolt",
     "@tri.co.id": "Tri",
     "@three.co.id": "Tri",
-    "@axisworld.co.id": "AXIS",
     "@cbn.net.id": "CBN",
     "@top.net.id": "CBN",
     "@myrepublic.net.id": "MyRepubic",
-    "@linknet.co.id": "LinkNet",
-    "@idnic.net": "Telkomsel"
+    "@linknet.co.id": "LinkNet"
   },
   "IL": {
     "@pelephone.co.il": "Pelephone"
