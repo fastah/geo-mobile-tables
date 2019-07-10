@@ -525,7 +525,7 @@
 				"city": "Amritsar, Punjab, India",
 				"country":"IN",
 				"PlaceID":"ChIJVXOeVqpkGTkRfe-E7ltgou4",
-				"mobilenetworks":["Jio","Airtel","Tata DoCoMo","Aircel","Vodafone","BSNL","Idea"],
+				"mobilenetworks":["Jio","Airtel","Vodafone Idea","BSNL"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
