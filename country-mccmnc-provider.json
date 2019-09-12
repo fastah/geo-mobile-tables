@@ -376,7 +376,8 @@
     "520,4": "TrueMove",
     "520,5": "dtac",
     "520,25": "TrueMove",
-    "520,47": "dtac"
+    "520,47": "dtac",
+    "520,99": "TrueMove"
   },
   "UA": {
     "255,1": "Vodafone"
