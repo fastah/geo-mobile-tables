@@ -1879,14 +1879,14 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "San Mateo, CA",
+				"city": "Baltimore, MD",
 				"country":"US",
-				"PlaceID":"ChIJRVWp72Cej4ARpxvMLfT8jv0",
+				"PlaceID":"ChIJt4P01q4DyIkRWOcjQqiWSAQ",
 				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
-				"coordinates": 	[[[-122.3666204262,37.4770048653],[-122.2199518729,37.4770048653],[-122.2199518729,37.5818411184],[-122.3666204262,37.5818411184],[-122.3666204262,37.4770048653]]]
+				"coordinates": 	[[[-76.7326674498,39.163725861],[-76.498988036,39.163725861],[-76.498988036,39.3546365028],[-76.7326674498,39.3546365028],[-76.7326674498,39.163725861]]]
 			}
 		},
 		{ "type": "Feature",
@@ -1987,14 +1987,86 @@
 		},
 		{ "type": "Feature",
 			"properties": {
-				"city": "Las Vegas, NV",
+				"city": "Minneapolis–Saint Paul, MN",
 				"country":"US",
-				"PlaceID":"ChIJ0X31pIK3voARo3mz1ebVzDo",
+				"PlaceID":"ChIJj1O3W_0p9ocRIKSuqIbBcNA",
 				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
-				"coordinates": 	[[[-115.3510749305,35.9708778557],[-114.9353218043,35.9708778557],[-114.9353218043,36.2941107625],[-115.3510749305,36.2941107625],[-115.3510749305,35.9708778557]]]
+				"coordinates": 	[[[-93.3824059469,44.8493370897],[-92.9913613302,44.8493370897],[-92.9913613302,45.0733556837],[-93.3824059469,45.0733556837],[-93.3824059469,44.8493370897]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Atlanta, GA",
+				"country":"US",
+				"PlaceID":"ChIJjQmTaV0E9YgRC2MLmS_e_mY",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-84.4952804559,33.6130525344],[-84.28956005,33.6130525344],[-84.28956005,33.8168843461],[-84.4952804559,33.8168843461],[-84.4952804559,33.6130525344]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Jacksonville, FL",
+				"country":"US",
+				"PlaceID":"ChIJ66_O8Ra35YgR4sf8ljh9zcQ",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-81.9157457767,30.1545376071],[-81.4071721254,30.1545376071],[-81.4071721254,30.5037191589],[-81.9157457767,30.5037191589],[-81.9157457767,30.1545376071]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Orlando, FL",
+				"country":"US",
+				"PlaceID":"ChIJd7zN_thz54gRnr-lPAaywwo",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-81.4653607151,28.3900827426],[-81.2622665307,28.3900827426],[-81.2622665307,28.6641026129],[-81.4653607151,28.6641026129],[-81.4653607151,28.3900827426]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Phoenix, AZ",
+				"country":"US",
+				"PlaceID":"ChIJy3mhUO0SK4cRrBtKNfjHaYw",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[-112.63614954,33.0772181985],[-111.4853048468,33.0772181985],[-111.4853048468,33.794280436],[-112.63614954,33.794280436],[-112.63614954,33.0772181985]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Pittsburgh, PA",
+				"country":"US",
+				"PlaceID":"ChIJA4UGSG_xNIgRNBuiWqEV-Y0",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[-80.0857450118,40.3825902074],[-79.8887756517,40.3825902074],[-79.8887756517,40.4913297646],[-80.0857450118,40.4913297646],[-80.0857450118,40.3825902074]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Sacramento, CA",
+				"country":"US",
+				"PlaceID":"ChIJ-ZeDsnLGmoAR238ZdKpqH5I",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [[[-121.5761695772,38.4312894618],[-121.2285767466,38.4312894618],[-121.2285767466,38.7063795156],[-121.5761695772,38.7063795156],[-121.5761695772,38.4312894618]]]
 			}
 		},
 		{ "type": "Feature",
