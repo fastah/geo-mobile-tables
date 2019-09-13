@@ -1636,6 +1636,486 @@
 				"type": "Polygon",
 				"coordinates": 	[[[104.6864193884,15.0483292467],[105.0574547259,15.0483292467],[105.0574547259,15.3999476736],[104.6864193884,15.3999476736],[104.6864193884,15.0483292467]]]
 			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "New York, NY",
+				"country":"US",
+				"PlaceID":"ChIJOwg_06VPwokRYv534QaPC8g",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-74.25909008,40.47739894],[-73.70018092,40.47739894],[-73.70018092,40.91617849],[-74.25909008,40.91617849],[-74.25909008,40.47739894]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Newark, NJ",
+				"country":"US",
+				"PlaceID":"ChIJHQ6aMnBTwokRc-T-3CrcvOE",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-74.25132408,40.67325015],[-74.11278706,40.67325015],[-74.11278706,40.78813864],[-74.25132408,40.78813864],[-74.25132408,40.67325015]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Elizabeth, NJ",
+				"country":"US",
+				"PlaceID":"ChIJHQVC7l9NwokRrQNrUhtZhTI",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-74.25421575,40.63294896],[-74.13776555,40.63294896],[-74.13776555,40.69042794],[-74.25421575,40.69042794],[-74.25421575,40.63294896]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Jersey City, NJ",
+				"country":"US",
+				"PlaceID":"ChIJ3a-_JdJQwokR2SXNohPwSQI",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-74.11705706,40.66162194],[-74.02040508,40.66162194],[-74.02040508,40.76893754],[-74.11705706,40.76893754],[-74.11705706,40.66162194]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Philadelphia, PA",
+				"country":"US",
+				"PlaceID":"ChIJ60u11Ni3xokRwVg-jNgU9Yk",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-75.28029775,39.8592796999],[-74.95583142,39.8592796999],[-74.95583142,40.13795927],[-75.28029775,40.13795927],[-75.28029775,39.8592796999]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Boston, MA",
+				"country":"US",
+				"PlaceID":"ChIJGzE9DS1l44kRoOhiASS_fHg",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-71.1846698113,42.22765398],[-70.9296520837,42.22765398],[-70.9296520837,42.3975687941],[-71.1846698113,42.3975687941],[-71.1846698113,42.22765398]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Washington D.C., DC",
+				"country":"US",
+				"PlaceID":"ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-77.11976633,38.79163024],[-76.90936606,38.79163024],[-76.90936606,38.99585237],[-77.11976633,38.99585237],[-77.11976633,38.79163024]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Charlotte, NC",
+				"country":"US",
+				"PlaceID":"ChIJgRo4_MQfVIgRZNFDv-ZQRog",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-81.00955404,35.01317398],[-80.67010406,35.01317398],[-80.67010406,35.39313294],[-81.00955404,35.39313294],[-81.00955404,35.01317398]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Columbus, OH",
+				"country":"US",
+				"PlaceID":"ChIJcd6QucGJOIgRM7Wxz_hmMuQ",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-83.1804584536,39.857344209],[-82.8236120019,39.857344209],[-82.8236120019,40.1771777601],[-83.1804584536,40.1771777601],[-83.1804584536,39.857344209]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Dallas, TX",
+				"country":"US",
+				"PlaceID":"ChIJS5dFe_cZTIYRj2dH9qSb7Lk",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-97.0487935982,32.5804307438],[-96.5621765098,32.5804307438],[-96.5621765098,33.0707605902],[-97.0487935982,33.0707605902],[-97.0487935982,32.5804307438]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Detroit, MI",
+				"country":"US",
+				"PlaceID":"ChIJdR3LEAHKJIgR0sS5NU6Gdlc",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-83.4437769165,42.2515435037],[-82.8810709229,42.2515435037],[-82.8810709229,42.5098880765],[-83.4437769165,42.5098880765],[-83.4437769165,42.2515435037]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Cincinnati, OH",
+				"country":"US",
+				"PlaceID":"ChIJ-SE43rFRQIgRF5PA5It--2k",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-84.6826474255,39.0148177912],[-84.3946747368,39.0148177912],[-84.3946747368,39.163438143],[-84.6826474255,39.163438143],[-84.6826474255,39.0148177912]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Chicago, IL",
+				"country":"US",
+				"PlaceID":"ChIJ7cv00DwsDogRAMDACa2m4K8",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-88.0912234424,41.5800890461],[-87.5196408992,41.5800890461],[-87.5196408992,42.1177142982],[-88.0912234424,42.1177142982],[-88.0912234424,41.5800890461]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Indianapolis, IN",
+				"country":"US",
+				"PlaceID":"ChIJA2p5p_9Qa4gRfOq5QPadjtY",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-86.3671995575,39.561884317],[-85.8315677817,39.561884317],[-85.8315677817,40.0006905245],[-86.3671995575,40.0006905245],[-86.3671995575,39.561884317]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Denver, CO",
+				"country":"US",
+				"PlaceID":"ChIJzxcfI6qAa4cR1jaKJ_j0jhE",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-105.1990536565,39.5482163723],[-104.7066912765,39.5482163723],[-104.7066912765,39.9673449477],[-105.1990536565,39.9673449477],[-105.1990536565,39.5482163723]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Houston, TX",
+				"country":"US",
+				"PlaceID":"ChIJAYWNSLS4QIYROwVl894CDco",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-95.8007653037,29.4642496956],[-94.925506858,29.4642496956],[-94.925506858,30.1384446492],[-95.8007653037,30.1384446492],[-95.8007653037,29.4642496956]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Fort Worth, TX",
+				"country":"US",
+				"PlaceID":"ChIJrQfILRJuToYRvaxp3fiLr6Q",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-97.5187206003,32.55158395],[-97.110499117,32.55158395],[-97.110499117,32.9007256015],[-97.5187206003,32.9007256015],[-97.5187206003,32.55158395]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "San Jose, CA",
+				"country":"US",
+				"PlaceID":"ChIJ9T_5iuTKj4ARe3GfygqMnbk",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-122.1037705688,37.2096016348],[-121.7486568241,37.2096016348],[-121.7486568241,37.4297424869],[-122.1037705688,37.4297424869],[-122.1037705688,37.2096016348]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "San Francisco, CA",
+				"country":"US",
+				"PlaceID":"ChIJIQBpAG2ahYAR_6128GcTUEo",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-122.5163640084,37.5213918375],[-122.3614396157,37.5213918375],[-122.3614396157,37.8224240093],[-122.5163640084,37.8224240093],[-122.5163640084,37.5213918375]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "San Mateo, CA",
+				"country":"US",
+				"PlaceID":"ChIJRVWp72Cej4ARpxvMLfT8jv0",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-122.3666204262,37.4770048653],[-122.2199518729,37.4770048653],[-122.2199518729,37.5818411184],[-122.3666204262,37.5818411184],[-122.3666204262,37.4770048653]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "San Mateo, CA",
+				"country":"US",
+				"PlaceID":"ChIJRVWp72Cej4ARpxvMLfT8jv0",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-122.3666204262,37.4770048653],[-122.2199518729,37.4770048653],[-122.2199518729,37.5818411184],[-122.3666204262,37.5818411184],[-122.3666204262,37.4770048653]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Palo Alto, CA",
+				"country":"US",
+				"PlaceID":"ChIJORy6nXuwj4ARz3b1NVL1Hw4",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-122.20265632,37.3243918199],[-122.0325195675,37.3243918199],[-122.0325195675,37.4809541581],[-122.20265632,37.4809541581],[-122.20265632,37.3243918199]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Los Angeles, CA",
+				"country":"US",
+				"PlaceID":"ChIJE9on3F3HwoAR9AhGJW_fL-I",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-118.5977573046,33.6659365088],[-117.1377879557,33.6659365088],[-117.1377879557,34.2993432049],[-118.5977573046,34.2993432049],[-118.5977573046,33.6659365088]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "San Antonio, TX",
+				"country":"US",
+				"PlaceID":"ChIJrw7QBK9YXIYRvBagEDvhVgg",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-98.7275430826,29.2071953501],[-98.225036588,29.2071953501],[-98.225036588,29.645655332],[-98.7275430826,29.645655332],[-98.7275430826,29.2071953501]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "San Diego, CA",
+				"country":"US",
+				"PlaceID":"ChIJSx6SrQ9T2YARed8V_f0hOg0",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-117.2890920632,32.4377887408],[-116.8461306089,32.4377887408],[-116.8461306089,33.2674992934],[-117.2890920632,33.2674992934],[-117.2890920632,32.4377887408]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Seattle, WA",
+				"country":"US",
+				"PlaceID":"ChIJVTPokywQkFQRmtVEaUZlJRA",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-122.5351352793,47.14495967],[-121.9657130343,47.14495967],[-121.9657130343,48.0797528281],[-122.5351352793,48.0797528281],[-122.5351352793,47.14495967]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Tampa, FL, USA",
+				"country":"US",
+				"PlaceID":"ChIJ4dG5s4K3wogRY7SWr4kTX6c",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-82.8155715354,27.714095483],[-82.25993978,27.714095483],[-82.25993978,28.17147695],[-82.8155715354,28.17147695],[-82.8155715354,27.714095483]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Austin, TX",
+				"country":"US",
+				"PlaceID":"ChIJLwPMoJm1RIYRetVp1EtGm10",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-97.8616063605,30.0756876255],[-97.5450252304,30.0756876255],[-97.5450252304,30.5328431147],[-97.8616063605,30.5328431147],[-97.8616063605,30.0756876255]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Las Vegas, NV",
+				"country":"US",
+				"PlaceID":"ChIJ0X31pIK3voARo3mz1ebVzDo",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-115.3510749305,35.9708778557],[-114.9353218043,35.9708778557],[-114.9353218043,36.2941107625],[-115.3510749305,36.2941107625],[-115.3510749305,35.9708778557]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Las Vegas, NV",
+				"country":"US",
+				"PlaceID":"ChIJ0X31pIK3voARo3mz1ebVzDo",
+				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-115.3510749305,35.9708778557],[-114.9353218043,35.9708778557],[-114.9353218043,36.2941107625],[-115.3510749305,36.2941107625],[-115.3510749305,35.9708778557]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Melbourne",
+				"country":"AU",
+				"PlaceID":"ChIJ90260rVG1moRkM2MIXVWBAQ",
+				"mobilenetworks":["Optus","Vodafone"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[144.7891310325,-38.0486534011],[145.2688192337,-38.0486534011],[145.2688192337,-37.6485114184],[144.7891310325,-37.6485114184],[144.7891310325,-38.0486534011]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Sydney",
+				"country":"AU",
+				"PlaceID":"ChIJP3Sa8ziYEmsRUKgyFmh9AQM",
+				"mobilenetworks":["Optus","Vodafone"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[150.6697011743,-34.0861961401],[151.3293422017,-34.0861961401],[151.3293422017,-33.6559240945],[150.6697011743,-33.6559240945],[150.6697011743,-34.0861961401]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Perth",
+				"country":"AU",
+				"PlaceID":"ChIJPXNH22yWMioR0FXfNbXwBAM",
+				"mobilenetworks":["Optus","Vodafone"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[115.7348234721,-32.2263834836],[116.0719664164,-32.2263834836],[116.0719664164,-31.7274499072],[115.7348234721,-31.7274499072],[115.7348234721,-32.2263834836]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Brisbane",
+				"country":"AU",
+				"PlaceID":"ChIJM9KTrJpXkWsRQK_e81qjAgQ",
+				"mobilenetworks":["Optus","Vodafone"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[152.736513417,-27.7113279155],[153.298736613,-27.7113279155],[153.298736613,-27.0524992306],[152.736513417,-27.0524992306],[152.736513417,-27.7113279155]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Adelaide",
+				"country":"AU",
+				"PlaceID":"ChIJP7Mmxcc1t2oRQMaOYlQ2AwQ",
+				"mobilenetworks":["Optus","Vodafone"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[138.4831370907,-35.1111228465],[138.7427910166,-35.1111228465],[138.7427910166,-34.7427533613],[138.4831370907,-34.7427533613],[138.4831370907,-35.1111228465]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Ottawa",
+				"country":"CA",
+				"PlaceID":"ChIJrxNRX7IFzkwR7RXdMeFRaoo",
+				"mobilenetworks":["Telus","Bell", "Rogers"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[138.4831370907,-35.1111228465],[138.7427910166,-35.1111228465],[138.7427910166,-34.7427533613],[138.4831370907,-34.7427533613],[138.4831370907,-35.1111228465]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Toronto",
+				"country":"CA",
+				"PlaceID":"ChIJpTvG15DL1IkRd8S0KlBVNTI",
+				"mobilenetworks":["Telus","Bell", "Rogers"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-79.8682275413,43.5711349635],[-79.1624203323,43.5711349635],[-79.1624203323,43.8825883399],[-79.8682275413,43.8825883399],[-79.8682275413,43.5711349635]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Vancouver",
+				"country":"CA",
+				"PlaceID":"ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+				"mobilenetworks":["Telus","Bell", "Rogers"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-123.2140092162,49.1771666256],[-122.939927688,49.1771666256],[-122.939927688,49.333983557],[-123.2140092162,49.333983557],[-123.2140092162,49.1771666256]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Montréal",
+				"country":"CA",
+				"PlaceID":"ChIJDbdkHFQayUwR7-8fITgxTmU",
+				"mobilenetworks":["Telus","Bell", "Rogers"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-73.9320275881,45.3352911256],[-73.3852110007,45.3352911256],[-73.3852110007,45.7297073567],[-73.9320275881,45.7297073567],[-73.9320275881,45.3352911256]]]
+			}
+		},
+		{ "type": "Feature",
+			"properties": {
+				"city": "Quebec",
+				"country":"CA",
+				"PlaceID":"ChIJbc3ra_WYuEwRcoaKH-KcfLU",
+				"mobilenetworks":["Telus","Bell", "Rogers"]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": 	[[[-71.4044709768,46.7292129333],[-71.1434598532,46.7292129333],[-71.1434598532,46.8960088797],[-71.4044709768,46.8960088797],[-71.4044709768,46.7292129333]]]	
+			}
 		}
 	]
 }
