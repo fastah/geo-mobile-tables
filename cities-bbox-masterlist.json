@@ -1642,7 +1642,7 @@
 				"city": "New York, NY",
 				"country":"US",
 				"PlaceID":"ChIJOwg_06VPwokRYv534QaPC8g",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1654,7 +1654,7 @@
 				"city": "Newark, NJ",
 				"country":"US",
 				"PlaceID":"ChIJHQ6aMnBTwokRc-T-3CrcvOE",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1666,7 +1666,7 @@
 				"city": "Elizabeth, NJ",
 				"country":"US",
 				"PlaceID":"ChIJHQVC7l9NwokRrQNrUhtZhTI",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1678,7 +1678,7 @@
 				"city": "Jersey City, NJ",
 				"country":"US",
 				"PlaceID":"ChIJ3a-_JdJQwokR2SXNohPwSQI",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1690,7 +1690,7 @@
 				"city": "Philadelphia, PA",
 				"country":"US",
 				"PlaceID":"ChIJ60u11Ni3xokRwVg-jNgU9Yk",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1702,7 +1702,7 @@
 				"city": "Boston, MA",
 				"country":"US",
 				"PlaceID":"ChIJGzE9DS1l44kRoOhiASS_fHg",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1714,7 +1714,7 @@
 				"city": "Washington D.C., DC",
 				"country":"US",
 				"PlaceID":"ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1726,7 +1726,7 @@
 				"city": "Charlotte, NC",
 				"country":"US",
 				"PlaceID":"ChIJgRo4_MQfVIgRZNFDv-ZQRog",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1738,7 +1738,7 @@
 				"city": "Columbus, OH",
 				"country":"US",
 				"PlaceID":"ChIJcd6QucGJOIgRM7Wxz_hmMuQ",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1750,7 +1750,7 @@
 				"city": "Dallas, TX",
 				"country":"US",
 				"PlaceID":"ChIJS5dFe_cZTIYRj2dH9qSb7Lk",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1762,7 +1762,7 @@
 				"city": "Detroit, MI",
 				"country":"US",
 				"PlaceID":"ChIJdR3LEAHKJIgR0sS5NU6Gdlc",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1774,7 +1774,7 @@
 				"city": "Cincinnati, OH",
 				"country":"US",
 				"PlaceID":"ChIJ-SE43rFRQIgRF5PA5It--2k",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1786,7 +1786,7 @@
 				"city": "Chicago, IL",
 				"country":"US",
 				"PlaceID":"ChIJ7cv00DwsDogRAMDACa2m4K8",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1798,7 +1798,7 @@
 				"city": "Indianapolis, IN",
 				"country":"US",
 				"PlaceID":"ChIJA2p5p_9Qa4gRfOq5QPadjtY",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1810,7 +1810,7 @@
 				"city": "Denver, CO",
 				"country":"US",
 				"PlaceID":"ChIJzxcfI6qAa4cR1jaKJ_j0jhE",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1822,7 +1822,7 @@
 				"city": "Houston, TX",
 				"country":"US",
 				"PlaceID":"ChIJAYWNSLS4QIYROwVl894CDco",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1834,7 +1834,7 @@
 				"city": "Fort Worth, TX",
 				"country":"US",
 				"PlaceID":"ChIJrQfILRJuToYRvaxp3fiLr6Q",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1846,7 +1846,7 @@
 				"city": "San Jose, CA",
 				"country":"US",
 				"PlaceID":"ChIJ9T_5iuTKj4ARe3GfygqMnbk",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1858,7 +1858,7 @@
 				"city": "San Francisco, CA",
 				"country":"US",
 				"PlaceID":"ChIJIQBpAG2ahYAR_6128GcTUEo",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1870,7 +1870,7 @@
 				"city": "San Mateo, CA",
 				"country":"US",
 				"PlaceID":"ChIJRVWp72Cej4ARpxvMLfT8jv0",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1882,7 +1882,7 @@
 				"city": "Baltimore, MD",
 				"country":"US",
 				"PlaceID":"ChIJt4P01q4DyIkRWOcjQqiWSAQ",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1894,7 +1894,7 @@
 				"city": "Palo Alto, CA",
 				"country":"US",
 				"PlaceID":"ChIJORy6nXuwj4ARz3b1NVL1Hw4",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1906,7 +1906,7 @@
 				"city": "Los Angeles, CA",
 				"country":"US",
 				"PlaceID":"ChIJE9on3F3HwoAR9AhGJW_fL-I",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1918,7 +1918,7 @@
 				"city": "San Antonio, TX",
 				"country":"US",
 				"PlaceID":"ChIJrw7QBK9YXIYRvBagEDvhVgg",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1930,7 +1930,7 @@
 				"city": "San Diego, CA",
 				"country":"US",
 				"PlaceID":"ChIJSx6SrQ9T2YARed8V_f0hOg0",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1942,7 +1942,7 @@
 				"city": "Seattle, WA",
 				"country":"US",
 				"PlaceID":"ChIJVTPokywQkFQRmtVEaUZlJRA",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1954,7 +1954,7 @@
 				"city": "Tampa, FL, USA",
 				"country":"US",
 				"PlaceID":"ChIJ4dG5s4K3wogRY7SWr4kTX6c",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1966,7 +1966,7 @@
 				"city": "Austin, TX",
 				"country":"US",
 				"PlaceID":"ChIJLwPMoJm1RIYRetVp1EtGm10",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1978,7 +1978,7 @@
 				"city": "Las Vegas, NV",
 				"country":"US",
 				"PlaceID":"ChIJ0X31pIK3voARo3mz1ebVzDo",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1990,7 +1990,7 @@
 				"city": "Minneapolis–Saint Paul, MN",
 				"country":"US",
 				"PlaceID":"ChIJj1O3W_0p9ocRIKSuqIbBcNA",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2002,7 +2002,7 @@
 				"city": "Atlanta, GA",
 				"country":"US",
 				"PlaceID":"ChIJjQmTaV0E9YgRC2MLmS_e_mY",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2014,7 +2014,7 @@
 				"city": "Jacksonville, FL",
 				"country":"US",
 				"PlaceID":"ChIJ66_O8Ra35YgR4sf8ljh9zcQ",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2026,7 +2026,7 @@
 				"city": "Orlando, FL",
 				"country":"US",
 				"PlaceID":"ChIJd7zN_thz54gRnr-lPAaywwo",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2038,7 +2038,7 @@
 				"city": "Phoenix, AZ",
 				"country":"US",
 				"PlaceID":"ChIJy3mhUO0SK4cRrBtKNfjHaYw",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2050,7 +2050,7 @@
 				"city": "Pittsburgh, PA",
 				"country":"US",
 				"PlaceID":"ChIJA4UGSG_xNIgRNBuiWqEV-Y0",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2062,7 +2062,7 @@
 				"city": "Sacramento, CA",
 				"country":"US",
 				"PlaceID":"ChIJ-ZeDsnLGmoAR238ZdKpqH5I",
-				"mobilenetworks":["AT&T","Verizon", "Sprint", "T-Mobile","Choice", "Boost"]
+				"mobilenetworks":["AT&T", "Verizon", "Sprint", "T-Mobile", "Boost"]
 			},
 			"geometry": {
 				"type": "Polygon",
