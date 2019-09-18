@@ -23,7 +23,10 @@
     "@optus.net.au": "Optus",
     "@tpg.com.au": "TPG",
     "@telstra.net": "Telstra",
-    "@team.telstra.com": "Telstra"
+    "@team.telstra.com": "Telstra",
+    "@vodafone.com.au": "Vodafone",
+    "@staff.iinet.net.au": "iiNet",
+    "@dodo.com.au", "Dodo"
   },
   "AZ": {
     "@bakcell.com": "bakcell",
