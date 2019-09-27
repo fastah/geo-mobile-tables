@@ -70,7 +70,7 @@
 				"city": "Mysore, Karnataka, India",
 				"country":"IN",
 				"PlaceID":"ChIJ-S5XHThwrzsRbTn4wOjsiSs",
-				"mobilenetworks":["Jio", "Airtel","Vodafone Idea", "Tata DoCoMo"],
+				"mobilenetworks":["Jio", "Airtel","Vodafone Idea"],
 				"tz": "Asia/Kolkata"
 			},
 			"geometry": {
