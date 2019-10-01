@@ -13,8 +13,16 @@
     "631,2": "Unitel"
   },
   "AU": {
+    "505,1": "Telstra",
+    "505,11": "Telstra",
+    "505,39": "Telstra",
+    "505,71": "Telstra",
+    "505,72": "Telstra",
     "505,2": "Optus",
-    "505,3": "Vodafone"
+    "505,17": "Optus",
+    "505,90": "Optus",
+    "505,3": "Vodafone",
+    "505,7": "Vodafone"
   },
   "BD": {
     "470,1": "Grameenphone",
