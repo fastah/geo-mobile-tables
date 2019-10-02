@@ -213,7 +213,9 @@
     "@kcell.kz": "Kcell"
   },
   "LA": {
-    "@laotel.com": "Laotel"
+    "@laotel.com": "Laotel",
+    "@beeline.la": "Beeline",
+    "@viettel.com.vn": "Unitel"
   },
   "LB": {
     "@alfamobile.com.lb": "Alfa"
