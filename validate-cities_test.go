@@ -53,19 +53,15 @@ func TestCitiesJsonFormat(t *testing.T) {
 	for _, city := range cities.Features {
 		country := city.Properties["country"].(string)
 		cityName := city.Properties["city"].(string)
-		placeId := city.Properties["PlaceID"].(string)
-		networks := city.Properties["mobilenetworks"].([]interface{})
+		placeID := city.Properties["PlaceID"].(string)
 		if country == "" || cityName == "" {
 			t.Errorf("Country or city are MISSING %+v\n", *city)
 		}
-		if placeId == "" {
+		if placeID == "" {
 			t.Errorf("PlaceID is MISSING %+v\n", *city)
 		}
-		if len(networks) == 0 {
-			t.Errorf("MobileNetworks is empty or missing %+v\n", *city)
-		}
 		distinctCountries[country] = distinctCountries[country] + 1
-		placeIDs[placeId] = placeIDs[placeId] + 1
+		placeIDs[placeID] = placeIDs[placeID] + 1
 	}
 
 	//t.Logf("Cities in EACH COUNTRY %+v\n", distinctCountries)
