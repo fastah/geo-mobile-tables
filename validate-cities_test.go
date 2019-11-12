@@ -7,6 +7,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
+	"math"
 	"os"
 	"sort"
 	"strconv"
@@ -129,4 +130,44 @@ func TestCitiesJsonFormat(t *testing.T) {
 		fmt.Printf("%s, %.1f\n", areakv.Key, areakv.Value)
 	}
 
+}
+
+func TestCitiesCompactJavaFormat(t *testing.T) {
+
+	raw, err := ioutil.ReadFile("cities-bbox-masterlist.json")
+	if err != nil {
+		t.Errorf("HTTP body read error with GeoJSON document: %v\n", err)
+	}
+
+	cities, err := geojson.UnmarshalFeatureCollection(raw)
+	if err != nil {
+		t.Errorf("GeoJSON document doesn't have a valid syntax: %v\n", err)
+	}
+
+	if len(cities.Features) == 0 {
+		t.Errorf("Features array inside GeoJSON should not be zero :(\n")
+	}
+
+	fmt.Printf("final ArrayList<City> cities = new ArrayList<City>(%d);\n", len(cities.Features))
+	for _, city := range cities.Features {
+		country := city.Properties["country"].(string)
+		cityName := city.Properties["city"].(string)
+		placeID := city.Properties["PlaceID"].(string)
+
+		minX := city.Geometry.Bound().Min.X()
+		minX = math.Round(minX*100) / 100
+
+		maxX := city.Geometry.Bound().Max.X()
+		maxX = math.Round(maxX*100) / 100
+
+		minY := city.Geometry.Bound().Min.Y()
+		minY = math.Round(minY*100) / 100
+
+		maxY := city.Geometry.Bound().Max.Y()
+		maxY = math.Round(maxY*100) / 100
+
+		fmt.Printf("cities.add(new City(new double[]{%0.2f, %0.2f, %0.2f, %0.2f}, \"%s\", \"%s\", \"%s\"));\n",
+			minX, maxX, minY, maxY,
+			cityName, country, placeID)
+	}
 }
