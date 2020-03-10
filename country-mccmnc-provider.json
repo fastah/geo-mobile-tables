@@ -473,7 +473,11 @@
     "466,5": "APTG"
   },
   "UA": {
-    "255,1": "Vodafone"
+    "255,1": "Vodafone",
+    "255,2": "Kyivstar",
+    "255,3": "Kyivstar",
+    "255,5": "Kyivstar",
+    "255,6": "lifecell"
   },
   "UG": {
     "641,1": "Airtel"
