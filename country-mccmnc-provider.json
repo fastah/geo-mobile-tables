@@ -102,6 +102,13 @@
     "262,1": "Telekom",
     "262,2": "Vodafone"
   },
+  "DZ": {
+    "603,1": "Mobilis",
+    "603,2": "Djezzy",
+    "603,3": "Ooredoo",
+    "603,7": "AT",
+    "603,9": "AT"
+  },
   "EG": {
     "602,2": "Vodafone",
     "602,3": "Etisalat"
