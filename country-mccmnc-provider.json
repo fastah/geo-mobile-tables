@@ -99,7 +99,8 @@
     "460,1": "China Unicom"
   },
   "DE": {
-    "262,1": "Telekom"
+    "262,1": "Telekom",
+    "262,2": "Vodafone"
   },
   "EG": {
     "602,2": "Vodafone",
@@ -539,7 +540,12 @@
   },
   "ZA": {
     "655,1": "Vodacom",
-    "655,7": "CellC"
+    "655,2": "Telkom",
+    "655,7": "CellC",
+    "655,10": "MTN",
+    "655,14": "Neotel",
+    "655,19": "Rain",
+    "655,38": "Rain"
   },
   "ZM": {
     "645,1": "Airtel"
