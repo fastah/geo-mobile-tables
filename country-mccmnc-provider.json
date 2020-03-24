@@ -65,7 +65,9 @@
     "724,23": "Vivo",
     "724,32": "Algar",
     "724,33": "Algar",
-    "724,34": "Algar"
+    "724,34": "Algar",
+    "724,31": "Oi",
+    "724,39": "Nextel"
   },
   "BT": {
     "402,11": "BT",
@@ -109,14 +111,18 @@
     "302,940": "Wightman"
   },
   "CD": {
-    "630,86": "Orange"
+    "630,86": "Orange",
+    "630,1": "Vodacom",
+    "630,2": "Airtel"
   },
   "CN": {
     "460,1": "China Unicom"
   },
   "DE": {
     "262,1": "Telekom",
-    "262,2": "Vodafone"
+    "262,2": "Vodafone",
+    "262,3": "Telefonica",
+    "262,7": "O2"
   },
   "DZ": {
     "603,1": "Mobilis",
@@ -127,11 +133,15 @@
   },
   "EG": {
     "602,2": "Vodafone",
-    "602,3": "Etisalat"
+    "602,3": "Etisalat",
+    "602,1": "Orange"
   },
-   "ES": {
+  "ES": {
     "214,1": "Vodafone",
-    "214,3": "Orange"
+    "214,3": "Orange",
+    "214,22": "DIGI",
+    "214,25": "Lycamobile",
+    "214,7": "Movistar"
   },
   "FJ": {
     "542,1": "Vodafone"
@@ -146,16 +156,22 @@
     "208,13": "SFR",
     "208,20": "Bouygues",
     "208,21": "Bouygues",
-    "208,88": "Bouygues"
+    "208,88": "Bouygues",
+    "208,15": "Iliad"
   },
   "GA": {
-    "628,1": "Gabon Telecom"
+    "628,1": "Gabon Telecom",
+    "628,3": "Airtel"
   },
   "GB": {
-    "234,20": "Three"
+    "234,20": "Three",
+    "234,55": "Sure"
   },
   "HK": {
-    "454,12": "China Mobile"
+    "454,12": "China Mobile",
+    "454,13": "CMHK",
+    "454,3": "Three",
+    "454,6": "SmarTone"
   },
   "HR": {
     "219,1": "HRVATSKI"
@@ -171,7 +187,9 @@
     "510,89": "Tri"
   },
   "IL": {
-    "425,3": "Pelephone"
+    "425,3": "Pelephone",
+    "425,1": "Partner",
+    "425,2": "Cellcom"
   },
   "IN": {
     "404,1": "Vodafone Idea",
@@ -313,10 +331,12 @@
     "405,876": "Jio",
     "405,879": "Jio",
     "405,927": "Airtel",
-    "405,929": "Airtel"  
+    "405,929": "Airtel"
   },
   "IQ": {
-    "418,20": "Zain"
+    "418,20": "Zain",
+    "418,40": "Korek",
+    "418,5": "Asiacell"
   },
   "IR": {
     "432,35": "Irancell",
@@ -362,7 +382,8 @@
   },
   "MM": {
     "414,1": "MPT",
-    "414,6": "Telenor"
+    "414,6": "Telenor",
+    "414,5": "Oreedoo"
   },
   "MU": {
     "617,10": "Emtel",
@@ -371,7 +392,10 @@
   "MX": {
     "334,20": "Telcel",
     "334,30": "Movistar",
-    "334,90": "AT&T"
+    "334,90": "AT&T",
+    "334,3": "Movistar",
+    "334,40": "AT&T",
+    "334,50": "AT&T"
   },
   "MY": {
     "502,10": "Maxis",
@@ -387,7 +411,8 @@
     "502,152": "Yes"
   },
   "MZ": {
-    "643,3": "Movitel"
+    "643,3": "Movitel",
+    "643,4": "Vodacom"
   },
   "NG": {
     "621,20": "Airtel",
@@ -427,7 +452,8 @@
     "410,4": "Zong",
     "410,6": "Telenor",
     "410,1": "Jazz",
-    "410,3": "Ufone"
+    "410,3": "Ufone",
+    "410,7": "Jazz"
   },
   "PL": {
     "260,1": "Plus",
@@ -447,7 +473,12 @@
     "220,3": "MTS"
   },
   "RU": {
-    "250,2": "Megafon"
+    "250,2": "Megafon",
+    "250,1": "MTS",
+    "250,11": "Yota",
+    "250,20": "Tele2",
+    "250,35": "MOTIV",
+    "250,99": "Beeline"
   },
   "RW": {
     "635,10": "MTN",
@@ -457,11 +488,14 @@
   "SA": {
     "420,1": "STC",
     "420,3": "Mobily",
-    "420,4": "Zain"
+    "420,4": "Zain",
+    "420,5": "Virgin Mobile",
+    "420,6": "Lebara"
   },
   "SD": {
     "634,1": "Zain",
-    "634,2": "MTN"
+    "634,2": "MTN",
+    "634,7": "Sudani"
   },
   "SG": {
     "525,1": "Singtel",
@@ -498,7 +532,9 @@
     "466,97": "Taiwan Mobile",
     "466,5": "APTG",
     "466,89": "T Star",
-    "466,90": "T Star"
+    "466,90": "T Star",
+    "466,1": "Far EasTone",
+    "466,92": "Chunghwa"
   },
   "UA": {
     "255,1": "Vodafone",
@@ -508,7 +544,8 @@
     "255,6": "lifecell"
   },
   "UG": {
-    "641,1": "Airtel"
+    "641,1": "Airtel",
+    "641,10": "MTN"
   },
   "US": {
     "310,4": "Verizon",
@@ -553,7 +590,9 @@
     "311,830": "Thumb",
     "311,840": "Cellcom",
     "311,850": "Cellcom",
-    "311,870": "Boost"
+    "311,870": "Boost",
+    "310,750": "Appalachian",
+    "312,530": "Sprint"
   },
   "UY": {
     "748,1": "Antel",
@@ -590,6 +629,267 @@
     "655,38": "Rain"
   },
   "ZM": {
-    "645,1": "Airtel"
+    "645,1": "Airtel",
+    "645,2": "MTN"
+  },
+  "BG": {
+    "284,5": "Telenor"
+  },
+  "BI": {
+    "642,7": "Smart"
+  },
+  "BN": {
+    "528,11": "DST",
+    "528,2": "Progresif"
+  },
+  "BS": {
+    "364,39": "BTC"
+  },
+  "CF": {
+    "623,2": "Telecel"
+  },
+  "CL": {
+    "730,1": "Entel",
+    "730,9": "WOM"
+  },
+  "CM": {
+    "624,2": "Orange"
+  },
+  "CO": {
+    "732,101": "Claro",
+    "732,123": "Movistar",
+    "732,2": "Edatel"
+  },
+  "CU": {
+    "368,1": "Cubacel"
+  },
+  "CY": {
+    "280,10": "epic"
+  },
+  "CZ": {
+    "230,1": "T-Mobile",
+    "230,2": "O2",
+    "230,3": "Vodafone"
+  },
+  "DJ": {
+    "638,1": "Djibouti Telecom"
+  },
+  "DO": {
+    "370,1": "Altice",
+    "370,2": "Claro"
+  },
+  "EC": {
+    "740,1": "Claro"
+  },
+  "ET": {
+    "636,1": "MTN"
+  },
+  "FG": {
+    "340,20": "DigiCel"
+  },
+  "FI": {
+    "244,12": "DNA",
+    "244,5": "Elisa"
+  },
+  "GH": {
+    "620,1": "MTN",
+    "620,2": "Vodafone",
+    "620,3": "AirtelTigo"
+  },
+  "GN": {
+    "611,1": "Orange",
+    "611,4": "MTN"
+  },
+  "GR": {
+    "202,1": "Cosmote",
+    "202,10": "Wind",
+    "202,5": "Vodafone"
+  },
+  "GT": {
+    "704,1": "Claro",
+    "704,2": "Tigo"
+  },
+  "GY": {
+    "738,1": "Digicel",
+    "738,2": "GTT"
+  },
+  "HN": {
+    "708,1": "Claro"
+  },
+  "HU": {
+    "216,1": "Telenor",
+    "216,70": "Vodafone"
+  },
+  "IE": {
+    "272,2": "Three",
+    "272,3": "Meteor",
+    "272,5": "Three"
+  },
+  "IT": {
+    "222,1": "TIM",
+    "222,10": "Vodafone",
+    "222,7": "TIM",
+    "222,88": "WindTre"
+  },
+  "JM": {
+    "338,180": "Flow",
+    "338,50": "Digicel"
+  },
+  "JP": {
+    "440,10": "DOCOMO",
+    "440,20": "SoftBank",
+    "440,50": "au",
+    "440,51": "au"
+  },
+  "KE": {
+    "639,2": "Safaricom",
+    "639,3": "Airtel",
+    "639,7": "Telkom"
+  },
+  "KR": {
+    "450,5": "SK Telecom",
+    "450,6": "LG U Plus"
+  },
+  "KZ": {
+    "401,1": "Beeline",
+    "401,2": "Kcell",
+    "401,77": "Tele2"
+  },
+  "LB": {
+    "415,1": "Alfa",
+    "415,3": "LibanCell"
+  },
+  "LT": {
+    "246,1": "Telia",
+    "246,3": "Tele2"
+  },
+  "LV": {
+    "247,2": "Tele2"
+  },
+  "LY": {
+    "606,1": "Al-Madar"
+  },
+  "MA": {
+    "604,1": "Maroc",
+    "604,2": "Inwi"
+  },
+  "MC": {
+    "212,10": "Monaco Telecom"
+  },
+  "MD": {
+    "259,1": "Orange",
+    "259,2": "Moldcell"
+  },
+  "MG": {
+    "646,1": "Airtel",
+    "646,2": "Orange"
+  },
+  "MK": {
+    "294,1": "Telekom"
+  },
+  "MR": {
+    "609,10": "Mauritel",
+    "609,2": "Chinguitel"
+  },
+  "NE": {
+    "614,2": "Airtel"
+  },
+  "NL": {
+    "204,16": "T-Mobile",
+    "204,4": "Vodafone",
+    "204,8": "KPN"
+  },
+  "PE": {
+    "716,10": "Claro",
+    "716,15": "Bitel",
+    "716,6": "Movistar"
+  },
+  "PG": {
+    "537,1": "Bmobile",
+    "537,3": "Digicel"
+  },
+  "PS": {
+    "425,5": "Jawwal",
+    "425,6": "Wataniya"
+  },
+  "PT": {
+    "268,3": "NOS",
+    "268,6": "MEO"
+  },
+  "RO": {
+    "226,1": "Vodafone",
+    "226,10": "Orange",
+    "226,3": "Telekom",
+    "226,5": "Digi",
+    "226,6": "Telekom"
+  },
+  "SB": {
+    "540,1": "Breeze"
+  },
+  "SE": {
+    "240,1": "Telia",
+    "240,2": "Three",
+    "240,7": "Tele2",
+    "240,8": "Telenor"
+  },
+  "SL": {
+    "619,5": "Africel"
+  },
+  "SO": {
+    "637,1": "Telesom "
+  },
+  "SV": {
+    "706,1": "Claro"
+  },
+  "SY": {
+    "417,1": "Syriatel",
+    "417,2": "MTN"
+  },
+  "TG": {
+    "615,1": "TOGOCEL"
+  },
+  "TJ": {
+    "436,3": "Tcell"
+  },
+  "TM": {
+    "438,2": "TM Cell"
+  },
+  "TN": {
+    "605,1": "Orange",
+    "605,2": "TuniCell",
+    "605,3": "Oreedo"
+  },
+  "TR": {
+    "286,1": "Turkcell",
+    "286,2": "Vodafone",
+    "286,3": "Turk Telekom"
+  },
+  "TT": {
+    "374,12": "bmobile",
+    "374,130": "Digicel"
+  },
+  "TZ": {
+    "640,2": "Tigo",
+    "640,4": "Vodacom",
+    "640,5": "Airtel",
+    "640,9": "Halotel"
+  },
+  "UZ": {
+    "434,4": "Beeline",
+    "434,5": "UCell",
+    "434,7": "UMS"
+  },
+  "VE": {
+    "734,2": "DigiTel",
+    "734,4": "Movistar",
+    "734,6": "Movilnet"
+  },
+  "YE": {
+    "421,1": "Sabafon",
+    "421,2": "MTN",
+    "421,3": "Yemen Mobile"
+  },
+  "ZW": {
+    "648,4": "Econet"
   }
 }
