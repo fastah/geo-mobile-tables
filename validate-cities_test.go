@@ -120,7 +120,7 @@ func TestCitiesJsonFormat(t *testing.T) {
 
 	// Initialize formatters for country -> city+area viz
 	countryAreaTables := make(map[string]*tablewriter.Table)
-	for k, _ := range distinctCountries {
+	for k := range distinctCountries {
 		table := tablewriter.NewWriter(os.Stdout)
 		table.SetHeader([]string{"Country", "Cities"})
 		countryAreaTables[k] = table

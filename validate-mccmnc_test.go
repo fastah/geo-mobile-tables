@@ -50,8 +50,20 @@ func TestMCCMNCFormat(t *testing.T) {
 
 	for country, countryRules := range ruleBook {
 		t.Logf("Country %s\n", country)
+		_c := strings.TrimSpace(country)
+		if len(_c) != len(country) {
+			t.Fatalf("Country ISO has whitespace : %s\n", country)
+		}
 		for mccmncpair, opname := range countryRules {
 			t.Logf("\t%s -> %s\n", mccmncpair, opname)
+			_m := strings.TrimSpace(mccmncpair)
+			if len(_m) != len(mccmncpair) {
+				t.Fatalf("MCC MNC pair has whitespace : %s\n", mccmncpair)
+			}
+			_o := strings.TrimSpace(opname)
+			if len(_o) != len(opname) {
+				t.Fatalf("Carrier name has whitespace : %s\n", opname)
+			}
 			tuple := strings.Split(mccmncpair, ",")
 			if len(tuple) != 2 {
 				t.Fatalf("Invalid MCC MNC key pair %s (%s/%s)\n", mccmncpair, country, opname)
