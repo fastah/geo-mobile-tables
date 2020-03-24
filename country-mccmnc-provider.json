@@ -57,13 +57,13 @@
   },
   "BB": {
     "342,600": "LIME"
-   },
+  },
   "BD": {
     "470,1": "Grameenphone",
     "470,2": "Robi",
     "470,3": "Banglalink",
     "470,4": "TeleTalk",
-   "470,7": "Airtel"
+    "470,7": "Airtel"
   },
   "BE": {
     "206,1": "Proximus",
@@ -71,11 +71,6 @@
   },
   "BF": {
     "613,2": "Orange"
-  },
-  "BD": {
-    "470,1": "Grameenphone",
-    "470,2": "Robi",
-    "470,3": "Banglalink"
   },
   "BG": {
     "284,5": "Telenor"
@@ -741,7 +736,7 @@
     "525,9": "Circles"
   },
   "SK": {
-   "231,1": "ZZ-GUESS-Orange"
+    "231,1": "Orange"
   },
   "SL": {
     "619,5": "Africel"
