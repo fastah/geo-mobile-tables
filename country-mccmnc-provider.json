@@ -740,6 +740,9 @@
     "525,8": "Starhub",
     "525,9": "Circles"
   },
+  "SK": {
+   "231,1": "ZZ-GUESS-Orange"
+  },
   "SL": {
     "619,5": "Africel"
   },
@@ -747,7 +750,8 @@
     "608,1": "Orange"
   },
   "SO": {
-    "637,1": "Telesom "
+    "637,1": "Telesom",
+    "637,71": "Somtel"
   },
   "SS": {
     "659,2": "MTN"
