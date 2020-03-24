@@ -48,6 +48,10 @@
     "505,72": "Telstra",
     "505,90": "Optus"
   },
+  "AZ": {
+    "400,1": "Azercell",
+    "400,2": "Bakcell"
+  },
   "BD": {
     "470,1": "Grameenphone",
     "470,2": "Robi",
