@@ -400,7 +400,8 @@
     "@sprint.com": "Sprint",
     "@att.com": "AT&T",
     "@verizon.net": "Verizon",
-    "@t-mobile.com": "T-Mobile"
+    "@t-mobile.com": "T-Mobile",
+    "@verizonwireless.com": "Verizon"
   },
   "VN": {
     "@mobifone.vn": "Mobifone",
