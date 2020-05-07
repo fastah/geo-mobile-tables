@@ -397,7 +397,8 @@
     "@sprint.net": "Sprint",
     "@sprint.com": "Sprint",
     "@att.com": "AT&T",
-    "@verizon.net": "Verizon"
+    "@verizon.net": "Verizon",
+    "@t-mobile.com": "T-Mobile"
   },
   "VN": {
     "@mobifone.vn": "Mobifone",
