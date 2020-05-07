@@ -70,7 +70,8 @@
     "sss@mts.by": "MTS"
   },
   "CA": {
-    "@windmobile.ca": "windmobile"
+    "@windmobile.ca": "windmobile",
+    "@rci.rogers.com": "Rogers"
   },
   "CD": {
     "@orange.com": "Orange",
