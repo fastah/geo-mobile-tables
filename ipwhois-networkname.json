@@ -72,7 +72,9 @@
   },
   "CA": {
     "@windmobile.ca": "windmobile",
-    "@rci.rogers.com": "Rogers"
+    "@rci.rogers.com": "Rogers",
+    "@sjrb.ca": "Shaw",
+    "@bell.ca": "Bell"
   },
   "CD": {
     "@orange.com": "Orange",
