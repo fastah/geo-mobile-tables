@@ -379,7 +379,8 @@
   "TR": {
     "@turkcell.com.tr": "Turkcell",
     "@vibo.com.tw": "Türk Telekom",
-    "@vodafone.com": "Turkey"
+    "@vodafone.com": "Vodafone",
+    "@vodafone.net.tr": "Vodafone"
   },
   "TW": {
     "@twnic.net.tw": "T Startel",
