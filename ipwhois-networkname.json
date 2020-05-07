@@ -153,7 +153,8 @@
     "@top.net.id": "CBN",
     "@myrepublic.net.id": "MyRepubic",
     "@linknet.co.id": "LinkNet",
-    "@axisworld.co.id": "Axis"
+    "@axisworld.co.id": "Axis",
+    "@myrepublic.co.id": "MyRepublic"
   },
   "IL": {
     "@pelephone.co.il": "Pelephone"
