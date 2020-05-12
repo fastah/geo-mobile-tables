@@ -18,7 +18,8 @@
     "@movicel.co.ao": "movicel"
   },
   "AT": {
-    "@drei.at": "Drei"
+    "@drei.at": "Drei",
+    "@t-mobile.at": "T-Mobile"
   },
   "AU": {
     "@optus.net.au": "Optus",
@@ -27,7 +28,8 @@
     "@team.telstra.com": "Telstra",
     "@vodafone.com.au": "Vodafone",
     "@staff.iinet.net.au": "iiNet",
-    "@dodo.com.au": "Dodo"
+    "@dodo.com.au": "Dodo",
+    "@myrepublicinternet.com.au": "MyRepublic"
   },
   "AZ": {
     "@bakcell.com": "bakcell",
@@ -71,11 +73,18 @@
     "sss@mts.by": "MTS"
   },
   "CA": {
-    "@windmobile.ca": "windmobile",
+    "@windmobile.ca": "Freedom",
+    "@freedommobile.ca": "Freedom",
     "@rci.rogers.com": "Rogers",
     "@sjrb.ca": "Shaw",
     "@bell.ca": "Bell",
-    "@primus.ca": "Primus"
+    "@primus.ca": "Primus",
+    "@corp.xplornet.com" : "Xplornet",
+    "@telus.com" : "Telus",
+    "@eastlink.ca" : "EastLink",
+    "@videotron.ca" : "Videotron",
+    "@videotron.net" : "Videotron",
+    "@sasktel.sk.ca" : "SaskTel"
   },
   "CD": {
     "@orange.com": "Orange",
@@ -87,8 +96,11 @@
     "@orange-cit.ci": "Orange"
   },
   "CN": {
-    "@chinaunicom.cn": "Chinaunicom",
-    "@chinamobile.com": "Chinamobile"
+    "@chinaunicom.cn": "China Unicom",
+    "@chinamobile.com": "China Mobile"
+  },
+  "CZ": {
+    "@t-mobile.cz": "T-Mobile"
   },
   "DE": {
     "@telekom.de": "Telekom",
@@ -170,7 +182,8 @@
     "@myrepublic.co.id": "MyRepublic"
   },
   "IL": {
-    "@pelephone.co.il": "Pelephone"
+    "@pelephone.co.il": "Pelephone",
+    "@cellcom.co.il": "Pelephone"
   },
   "IN": {
     "@bsnl": "BSNL",
@@ -324,7 +337,8 @@
   "NZ": {
     "@2degreesmobile.co.nz": "2degrees",
     "@spark.co.nz": "Spark",
-    "@xtra.co.nz": "Spark"
+    "@xtra.co.nz": "Spark",
+    "@myrepublic.co.nz": "MyRepublic"
   },
   "OM": {
     "@omantel.om": "Omantel",
@@ -343,7 +357,8 @@
   },
   "PL": {
     "@orange.pl": "Orange",
-    "@playmobile.pl": "Play"
+    "@playmobile.pl": "Play",
+    "@t-mobile.pl": "T-Mobile"
   },
   "PT": {
     "@tmn.pt": "MEO",
@@ -379,7 +394,8 @@
   "SG": {
     "@singnet.com.sg": "Singtel",
     "@m1.com.sg": "M1",
-    "@starhub.com": "Starhub"
+    "@starhub.com": "Starhub",
+    "@myrepublic.com.sg": "MyRepublic"
   },
   "SK": {
     "orange.sk": "Orange"
@@ -435,7 +451,11 @@
     "@att.com": "AT&T",
     "@verizon.net": "Verizon",
     "@t-mobile.com": "T-Mobile",
-    "@verizonwireless.com": "Verizon"
+    "@verizonwireless.com": "Verizon",
+    "@comcast.net" : "Comcast",
+    "@cspire.com" : "C Spire",
+    "@gci.net": "GCI",
+    "@choicephonellc.com": "Choice"
   },
   "VN": {
     "@mobifone.vn": "Mobifone",
