@@ -275,7 +275,13 @@
     "@u.com.my": "U Mobile",
     "@celcom.com.my": "Celcom",
     "@tm.com.my": "TM",
-    "@ytlcomms.my" : "Yes"
+    "@ytlcomms.my" : "Yes",
+    "@webe.com.my" : "Unifi",
+    "@time.com.my" : "Time",
+    "@mykris.net" : "MyKRIS",
+    "@redtone.com" : "REDtone",
+    "@innet.com.my" : "InNET",
+    "jasettc@yahoo.com": "TM"
   },
   "MZ": {
     "@vm.co.mz": "Vodafone"
