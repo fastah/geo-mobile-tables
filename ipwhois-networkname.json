@@ -113,7 +113,8 @@
   },
   "FI": {
     "@telia.fi": "Telia",
-    "@digicelgroup.com": "Digicel"
+    "@digicelgroup.com": "Digicel",
+    "@elisa.fi": "Elisa"
   },
   "FR": {
     "@orange.com": "Orange",
@@ -131,6 +132,12 @@
     "@sa.zain.com": "Zain",
     "@o2.com": "O2",
     "@manxtelecom.com": "Manx Telecom"
+  },
+  "GH": {
+    "@mtn.com.gh": "MTN"
+  },
+  "GT": {
+    "@claro.com.gt": "Claro"
   },
   "HK": {
     "@hk.chinamobile.com": "China Mobile",
@@ -185,10 +192,15 @@
     "@korektel.com": "Korektel",
     "@iq.zain.com": "Zain"
   },
+  "IR": {
+    "@mtnirancell.ir": "MTN",
+    "@tci.ir": "MCI"
+  },
   "IT": {
     "@h3g.it": "Tre",
     "@wind.it": "Wind",
-    "@telecomitalia.it": "TIM"
+    "@telecomitalia.it": "TIM",
+    "@mail.vodafone.it": "Vodafone"
   },
   "JO": {
     "@jo.zain.com": "Zain",
@@ -239,7 +251,7 @@
   },
   "LV": {
     "@lmt.lv": "LMT",
-    "@iam.ma": "Maroc"
+    "@tet.lv": "Tet"
   },
   "MA": {
     "@orange.com": "Orange",
@@ -297,6 +309,9 @@
     "@ntel.com.ng": "ntel",
     "@ng.airtel.com": "Airtel"
   },
+  "NL": {
+    "@vodafone.com": "Vodafone"
+  },
   "NO": {
     "@netcom.no": "Telia"
   },
@@ -335,6 +350,9 @@
   },
   "QA": {
     "@qatar.net.qa": "Ooredoo"
+  },
+  "RO": {
+    "@vodafone.com": "Vodafone"
   },
   "RS": {
     "@telekom.rs": "MTS",
@@ -382,7 +400,9 @@
     "@truecorp.co.th": "TrueMove",
     "@tot.co.th": "TOT",
     "@totisp.net": "TOT",
-    "@cat3g.com": "CAT"
+    "@cat3g.com": "My",
+    "@cat.net.th": "My",
+    "@trueinternet.co.th": "TrueMove"
   },
   "TJ": {
     "@megafon.tj": "Megafon",
