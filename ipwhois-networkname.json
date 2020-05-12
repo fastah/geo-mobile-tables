@@ -446,6 +446,10 @@
   "UG": {
     "@mtn.co.ug": "MTN"
   },
+  "UK": {
+    "@gb.vodafone.co.uk": "Vodafone",
+    "@vodafone.co.uk": "Vodafone"
+  },
   "US": {
     "@sprint.net": "Sprint",
     "@sprint.com": "Sprint",
