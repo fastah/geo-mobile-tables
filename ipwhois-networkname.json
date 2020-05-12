@@ -106,10 +106,11 @@
   },
   "ES": {
     "@orange.es": "Orange",
-    "@telefonica.es": " Telefonica"
+    "@telefonica.es": "Telefonica",
+    "@corp.vodafone.es": "Vodafone"
   },
   "ET": {
-    "@ethiotelecom.et": " Ethio Telecom"
+    "@ethiotelecom.et": "Ethio Telecom"
   },
   "FI": {
     "@telia.fi": "Telia",
