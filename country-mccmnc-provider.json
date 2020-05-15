@@ -185,12 +185,11 @@
     "460,1": "China Unicom"
   },
   "CO": {
-    "732,2": "Edatel",
+    "732,2": "Tigo",
     "732,101": "Claro",
     "732,103": "Tigo",
     "732,111": "Tigo",
-    "732,123": "Movistar",
-    "732,130": "Avantel"
+    "732,123": "Movistar"  
   },
   "CU": {
     "368,1": "Cubacel"

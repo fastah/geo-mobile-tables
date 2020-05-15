@@ -95,6 +95,11 @@
     "@mtn.ci": "MTN",
     "@orange-cit.ci": "Orange"
   },
+  "CO": {
+    "@telecom.com.co": "Movistar",
+    "@une.com.co": "Tigo",
+    "@claro.com.co": "Claro"
+  },
   "CN": {
     "@chinaunicom.cn": "China Unicom",
     "@chinamobile.com": "China Mobile"
@@ -230,6 +235,7 @@
   },
   "JO": {
     "@jo.zain.com": "Zain",
+    "@orange.com": "Orange",
     "@orange-jtg.com": "Orange"
   },
   "JP": {
@@ -287,6 +293,10 @@
   "MG": {
     "@telma.mg": "Telma",
     "@orange.com": "Orange"
+  },
+  "ML": {
+    "@orangemali.com": "Orange",
+    "@orangemali.net": "Orange"
   },
   "MM": {
     "telenor": "Telenor",
@@ -373,6 +383,7 @@
   },
   "PL": {
     "@orange.pl": "Orange",
+    "@orange.com": "Orange",
     "@playmobile.pl": "Play",
     "@t-mobile.pl": "T-Mobile"
   },
@@ -384,7 +395,9 @@
     "@qatar.net.qa": "Ooredoo"
   },
   "RO": {
-    "@vodafone.com": "Vodafone"
+    "@vodafone.com": "Vodafone",
+    "@orange.com": "Orange",
+    "@orange.pl": "Orange"
   },
   "RS": {
     "@telekom.rs": "MTS",
