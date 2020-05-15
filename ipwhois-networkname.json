@@ -1,11 +1,12 @@
 {
   "AE": {
     "@du.ae": "DU",
-    "@emirates.net.ae": "Emirates"
+    "@emirates.net.ae": "Etisalat"
   },
   "AF": {
     "@etisalat.af": "Etisalat",
     "@mtn.com.af": "MTN",
+    "@roshan.af": "Roshan",
     "@telsysint.com": "Afghan Wireless",
     "@afghan-wireless.com": "Afghan Wireless"
   },
@@ -139,7 +140,8 @@
     "@bouyguestelecom.fr": "Bouygues Telecom"
   },
   "GA": {
-    "@gabontelecom.ga": "Gabon Telecom"
+    "@gabontelecom.ga": "Gabon Telecom",
+    "@ga.airtel.com": "Airtel"
   },
   "GE": {
     "@beeline.ge": "Beeline"
@@ -159,6 +161,9 @@
   },
   "GH": {
     "@mtn.com.gh": "MTN"
+  },
+  "GN": {
+    "@mtn.com": "MTN"
   },
   "GR": {
     "@vodafone.com": "Vodafone"
@@ -369,6 +374,9 @@
   "OM": {
     "@omantel.om": "Omantel",
     "@nawras.om": "Ooredoo"
+  },
+  "PG": {
+    "@digicelgroup.com": "Digicel"
   },
   "PH": {
     "@globe.com.ph": "Globe",
