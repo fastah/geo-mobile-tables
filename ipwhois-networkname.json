@@ -145,10 +145,18 @@
     "@sa.zain.com": "Zain",
     "@o2.com": "O2",
     "@o2wifi.co.uk": "O2",
-    "@manxtelecom.com": "Manx Telecom"
+    "@manxtelecom.com": "Manx Telecom",
+    "@talktalkplc.com": "Talk Talk",
+    "@gb.vodafone.co.uk": "Vodafone",
+    "@vodafone.co.uk": "Vodafone",
+    "@bt.com" : "BT",
+    "@ee.co.uk" : "EE"
   },
   "GH": {
     "@mtn.com.gh": "MTN"
+  },
+  "GR": {
+    "@vodafone.com": "Vodafone"
   },
   "GT": {
     "@claro.com.gt": "Claro"
@@ -196,12 +204,15 @@
     "@aircel": "Aircel",
     "@relianceada.com": "Reliance",
     "@vodafone.com": "Vodafone Idea",
+    "@vodafoneidea.com": "Vodafone Idea",
     "@tatatel": "Airtel",
     "@jio.com": "Jio",
     "@ril.com": "Jio",
     "@idea.adityabirla.com": "Vodafone Idea",
     "@mtsindia.in": "MTS",
-    "@mtnl.net.in": "MTNL"
+    "@mtnl.net.in": "MTNL",
+    "@hathway.net": "Hathway",
+    "@actcorp.net": "Hathway"
   },
   "IQ": {
     "@korektel.com": "Korektel",
@@ -209,7 +220,7 @@
   },
   "IR": {
     "@mtnirancell.ir": "MTN",
-    "@tci.ir": "MCI"
+    "@mci.ir": "MCI"
   },
   "IT": {
     "@h3g.it": "Tre",
@@ -244,7 +255,8 @@
     "@viva.com.kw": "Viva"
   },
   "KZ": {
-    "@kcell.kz": "Kcell"
+    "@kcell.kz": "Kcell",
+    "@beeline.kz": "Beeline"
   },
   "LA": {
     "@laotel.com": "Laotel",
@@ -328,7 +340,10 @@
     "@vodafone.com": "Vodafone"
   },
   "NO": {
-    "@netcom.no": "Telia"
+    "@netcom.no": "Telia",
+    "@telia-isp.no": "Telia",
+    "@telenor.net": "Telenor",
+    "@ice.net": "ICE"
   },
   "NP": {
     "@ntc.net.np": "Nepal Telecom",
