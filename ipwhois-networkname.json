@@ -176,6 +176,9 @@
     "@singtatglobal.com": "Singtel",
     "@hthk.com": "Three"
   },
+  "HN": {
+    "@tigo.com.hn": "Tigo"
+  },
   "HR": {
     "@t.ht.hr": "Hrvatski"
   },
@@ -502,6 +505,9 @@
     "@cspire.com" : "C Spire",
     "@gci.net": "GCI",
     "@choicephonellc.com": "Choice"
+  },
+  "VE": {
+    "@movistar.net.ve": "Movistar"
   },
   "VN": {
     "@mobifone.vn": "Mobifone",
