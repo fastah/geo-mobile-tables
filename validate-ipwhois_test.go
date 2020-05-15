@@ -1,4 +1,4 @@
-// Copyright 2018, Blackbuck Computing Inc
+// Copyright 2018-20, Blackbuck Computing Inc
 // portions from StackOverflow with attribution (see code comments)
 
 package main
@@ -48,9 +48,8 @@ func TestIPWhoisFormat(t *testing.T) {
 		t.Fatalf("Duplicate keys found in JSON : %d\n", len(duplicates))
 	}
 
-	for country, countryRules := range ruleBook {
-		t.Logf("Observing country %s -> %v\n", country, countryRules)
-
+	for country := range ruleBook {
+		//t.Logf("Observing country %s -> %v\n", country, countryRules)
 		if len(country) > 2 {
 			t.Fatalf("Country code is greater than 2 characters : %s ( len = %d)\n", country, len(country))
 		}
