@@ -296,6 +296,10 @@
     "@orange.com": "Orange",
     "@iam.ma": "Maroc"
   },
+  "MD": {
+    "@orange.md": "Orange",
+    "@moldcell.md": "Moldcell"  
+  },
   "MG": {
     "@telma.mg": "Telma",
     "@orange.com": "Orange"
