@@ -110,6 +110,8 @@
   },
   "DE": {
     "@telekom.de": "Telekom",
+    "@vodafone.com": "Vodafone",
+    "@vodafone.de": "Vodafone",
     "@telefonica.de": "O2"
   },
   "DZ": {
@@ -226,7 +228,7 @@
     "@mtsindia.in": "MTS",
     "@mtnl.net.in": "MTNL",
     "@hathway.net": "Hathway",
-    "@actcorp.net": "Hathway"
+    "@actcorp.in": "ACT"
   },
   "IQ": {
     "@korektel.com": "Korektel",
@@ -262,7 +264,8 @@
     "@cellcard.com.kh": "Cellcard"
   },
   "KR": {
-    "@orange.sk": "Orange"
+    "@orange.sk": "Orange",
+    "@lguplus.co.kr": "LG U Plus"
   },
   "KW": {
     "@kw.zain.com": "Zain",
@@ -355,6 +358,7 @@
   "NG": {
     "@gloworld.com": "Glo",
     "@mtnnigeria.net": "MTN",
+    "@mtn.com": "MTN",
     "@9mobile.com.ng": "9Mobile",
     "@ntel.com.ng": "ntel",
     "@ng.airtel.com": "Airtel"
@@ -402,6 +406,9 @@
     "@orange.com": "Orange",
     "@playmobile.pl": "Play",
     "@t-mobile.pl": "T-Mobile"
+  },
+  "PS": {
+    "@wataniya.ps": "Wataniya"
   },
   "PT": {
     "@tmn.pt": "MEO",
@@ -523,7 +530,7 @@
   },
   "ZM": {
     "@zm.airtel.com": "Airtel",
-    "@mtnzambia.co.zm": "MTN Zambia",
+    "@mtnzambia.co.zm": "MTN",
     "@zamtel.co.zm": "Zamtel"
   }
 }
