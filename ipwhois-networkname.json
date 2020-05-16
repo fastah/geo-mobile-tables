@@ -99,7 +99,8 @@
   "CO": {
     "@telecom.com.co": "Movistar",
     "@une.com.co": "Tigo",
-    "@claro.com.co": "Claro"
+    "@claro.com.co": "Claro",
+    "@etb.net.co": "eTb"
   },
   "CN": {
     "@chinaunicom.cn": "China Unicom",
@@ -113,6 +114,10 @@
     "@vodafone.com": "Vodafone",
     "@vodafone.de": "Vodafone",
     "@telefonica.de": "O2"
+  },
+  "DK": {
+    "@telia.net": "Telia",
+    "@telia.com": "Telia"
   },
   "DZ": {
     "@mobilis.dz": "Mobilis",
@@ -235,12 +240,12 @@
     "@iq.zain.com": "Zain"
   },
   "IR": {
-    "@mtnirancell.ir": "MTN",
+    "@mtnirancell.ir": "MTN Irancell",
     "@mci.ir": "MCI"
   },
   "IT": {
-    "@h3g.it": "Wind Tre",
-    "@wind.it": "Wind Tre",
+    "@h3g.it": "WindTre",
+    "@wind.it": "WindTre",
     "@telecomitalia.it": "TIM",
     "@mail.vodafone.it": "Vodafone"
   },
