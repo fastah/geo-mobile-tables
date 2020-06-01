@@ -121,8 +121,9 @@
   },
   "DZ": {
     "@mobilis.dz": "Mobilis",
-    "@telefonica.de": "Telefonica",
-    "@ooredoo.dz": "Ooredoo"
+    "@ooredoo.dz": "Ooredoo",
+    "@djezzy.dz": "Djezzy",
+    "@djaweb.dz": "Mobilis"
   },
   "EG": {
     "@tedata.net": "TelecomEgypt",
