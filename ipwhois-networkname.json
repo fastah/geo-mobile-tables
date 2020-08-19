@@ -186,7 +186,9 @@
     "@mtn.com.gh": "MTN"
   },
   "GN": {
-    "@mtn.com": "MTN"
+    "@mtn.com": "MTN",
+    "@gn.cellcomgsm.com": "Cellcom",
+    "@orange-sonatel.com": "Orange"
   },
   "GR": {
     "@vodafone.com": "Vodafone",
