@@ -223,7 +223,9 @@
   },
   "HU": {
     "@telekom.hu": "Telekom",
-    "@digi.co.hu" : "DIGI"
+    "@digi.co.hu" : "DIGI",
+    "@vodafone.com": "Vodafone",
+    "@telenor.hu": "Telenor"
   },
   "ID": {
     "@indosat.co.id": "Indosat",
