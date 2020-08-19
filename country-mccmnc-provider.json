@@ -236,16 +236,13 @@
     },
     "CO": {
         "732,1": "Movistar",
-        "732,2": "Edatel",
         "732,20": "Tigo",
         "732,103": "Tigo",
         "732,111": "Tigo",
         "732,101": "Claro",
         "732,666": "Claro",
         "732,123": "Movistar",
-        "732,187": "eTb",
-        "732,120": "Avantel",
-        "732,130": "Avantel"
+        "732,187": "eTb"
     },
     "CR": {
         "712,1": "Kolbi ICE",
@@ -316,7 +313,6 @@
         "214,7": "Movistar",
         "214,9": "Orange",
         "214,22": "DIGI",
-        "214,25": "Lycamobile",
         "214,27": "Truphone",
         "214,37": "Vodafone"
     },
@@ -477,8 +473,7 @@
         "425,2": "Cellcom",
         "425,3": "Pelephone",
         "425,7": "HOT Mobile",
-        "425,8": "Golan Telekom",
-        "425,19": "019 mobile",
+        "425,8": "Golan Telecom",
         "425,9": "We4G",
         "425,10": "Partner"
     },
@@ -1027,8 +1022,7 @@
         "240,1": "Telia",
         "240,2": "Three",
         "240,7": "Tele2",
-        "240,8": "Telenor",
-        "240,24": "Net4Mobility"
+        "240,8": "Telenor"
     },
     "SG": {
         "525,1": "Singtel",
@@ -1159,8 +1153,7 @@
         "255,1": "Vodafone",
         "255,2": "Kyivstar",
         "255,3": "Kyivstar",
-        "255,6": "lifecell",
-        "255,99": "Phonenix"
+        "255,6": "lifecell"
     },
     "UG": {
         "641,1": "Airtel",
@@ -1246,9 +1239,7 @@
         "452,1": "MobiFone",
         "452,2": "Vinaphone",
         "452,4": "Viettel",
-        "452,5": "Vietnamobile",
-        "452,7": "Gmobile",
-        "452,9": "REDDI"
+        "452,5": "Vietnamobile"
     },
     "YE": {
         "421,1": "Sabafon",
