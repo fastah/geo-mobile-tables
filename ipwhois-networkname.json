@@ -189,7 +189,9 @@
     "@mtn.com": "MTN"
   },
   "GR": {
-    "@vodafone.com": "Vodafone"
+    "@vodafone.com": "Vodafone",
+    "@cosmote.gr": "Cosmote",
+    "@wind.gr": "Wind"
   },
   "GT": {
     "@claro.com.gt": "Claro"
