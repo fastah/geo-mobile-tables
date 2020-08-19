@@ -523,9 +523,11 @@
   },
   "SG": {
     "@singnet.com.sg": "Singtel",
+    "@staff.singnet.com.sg": "Singtel",
     "@m1.com.sg": "M1",
     "@starhub.com": "Starhub",
-    "@myrepublic.com.sg": "MyRepublic"
+    "@myrepublic.com.sg": "MyRepublic",
+    "@tpg.com.au": "TPG"
   },
   "SK": {
     "@orange.sk": "Orange",
