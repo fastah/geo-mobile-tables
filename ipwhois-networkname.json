@@ -384,20 +384,19 @@
     "@ooredoo.mv": "Ooredoo"
   },
   "MY": {
-    "@packet-1.com": "Unifi",
     "@maxis.com.my": "Maxis",
     "@maxis.net.my": "Maxis",
     "@digi.com.my": "Digi",
     "@u.com.my": "U Mobile",
     "@celcom.com.my": "Celcom",
-    "@tm.com.my": "TM",
+    "@tm.com.my": "Unifi",
+    "@tm.net.my": "Unifi",
     "@ytlcomms.my" : "Yes",
     "@webe.com.my" : "Unifi",
     "@time.com.my" : "Time",
     "@mykris.net" : "MyKRIS",
     "@redtone.com" : "REDtone",
-    "@innet.com.my" : "InNET",
-    "jasettc@yahoo.com": "TM"
+    "@innet.com.my" : "InNET"
   },
   "MZ": {
     "@vm.co.mz": "Vodafone"
