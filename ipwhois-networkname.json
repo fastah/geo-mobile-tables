@@ -167,7 +167,9 @@
     "@ga.airtel.com": "Airtel"
   },
   "GE": {
-    "@beeline.ge": "Beeline"
+    "@beeline.ge": "Beeline",
+    "@magtinet.ge": "Magti",
+    "@silknet.com": "Silk"
   },
   "GB": {
     "@lycatel.com": "Lycatel",
