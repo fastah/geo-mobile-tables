@@ -12,7 +12,8 @@
   },
   "AM": {
     "@mts.am": "MTS",
-    "@ucom.am": "Ucom"
+    "@ucom.am": "Ucom",
+    "@beeline.am": "Beeline"
   },
   "AO": {
     "@unitel.co.ao": "unitel",
@@ -58,6 +59,10 @@
   },
   "BN": {
     "@dst.com.bn": "DST"
+  },
+  "BO": {
+    "@tigo.net.bo": "Tigo",
+    "@entel.bo": "Entel"
   },
   "BR": {
     "@telefonica.com": "Vivo",
@@ -136,7 +141,7 @@
     "@corp.vodafone.es": "Vodafone"
   },
   "ET": {
-    "@ethiotelecom.et": "Ethio Telecom"
+    "@ethiotelecom.et": "MTN"
   },
   "FI": {
     "@telia.fi": "Telia",
@@ -181,8 +186,10 @@
   },
   "HK": {
     "@hk.chinamobile.com": "China Mobile",
-    "@singtatglobal.com": "Singtel",
-    "@hthk.com": "Three"
+    "@hthk.com": "Three",
+    "@hkcsl.com": "CSL",
+    "@pccw.com": "CSL",
+    "@ismart.net" : "SmarTone"
   },
   "HN": {
     "@tigo.com.hn": "Tigo"
@@ -253,10 +260,17 @@
   "JO": {
     "@jo.zain.com": "Zain",
     "@orange.com": "Orange",
-    "@orange-jtg.com": "Orange"
+    "@orange-jtg.com": "Orange",
+    "@go.com.jo": "Orange",
+    "@umniah.com" : "Umniah"
   },
   "JP": {
-    "@kg-nishimura": "KDDI"
+    "@int-gw.kddi.ne.jp": "au",
+    "@noc.kddnet.ad.jp": "au",
+    "@nttdocomo.com": "DOCOMO",
+    "@mail.rakuten.com": "Rakuten",
+    "@rakuten.com" : "Rakuten",
+    "@bb.softbank.co.jp" : "SoftBank"
   },
   "KE": {
     "@safaricom.co.ke": "Safaricom"
@@ -310,7 +324,9 @@
   },
   "MD": {
     "@orange.md": "Orange",
-    "@moldcell.md": "Moldcell"  
+    "@moldcell.md": "Moldcell",
+    "@idc.md": "IDC",
+    "@moldtelecom.md" : "Unité"
   },
   "MG": {
     "@telma.mg": "Telma",
@@ -430,7 +446,8 @@
   },
   "RS": {
     "@telekom.rs": "MTS",
-    "@vipmobile.rs": "VIP"
+    "@vipmobile.rs": "VIP",
+    "@telenor.rs": "Telenor"
   },
   "RU": {
     "@mtu.ru": "MTC",
@@ -456,7 +473,9 @@
     "@myrepublic.com.sg": "MyRepublic"
   },
   "SK": {
-    "orange.sk": "Orange"
+    "@orange.sk": "Orange",
+    "@telekom.sk": "Telekom",
+    "@swan.sk": "SWAN 4ka"
   },
   "SN": {
     "@orange-sonatel.com": "Orange"
