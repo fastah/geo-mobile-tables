@@ -58,7 +58,7 @@ func init() {
 	}
 }
 
-func TestCrossReferenced(t *testing.T) {
+func TestCrossRef(t *testing.T) {
 
 	tableCases := []struct {
 		caption string
@@ -66,38 +66,40 @@ func TestCrossReferenced(t *testing.T) {
 		{"mcctowhois"},
 	}
 	for _, tc := range tableCases {
-		table1 := tablewriter.NewWriter(os.Stdout)
-		table1.SetHeader([]string{"Country", "Carrier in MCC/MNC dict", "WHOIS rule hits", "Carrier in WHOIS dict"})
-		table1.SetAutoMergeCellsByColumnIndex([]int{0})
-		table1.SetRowLine(true)
-		table1.SetCaption(true, tc.caption)
+		t.Run(tc.caption, func(t *testing.T) {
+			table1 := tablewriter.NewWriter(os.Stdout)
+			table1.SetHeader([]string{"Country", "Carrier in MCC/MNC dict", "WHOIS rule hits", "Carrier in WHOIS dict"})
+			table1.SetAutoMergeCellsByColumnIndex([]int{0})
+			table1.SetRowLine(true)
+			table1.SetCaption(true, fmt.Sprintf("TEST TABLE: %s", tc.caption))
 
-		for country, countryRules := range mccmnctable {
-			t.Logf("Country %s\n", country)
-			iprulecount := 0
-			if cipwr, exists := ipwhoistable[country]; exists {
-				for _, carrierL := range countryRules {
-					iprulecount++
-					count := 0
-					var _cr string
-					for _, carrierR := range cipwr {
-						if strings.EqualFold(carrierL, carrierR) {
-							count++
-							_cr = carrierR
+			for country, countryRules := range mccmnctable {
+				//t.Logf("Country %s\n", country)
+				iprulecount := 0
+				if cipwr, exists := ipwhoistable[country]; exists {
+					for _, carrierL := range countryRules {
+						iprulecount++
+						count := 0
+						var _cr string
+						for _, carrierR := range cipwr {
+							if strings.EqualFold(carrierL, carrierR) {
+								count++
+								_cr = carrierR
+							}
+						}
+						if count > 0 {
+							table1.Append([]string{country, carrierL, fmt.Sprintf("%d WHOIS rules", count), _cr})
+						} else {
+							table1.Append([]string{country, carrierL, fmt.Sprintf("%d WHOIS rules", count), "😬"})
 						}
 					}
-					if count > 0 {
-						table1.Append([]string{country, carrierL, fmt.Sprintf("%d WHOIS rules", count), _cr})
-					} else {
-						table1.Append([]string{country, carrierL, fmt.Sprintf("%d WHOIS rules", count), "😬"})
+				} else {
+					for _, carrierL := range countryRules {
+						table1.Append([]string{country, carrierL, "<COUNTRY MISSING IN WHOIS>", "💩"})
 					}
 				}
-			} else {
-				for _, carrierL := range countryRules {
-					table1.Append([]string{country, carrierL, "<COUNTRY MISSING IN WHOIS>", "💩"})
-				}
 			}
-		}
-		table1.Render()
+			table1.Render()
+		})
 	}
 }
