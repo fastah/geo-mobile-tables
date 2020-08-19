@@ -578,7 +578,9 @@
     "@comcast.net" : "Comcast",
     "@cspire.com" : "C Spire",
     "@gci.net": "GCI",
-    "@choicephonellc.com": "Choice"
+    "@choicephonellc.com": "Choice",
+    "@uscellular.com": "US Cellular",
+    "@ekn.com": "Appalachian"
   },
   "VE": {
     "@movistar.net.ve": "Movistar"
