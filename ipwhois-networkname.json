@@ -116,7 +116,9 @@
   "CD": {
     "@orange.com": "Orange",
     "@africell.cd": "Africell",
-    "@vodacom.com": "Vodacom"
+    "@vodacom.cd": "Vodacom",
+    "@vodacom.co.za": "Vodacom",
+    "@cd.airtel.com" : "Airtel"
   },
   "CG": {
     "@cg.airtel.com": "Airtel"
@@ -133,7 +135,8 @@
   },
   "CN": {
     "@chinaunicom.cn": "China Unicom",
-    "@chinamobile.com": "China Mobile"
+    "chinamobile.com": "China Mobile",
+    "@chinatelecom.cn" : "China Telecom"
   },
   "CR": {
     "@claro.cr": "Claro",
@@ -172,9 +175,11 @@
     "@cnt.gob.ec": "CNT"
   },
   "EG": {
-    "@tedata.net": "TelecomEgypt",
+    "@tedata.net": "WE",
     "@orange.com": "Orange",
-    "@etisalat.com": "Etisalat Misr"
+    "@vodafone.com" : "Vodafone",
+    "@etisalat.com": "Etisalat",
+    "@etisalatdata.net": "Etisalat"
   },
   "ES": {
     "@orange.es": "Orange",
@@ -400,8 +405,9 @@
     "@dialog.lk": "Dialog",
     "@hutchison.lk": "Hutch",
     "@mobitel.lk": "Mobitel",
-    "@sltnet.lk": "SLT",
-    "@slt.lk": "SLT"
+    "@slt.com.lk": "SLT",
+    "@slt.lk": "SLT",
+    "@airtelworld.com" : "Airtel" 
   },
   "LR": {
     "@orange.com": "Orange"
@@ -446,7 +452,8 @@
     "@telecom.mu": "Telecom"
   },
   "MV": {
-    "@ooredoo.mv": "Ooredoo"
+    "@ooredoo.mv": "Ooredoo",
+    "@dhiraagu.com.mv" : "Dhiraagu"
   },
   "MY": {
     "@maxis.com.my": "Maxis",
@@ -478,6 +485,10 @@
     "@ntel.com.ng": "ntel",
     "@ng.airtel.com": "Airtel"
   },
+  "NI": {
+    "@claro.com.ni": "Claro",
+    "@tigo.com.ni": "Tigo"
+  },
   "NL": {
     "@vodafone.com": "Vodafone",
     "@tele2.nl" : "Tele2",
@@ -507,6 +518,11 @@
   "OM": {
     "@omantel.om": "Omantel",
     "@nawras.om": "Ooredoo"
+  },
+  "PE": {
+    "@telefonica.net.pe": "Movistar",
+    "@entel.pe" : "Entel",
+    "@claro.com.pe" : "Claro"
   },
   "PG": {
     "@digicelgroup.com": "Digicel"
@@ -604,6 +620,12 @@
     "@mtn.com": "MTN",
     "@ss.zain.com": "Zain"
   },
+  "SV": {
+    "@digicelgroup.com": "Digicel",
+    "@telefonica.com.sv": "Movistar",
+    "@claro.com.sv": "Claro",
+    "@tigo.com.sv": "Tigo"
+  },
   "TH": {
     "@ais.co.th": "AIS",
     "@dtac.co.th": "dtac",
@@ -618,7 +640,7 @@
     "@megafon.tj": "Megafon",
     "@megafon.ru": "Megafon",
     "@tcell.tj": "Tcell",
-    "@babilon-t.tj": "Babilon-T"
+    "@babilon-t.tj": "Babilon"
   },
   "TL": {
     "@telkomsel.co.id": "Telkomcel",
