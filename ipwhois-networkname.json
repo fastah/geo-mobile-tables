@@ -48,7 +48,8 @@
   "BD": {
     "@grameenphone.com": "Grameenphone",
     "@robi.com.bd": "Robi",
-    "@banglalinkgsm.com": "Banglalink"
+    "@banglalinkgsm.com": "Banglalink",
+    "@bd.airtel.com" : "Airtel"
   },
   "BE": {
     "@orange.be": "Orange",
@@ -224,7 +225,9 @@
     "@gb.vodafone.co.uk": "Vodafone",
     "@vodafone.co.uk": "Vodafone",
     "@bt.com" : "BT",
-    "@ee.co.uk" : "EE"
+    "@ee.co.uk" : "EE",
+    "@sureline.net" : "Sure",
+    "orange.com" : "EE"
   },
   "GH": {
     "@mtn.com.gh": "MTN"
