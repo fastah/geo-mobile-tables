@@ -459,11 +459,7 @@
     "@tm.com.my": "Unifi",
     "@tm.net.my": "Unifi",
     "@ytlcomms.my" : "Yes",
-    "@webe.com.my" : "Unifi",
-    "@time.com.my" : "Time",
-    "@mykris.net" : "MyKRIS",
-    "@redtone.com" : "REDtone",
-    "@innet.com.my" : "InNET"
+    "@webe.com.my" : "Unifi"
   },
   "MZ": {
     "@vm.co.mz": "Vodafone"
