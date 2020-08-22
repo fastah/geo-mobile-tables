@@ -273,25 +273,20 @@
     "@telenor.hu": "Telenor"
   },
   "ID": {
-    "@indosat.co.id": "Indosat",
-    "@indosat.net.id": "Indosat",
+    "@indosat.co.id": "Indosat Ooredoo",
+    "@indosat.com": "Indosat Ooredoo",
+    "@indosat.net.id": "Indosat Ooredoo",
     "@smartfren.com": "Smartfren",
     "@access.net.id": "Smartfren",
     "@dnet.net.id": "Smartfren",
-    "@indosatooredoo.com": "Indosat",
+    "@indosatooredoo.com": "Indosat Ooredoo",
     "@telkomsel.co.id": "Telkomsel",
     "@telkom.net.id": "Telkomsel",
-    "@telkom.co.id": "Telkom Indonesia",
     "@xl.co.id": "XL",
-    "@internux.co.id": "Bolt",
+    "@internux.co.id": "Smartfren",
     "@tri.co.id": "Tri",
     "@three.co.id": "Tri",
-    "@cbn.net.id": "CBN",
-    "@top.net.id": "CBN",
-    "@myrepublic.net.id": "MyRepubic",
-    "@linknet.co.id": "LinkNet",
-    "@axisworld.co.id": "Axis",
-    "@myrepublic.co.id": "MyRepublic"
+    "@axisworld.co.id": "XL"
   },
   "IE": {
     "@vodafone.com": "Vodafone",
