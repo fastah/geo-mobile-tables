@@ -447,6 +447,10 @@
     "@ooredoo.mv": "Ooredoo",
     "@dhiraagu.com.mv" : "Dhiraagu"
   },
+  "MX": {
+    "@mail.telcel.com": "Telcel",
+    "@att.com" : "AT&T"
+  },
   "MY": {
     "@maxis.com.my": "Maxis",
     "@maxis.net.my": "Maxis",
