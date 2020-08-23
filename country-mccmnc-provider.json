@@ -1168,6 +1168,7 @@
         "310,170": "AT&T",
         "310,20": "Union",
         "310,230": "C Spire",
+        "310,240": "T-Mobile",
         "310,260": "T-Mobile",
         "310,30": "AT&T",
         "310,320": "Cellular One",
@@ -1211,7 +1212,8 @@
         "312,740": "Viaero",
         "312,770": "iWireless",
         "312,790": "BLAZE",
-        "312,880": "DTC Wireless"
+        "312,880": "DTC Wireless",
+        "316,10": "T-Mobile"
     },
     "UY": {
         "748,1": "Antel",
