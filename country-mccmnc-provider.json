@@ -15,7 +15,8 @@
         "276,1": "T-Mobile"
     },
     "AM": {
-        "283,5": "MTS"
+        "283,5": "MTS",
+        "283,10": "Orange"
     },
     "AO": {
         "631,2": "Unitel",
@@ -28,7 +29,8 @@
         "722,320": "Claro",
         "722,330": "Claro",
         "722,34": "Personal",
-        "722,341": "Personal"
+        "722,341": "Personal",
+        "722,7": "Movistar"
     },
     "AT": {
         "232,1": "A1",
@@ -58,7 +60,8 @@
         "400,6": "Naxtel"
     },
     "AW": {
-        "363,1": "Setar"
+        "363,1": "Setar",
+        "363,2": "Digicel"
     },
     "BA": {
         "218,90": "BH Mobile"
@@ -132,7 +135,8 @@
         "724,32": "Algar",
         "724,33": "Algar",
         "724,34": "Algar",
-        "724,39": "Nextel"
+        "724,39": "Nextel",
+        "724,16": "Oi"
     },
     "BS": {
         "364,39": "BTC",
@@ -200,6 +204,11 @@
         "629,7": "Airtel",
         "629,10": "MTN"
     },
+    "CH": {
+        "228,1": "Swisscom",
+        "228,2": "Sunrise",
+        "228,3": "Salt"
+    },
     "CI": {
         "612,2": "Moov",
         "612,3": "Orange",
@@ -226,7 +235,9 @@
         "460,0": "China Mobile",
         "460,1": "China Unicom",
         "460,3": "China Telecom",
-        "460,4": "China Unicom"
+        "460,4": "China Unicom",
+        "460,11": "China Telecom",
+        "460,7": "China Mobile"
     },
     "CO": {
         "732,1": "Movistar",
@@ -236,7 +247,9 @@
         "732,101": "Claro",
         "732,666": "Claro",
         "732,123": "Movistar",
-        "732,187": "eTb"
+        "732,187": "eTb",
+        "732,2": "Edatel",
+        "732,130": "Avantel"
     },
     "CR": {
         "712,1": "Kölbi ICE",
@@ -467,7 +480,8 @@
         "425,7": "HOT Mobile",
         "425,8": "Golan Telecom",
         "425,9": "We4G",
-        "425,10": "Partner"
+        "425,10": "Partner",
+        "425,19": "019 Mobile"
     },
     "IN": {
         "404,1": "Vodafone Idea",
@@ -666,7 +680,8 @@
         "440,75": "au",
         "440,76": "au",
         "440,78": "au",
-        "440,1": "SoftBank"
+        "440,1": "SoftBank",
+        "441,1": "SoftBank"
     },
     "KE": {
         "639,2": "Safaricom",
@@ -808,7 +823,8 @@
         "334,30": "Movistar",
         "334,40": "AT&T",
         "334,50": "AT&T",
-        "334,90": "AT&T"
+        "334,90": "AT&T",
+        "334,3": "Movistar"
     },
     "MY": {
         "502,10": "Maxis",
@@ -1206,7 +1222,13 @@
         "312,770": "iWireless",
         "312,790": "BLAZE",
         "312,880": "DTC Wireless",
-        "316,10": "T-Mobile"
+        "316,10": "T-Mobile",
+        "312,720": "Southern LINC",
+        "313,100": "FirstNet",
+        "313,110": "FirstNet",
+        "313,120": "FirstNet",
+        "313,130": "FirstNet",
+        "313,140": "FirstNet"
     },
     "UY": {
         "748,1": "Antel",
