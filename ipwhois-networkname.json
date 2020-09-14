@@ -121,6 +121,11 @@
   "CG": {
     "@cg.airtel.com": "Airtel"
   },
+  "CH": {
+    "@sunrise.net": "Sunrise",
+    "@salt.ch": "Salt",
+    "@ip-plus.net" : "Swisscom"
+  },
   "CI": {
     "@mtn.ci": "MTN",
     "@orange-cit.ci": "Orange"
