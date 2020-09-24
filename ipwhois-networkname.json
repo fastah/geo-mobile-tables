@@ -53,7 +53,9 @@
     "@proximus.com" : "Proximus",
     "@telenet-ops.be" : "Base",
     "@staff.telenet.be" : "Base",
-    "@telenetgroup.be" : "Base"
+    "@telenetgroup.be" : "Base",
+    "@lycamobile.co.uk" : "Lycamobile",
+    "@lycamobile.com" : "Lycamobile"
   },
   "BH": {
     "@batelco.com.bh": "Batelco",
@@ -197,7 +199,9 @@
     "@corp.vodafone.es": "Vodafone",
     "@vodafone.com" : "Vodafone",
     "@yoigo.com" : "Yoigo",
-    "@digimobil.es" : "DIGI"
+    "@digimobil.es" : "DIGI",
+    "@lycamobile.co.uk" : "Lycamobile",
+    "@lycamobile.com" : "Lycamobile"
   },
   "ET": {
     "@ethiotelecom.et": "MTN"
@@ -240,7 +244,10 @@
     "@bt.com" : "BT",
     "@ee.co.uk" : "EE",
     "@sureline.net" : "Sure",
-    "orange.com" : "EE"
+    "orange.com" : "EE",
+    "@virginmobile.com" : "Virgin Mobile",
+    "@virgin.com" : "Virgin Mobile",
+    "@virginmedia.net" : "Virgin Mobile"
   },
   "GH": {
     "@mtn.com.gh": "MTN"
@@ -355,7 +362,8 @@
     "@nttdocomo.com": "DOCOMO",
     "@mail.rakuten.com": "Rakuten",
     "@rakuten.com" : "Rakuten",
-    "@bb.softbank.co.jp" : "SoftBank"
+    "@bb.softbank.co.jp" : "SoftBank",
+    "@uqc.jp": "UQ mobile"
   },
   "KE": {
     "@safaricom.co.ke": "Safaricom",

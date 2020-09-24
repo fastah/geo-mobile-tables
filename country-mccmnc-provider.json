@@ -79,7 +79,8 @@
     "BE": {
         "206,1": "Proximus",     
         "206,10": "Orange",
-        "206,20": "Base"
+        "206,20": "Base",
+        "206,6": "Lycamobile"
     },
     "BF": {
         "613,1": "Onatel",
@@ -136,7 +137,8 @@
         "724,33": "Algar",
         "724,34": "Algar",
         "724,39": "Nextel",
-        "724,16": "Oi"
+        "724,16": "Oi",
+        "724,17": "Correios Celular"
     },
     "BS": {
         "364,39": "BTC",
@@ -321,7 +323,8 @@
         "214,9": "Orange",
         "214,22": "DIGI",
         "214,27": "Truphone",
-        "214,37": "Vodafone"
+        "214,37": "Vodafone",
+        "214,25": "Lycamobile"
     },
     "ET": {
         "636,1": "MTN"
@@ -385,7 +388,8 @@
         "235,92": "Vodafone",
         "234,20": "Three",
         "234,55": "Sure",
-        "234,16": "Talk Talk"
+        "234,16": "Talk Talk",
+        "234,38": "Virgin"
     },
     "GE": {
         "282,1": "Silk",
@@ -681,7 +685,8 @@
         "440,76": "au",
         "440,78": "au",
         "440,1": "SoftBank",
-        "441,1": "SoftBank"
+        "441,1": "SoftBank",
+        "441,10": "UQ mobile"
     },
     "KE": {
         "639,2": "Safaricom",
@@ -877,7 +882,8 @@
         "204,8": "KPN",
         "204,10": "KPN",
         "204,2": "Tele2",
-        "204,20": "T-Mobile"
+        "204,20": "T-Mobile",
+        "204,9": "Lycamobile"
     },
     "NO": {
         "242,1": "Telenor",
@@ -1228,7 +1234,8 @@
         "313,110": "FirstNet",
         "313,120": "FirstNet",
         "313,130": "FirstNet",
-        "313,140": "FirstNet"
+        "313,140": "FirstNet",
+        "311,40": "Choice"
     },
     "UY": {
         "748,1": "Antel",
