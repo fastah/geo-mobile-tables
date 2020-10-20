@@ -250,7 +250,8 @@
     "@virginmedia.net" : "Virgin Mobile"
   },
   "GH": {
-    "@mtn.com.gh": "MTN"
+    "@mtn.com.gh": "MTN",
+    "@vodafone.com": "Vodafone"
   },
   "GN": {
     "@mtn.com": "MTN",
@@ -702,7 +703,9 @@
     "@gci.net": "GCI",
     "@choicephonellc.com": "Choice",
     "@uscellular.com": "US Cellular",
-    "@ekn.com": "Appalachian"
+    "@ekn.com": "Appalachian",
+    "@viaero.com" : "Viaero",
+    "@limitlessmobile.com" : "Limitles Mmobile"
   },
   "VE": {
     "@movistar.net.ve": "Movistar"
@@ -717,7 +720,8 @@
     "@vodacom.co.za": "Vodacom",
     "@cellc.co.za": "Cell C",
     "@telkom.co.za": "Telkom",
-    "@mtnbusiness.co.za": "MTN"
+    "@mtnbusiness.co.za": "MTN",
+    "@lycadigit.al" : "Lycamobile"
   },
   "ZM": {
     "@zm.airtel.com": "Airtel",

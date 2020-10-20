@@ -1235,7 +1235,12 @@
         "313,120": "FirstNet",
         "313,130": "FirstNet",
         "313,140": "FirstNet",
-        "311,40": "Choice"
+        "311,40": "Choice",
+        "310,460": "Viaero",
+        "310,690": "Limitless Mobile",
+        "312,240": "T-Mobile",
+        "312,250": "T-Mobile",
+        "312,370": "Choice"
     },
     "UY": {
         "748,1": "Antel",
@@ -1273,7 +1278,8 @@
         "655,19": "Rain",
         "655,2": "Telkom",
         "655,38": "iBurst",
-        "655,7": "Cell C"
+        "655,7": "Cell C",
+        "655,53": "Lycamobile"
     },
     "ZM": {
         "645,1": "Airtel",
