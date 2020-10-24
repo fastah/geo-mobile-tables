@@ -326,12 +326,12 @@
     "@in.airtel.com": "Airtel",
     "@airtel": "Airtel",
     "@telenor": "Airtel",
-    "@vodafone.com": "Vodafone Idea",
-    "@vodafoneidea.com": "Vodafone Idea",
+    "@vodafone.com": "Vi",
+    "@vodafoneidea.com": "Vi",
     "@tatatel": "Airtel",
     "@jio.com": "Jio",
     "@ril.com": "Jio",
-    "@idea.adityabirla.com": "Vodafone Idea",
+    "@idea.adityabirla.com": "Vi",
     "@mtnl.net.in": "MTNL"
   },
   "IQ": {
@@ -466,7 +466,8 @@
   },
   "MX": {
     "@mail.telcel.com": "Telcel",
-    "@att.com" : "AT&T"
+    "@att.com" : "Unefon",
+    "@altanredes": "Altan Redes"
   },
   "MY": {
     "@maxis.com.my": "Maxis",
@@ -705,7 +706,7 @@
     "@uscellular.com": "US Cellular",
     "@ekn.com": "Appalachian",
     "@viaero.com" : "Viaero",
-    "@limitlessmobile.com" : "Limitles Mmobile"
+    "@limitlessmobile.com" : "Limitless Mobile"
   },
   "VE": {
     "@movistar.net.ve": "Movistar"
