@@ -11,6 +11,11 @@
     "@afghan-wireless.com": "Afghan Wireless",
     "afghantelecom.af" : "Salaam"
   },
+  "AL": {
+    "@telekom.com.al": "Telecom.al",
+    "@vodafone.com": "Vodafone",
+    "@albtelecom.al" : "Eagle Mobile"
+  },
   "AM": {
     "@mts.am": "MTS",
     "@ucom.am": "Ucom",
@@ -42,6 +47,15 @@
     "@bakcell.com": "bakcell",
     "@azercell.com": "Azercell"
   },
+  "BA": {
+    "@hteronet.ba": "HT-ERONET",
+    "@mtel.ba": "Mtel",
+    "@bih.net.ba": "BH Mobile"
+  },
+  "BB": {
+    "@cwc.com": "Flow",
+    "@digicelgroup.com": "Digicel"
+  },
   "BD": {
     "@grameenphone.com": "Grameenphone",
     "@robi.com.bd": "Robi",
@@ -71,7 +85,7 @@
   "BG": {
     "@vivacom.bg": "Vivacom",
     "@telenor.bg": "Telenor",
-    "@mobiltel.bg" : "A1 Mobile",
+    "@mobiltel.bg" : "A1",
     "@bulsat.com" : "Bulsatcom"
   },
   "BN": {
@@ -93,6 +107,11 @@
   "BT": {
     "@bt.bt": "BT",
     "@tashicell.com": "TashiCell"
+  },
+  "BW": {
+    "@mascom.bw": "Mascom",
+    "@orange.com" : "Orange",
+    "@btc.bw" : "beMobile"
   },
   "BY": {
     "@mts.by": "MTS",
@@ -220,7 +239,8 @@
     "@orange.com": "Orange",
     "@bouyguestelecom.fr": "Bouygues",
     "@gaoland.net" : "SFR",
-    "@proxad.net" : "Free"
+    "@proxad.net" : "Free",
+    "@e-i.com" : "NRJ Mobile"
   },
   "GA": {
     "@gabontelecom.ga": "Gabon Telecom",
@@ -344,11 +364,12 @@
     "@rightel.ir" : "RighTel"
   },
   "IT": {
-    "@h3g.it": "Wind Tre",
-    "@wind.it": "Wind Tre",
+    "@h3g.it": "WindTre",
+    "@wind.it": "WindTre",
     "@telecomitalia.it": "TIM",
     "@mail.tim.it" : "TIM",
-    "@mail.vodafone.it": "Vodafone"
+    "@mail.vodafone.it": "Vodafone",
+    "@lycamobile.it" : "Lycamobile"
   },
   "JO": {
     "@jo.zain.com": "Zain",
@@ -517,7 +538,7 @@
     "@ntc.net.np": "Nepal Telecom",
     "@ncell.axiata.com": "Ncell",
     "@ncell.com.np": "Ncell",
-    "@smarttel.com.np" : "Smart"
+    "@smarttel.com.np" : "SmartCell"
   },
   "NZ": {
     "@2degreesmobile.co.nz": "2degrees",
@@ -609,7 +630,8 @@
     "@telia.com": "Telia",
     "@telenor.se" : "Telenor",
     "@tele2.se" : "Tele2",
-    "@swip.net" : "Tele2"
+    "@swip.net" : "Tele2",
+    "@telenorconnexion.com" : "Sweden 2G"
   },
   "SG": {
     "@singnet.com.sg": "Singtel",
@@ -617,6 +639,11 @@
     "@m1.com.sg": "M1",
     "@starhub.com": "Starhub",
     "@tpg.com.au": "TPG"
+  },
+  "SI": {
+    "@a1.si": "A1",
+    "@telemach.si": "Telemach",
+    "@telekom.si" : "Mobitel"
   },
   "SK": {
     "@orange.sk": "Orange",

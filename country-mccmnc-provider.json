@@ -1,7 +1,7 @@
 {
     "AE": {
         "424,2": "Etisalat",
-        "424,3": "DU"
+        "424,3": "du"
     },
     "AF": {
         "412,1": "Afghan Wireless",
@@ -12,14 +12,17 @@
         "412,88": "Salaam"
     },
     "AL": {
-        "276,1": "T-Mobile"
+        "276,1": "Telekom.al",
+        "276,2": "Vodafone",
+        "276,3": "Eagle Mobile"
     },
     "AM": {
-        "283,5": "MTS",
-        "283,10": "Orange"
+        "283,5": "Viva-MTS",
+        "283,10": "Ucom",
+        "283,5": "Beeline"
     },
     "AO": {
-        "631,2": "Unitel",
+        "631,2": "Unitel"   ,
         "631,4": "Movicel"
     },
     "AR": {
@@ -64,10 +67,13 @@
         "363,2": "Digicel"
     },
     "BA": {
-        "218,90": "BH Mobile"
+        "218,90": "BH Mobile",
+        "218,5": "Mtel",
+        "218,3": "HT-ERONET"
     },
     "BB": {
-        "342,600": "LIME"
+        "342,600": "FLOW",
+        "342,750": "Digicel"
     },
     "BD": {
         "470,1": "Grameenphone",
@@ -88,7 +94,7 @@
         "613,3": "Telecel"
     },
     "BG": {
-        "284,1": "A1 Mobile",
+        "284,1": "A1",
         "284,3": "Vivacom",
         "284,5": "Telenor",
         "284,11": "Bulsatcom",
@@ -148,6 +154,11 @@
         "402,11": "BT",
         "402,77": "TashiCell"
     },
+    "BW": {
+        "652,1": "Mascom",
+        "652,2": "Orange",
+        "652,4": "beMobile"
+    },
     "BY": {
         "257,1": "A1",
         "257,2": "MTS",
@@ -193,7 +204,8 @@
         "630,2": "Airtel",
         "630,86": "Orange",
         "630,89": "Orange",
-        "630,90": "Africell"
+        "630,90": "Africell",
+        "630,05": "Supercell"
     },
     "CF": {
         "623,1": "Moov",
@@ -239,7 +251,8 @@
         "460,3": "China Telecom",
         "460,4": "China Unicom",
         "460,11": "China Telecom",
-        "460,7": "China Mobile"
+        "460,7": "China Mobile",
+        "460,6": "China Mobile"
     },
     "CO": {
         "732,1": "Movistar",
@@ -269,7 +282,8 @@
     "CZ": {
         "230,1": "T-Mobile",
         "230,2": "O2",
-        "230,3": "Vodafone"
+        "230,3": "Vodafone",
+        "230,7": "T-Mobile"
     },
     "DE": {
         "262,1": "Telekom",
@@ -363,7 +377,8 @@
         "208,21": "Bouygues",
         "208,35": "Free",
         "208,36": "Free",
-        "208,88": "Bouygues"
+        "208,88": "Bouygues",
+        "208,26": "NRJ Mobile"
     },
     "GA": {
         "628,1": "Libertis",
@@ -657,8 +672,9 @@
         "222,10": "Vodafone",
         "222,50": "Iliad",
         "222,7": "TIM",
-        "222,88": "Wind Tre",
-        "222,99": "Wind Tre"
+        "222,88": "WindTre",
+        "222,99": "WindTre",
+        "222,35": "Lycamobile"
     },
     "JM": {
         "338,180": "Flow",
@@ -713,7 +729,7 @@
         "456,9": "Metfone"
     },
     "KI": {
-        "545,1": "Kiribati-ATH",
+        "545,1": "ATHKL",
         "545,9": "Kiribati-FrigateNet"
     },
     "KR": {
@@ -754,7 +770,9 @@
         "413,3": "Hutch",
         "413,5": "Airtel",
         "413,9": "Hutch",
-        "413,12": "SLT"
+        "413,12": "SLT",
+        "413,8": "Hutch",
+        "413,11": "Dialog"
     },
     "LT": {
         "246,1": "Telia",
@@ -901,7 +919,7 @@
     "NP": {
         "429,1": "Nepal Telecom",
         "429,2": "Ncell",
-        "429,4": "Smart"
+        "429,4": "SmartCell"
     },
     "NZ": {
         "530,1": "Vodafone",
@@ -924,7 +942,8 @@
         "716,10": "Claro",
         "716,15": "Bitel",
         "716,6": "Movistar",
-        "716,7": "Entel"
+        "716,7": "Entel",
+        "716,17": "Entel"
     },
     "PF": {
         "547,15": "Vodafone",
@@ -1039,7 +1058,8 @@
         "240,1": "Telia",
         "240,2": "Three",
         "240,7": "Tele2",
-        "240,8": "Telenor"
+        "240,8": "Telenor",
+        "240,24": "Sweden 2G"
     },
     "SG": {
         "525,1": "Singtel",
@@ -1051,6 +1071,11 @@
         "525,7": "Singtel",
         "525,8": "StarHub",
         "525,9": "M1"
+    },
+    "SI": {
+        "293,40": "A1",
+        "293,70": "Telemach",
+        "293,41": "Mobitel"
     },
     "SK": {
         "231,1": "Orange",
