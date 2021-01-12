@@ -14,7 +14,7 @@
   "AL": {
     "@telekom.com.al": "One",
     "@vodafone.com": "Vodafone",
-    "@albtelecom.al" : "ALBtelecom"
+    "@albtelecom.al": "ALBtelecom"
   },
   "AM": {
     "@mts.am": "MTS",
@@ -33,8 +33,8 @@
   "AT": {
     "@drei.com": "Three",
     "@t-mobile.at": "Magenta",
-    "@magenta.at" : "Magenta",
-    "@a1.at" : "A1"
+    "@magenta.at": "Magenta",
+    "@a1.at": "A1"
   },
   "AU": {
     "@optus.net.au": "Optus",
@@ -68,12 +68,12 @@
   },
   "BE": {
     "@orange.be": "Orange",
-    "@proximus.com" : "Proximus",
-    "@telenet-ops.be" : "Base",
-    "@staff.telenet.be" : "Base",
-    "@telenetgroup.be" : "Base",
-    "@lycamobile.co.uk" : "Lycamobile",
-    "@lycamobile.com" : "Lycamobile"
+    "@proximus.com": "Proximus",
+    "@telenet-ops.be": "Base",
+    "@staff.telenet.be": "Base",
+    "@telenetgroup.be": "Base",
+    "@lycamobile.co.uk": "Lycamobile",
+    "@lycamobile.com": "Lycamobile"
   },
   "BF": {
     "@orange.com": "Orange",
@@ -94,8 +94,8 @@
   "BG": {
     "@vivacom.bg": "Vivacom",
     "@telenor.bg": "Telenor",
-    "@mobiltel.bg" : "A1",
-    "@bulsat.com" : "Bulsatcom"
+    "@mobiltel.bg": "A1",
+    "@bulsat.com": "Bulsatcom"
   },
   "BN": {
     "@dst.com.bn": "DST"
@@ -110,8 +110,8 @@
     "registrobr.oi@outlook.com" : "Oi",
     "@claro.com.br": "Claro",
     "@nextel.com.br": "Nextel",
-    "@timbrasil.com" : "TIM",
-    "@algartelecom.com.br" : "Algar"
+    "@timbrasil.com": "TIM",
+    "@algartelecom.com.br": "Algar"
   },
   "BS": {
     "@batelnet.bs": "BTC",
@@ -123,13 +123,13 @@
   },
   "BW": {
     "@mascom.bw": "Mascom",
-    "@orange.com" : "Orange",
-    "@btc.bw" : "beMobile"
+    "@orange.com": "Orange",
+    "@btc.bw": "beMobile"
   },
   "BY": {
     "@mts.by": "MTS",
-    "@life.com.by" : "Life:)",
-    "@a1.by" : "A1"
+    "@life.com.by": "Life:)",
+    "@a1.by": "A1"
   },
   "CA": {
     "@windmobile.ca": "Freedom",
@@ -141,36 +141,36 @@
     "@primus.ca": "Primus",
     "@corp.xplornet.com" : "Xplornet",
     "@telus.com" : "Telus",
-    "@eastlink.ca" : "EastLink",
-    "@videotron.ca" : "Videotron",
-    "@videotron.net" : "Videotron",
-    "@sasktel.sk.ca" : "SaskTel"
+    "@eastlink.ca": "EastLink",
+    "@videotron.ca": "Videotron",
+    "@videotron.net": "Videotron",
+    "@sasktel.sk.ca": "SaskTel"
   },
   "CD": {
     "@orange.com": "Orange",
     "@africell.cd": "Africell",
     "@vodacom.cd": "Vodacom",
     "@vodacom.co.za": "Vodacom",
-    "@cd.airtel.com" : "Airtel"
+    "@cd.airtel.com": "Airtel"
   },
   "CG": {
     "@cg.airtel.com": "Airtel",
-    "@mtn.com" : "MTN"
+    "@mtn.com": "MTN"
   },
   "CH": {
     "@sunrise.net": "Sunrise",
     "@salt.ch": "Salt",
-    "@ip-plus.net" : "Swisscom"
+    "@ip-plus.net": "Swisscom"
   },
   "CI": {
     "@mtn.ci": "MTN",
     "@orange-cit.ci": "Orange",
-    "@moov.com" : "Moov"
+    "@moov.com": "Moov"
   },
   "CL": {
     "@clarochile.cl": "Claro",
     "@wom.cl": "WOM",
-    "@entel.cl" : "Entel"
+    "@entel.cl": "Entel"
   },
   "CO": {
     "@telecom.com.co": "Movistar",
@@ -181,12 +181,12 @@
   "CN": {
     "@chinaunicom.cn": "China Unicom",
     "chinamobile.com": "China Mobile",
-    "@chinatelecom.cn" : "China Telecom"
+    "@chinatelecom.cn": "China Telecom"
   },
   "CR": {
     "@claro.cr": "Claro",
     "@tigo.cr": "Tigo",
-    "@ice.go.cr" : "Kölbi ICE"
+    "@ice.go.cr": "Kölbi ICE"
   },
   "CU": {
     "@etecsa.cu": "Cubacel"
@@ -194,14 +194,14 @@
   "CZ": {
     "@t-mobile.cz": "T-Mobile",
     "@o2.cz" : "O2",
-    "@vodafone.cz" : "Vodafone"
+    "@vodafone.cz": "Vodafone"
   },
   "DE": {
     "@telekom.de": "Telekom",
     "@vodafone.com": "Vodafone",
     "@vodafone.de": "Vodafone",
     "@telefonica.de": "O2",
-    "@telefonica.com" : "O2"
+    "@telefonica.com": "O2"
   },
   "DK": {
     "@telia.net": "Telia",
@@ -214,7 +214,7 @@
     "@ooredoo.dz": "Ooredoo",
     "@djezzy.dz": "Djezzy",
     "@djaweb.dz": "Mobilis",
-    "@djaweb.dz" : "AT"
+    "@djaweb.dz": "AT"
   },
   "EC": {
     "@claro.com.ec": "Claro",
@@ -223,7 +223,7 @@
   "EG": {
     "@tedata.net": "WE",
     "@orange.com": "Orange",
-    "@vodafone.com" : "Vodafone",
+    "@vodafone.com": "Vodafone",
     "@etisalat.com": "Etisalat",
     "@etisalatdata.net": "Etisalat"
   },
@@ -233,11 +233,11 @@
     "@telefonica.es": "Movistar",
     "@telefonica.com": "Movistar",
     "@corp.vodafone.es": "Vodafone",
-    "@vodafone.com" : "Vodafone",
-    "@yoigo.com" : "Yoigo",
-    "@digimobil.es" : "DIGI",
-    "@lycamobile.co.uk" : "Lycamobile",
-    "@lycamobile.com" : "Lycamobile"
+    "@vodafone.com": "Vodafone",
+    "@yoigo.com": "Yoigo",
+    "@digimobil.es": "DIGI",
+    "@lycamobile.co.uk": "Lycamobile",
+    "@lycamobile.com": "Lycamobile"
   },
   "ET": {
     "@ethiotelecom.et": "MTN"
@@ -250,14 +250,14 @@
   },
   "FJ": {
     "@vodafone.com": "Vodafone",
-    "@digicelgroup.com" : "Digicel"
+    "@digicelgroup.com": "Digicel"
   },
   "FR": {
     "@orange.com": "Orange",
     "@bouyguestelecom.fr": "Bouygues",
-    "@gaoland.net" : "SFR",
-    "@proxad.net" : "Free",
-    "@e-i.com" : "NRJ Mobile"
+    "@gaoland.net": "SFR",
+    "@proxad.net": "Free",
+    "@e-i.com": "NRJ Mobile"
   },
   "GA": {
     "@gabontelecom.ga": "Gabon Telecom",
@@ -283,20 +283,20 @@
     "@sureline.net" : "Sure",
     "orange.com" : "EE",
     "@virginmobile.com" : "Virgin Mobile",
-    "@virgin.com" : "Virgin Mobile",
-    "@virginmedia.net" : "Virgin Mobile"
+    "@virgin.com": "Virgin Mobile",
+    "@virginmedia.net": "Virgin Mobile"
   },
   "GH": {
     "@mtn.com.gh": "MTN",
     "@mtn.com": "MTN",
     "@vodafone.com": "Vodafone",
-    "@busy.com.gh" : "busy"
+    "@busy.com.gh": "busy"
   },
   "GM": {
     "@qcell.gm": "QCell",
     "@gamtel.gm": "Gamcel",
     "@africell.gm": "Africell",
-    "@c-mobile.gm" : "Comium"
+    "@c-mobile.gm": "Comium"
   },
   "GN": {
     "@mtn.com": "MTN",
@@ -316,7 +316,7 @@
     "@hthk.com": "Three",
     "@hkcsl.com": "CSL",
     "@pccw.com": "CSL",
-    "@ismart.net" : "SmarTone"
+    "@ismart.net": "SmarTone"
   },
   "HN": {
     "@tigo.com.hn": "Tigo"
@@ -362,7 +362,7 @@
     "@hotnet.net.il" : "HOT Mobile",
     "@hotmobile.co.il" : "HOT Mobile",
     "@golantelecom.co.il" : "Golan Telecom",
-    "@019mobile.co.il" : "019 Mobile"
+    "@019mobile.co.il": "019 Mobile"
   },
   "IN": {
     "@bsnl": "BSNL",
