@@ -212,9 +212,7 @@
   "DZ": {
     "@mobilis.dz": "Mobilis",
     "@ooredoo.dz": "Ooredoo",
-    "@djezzy.dz": "Djezzy",
-    "@djaweb.dz": "Mobilis",
-    "@djaweb.dz": "AT"
+    "@djezzy.dz": "Djezzy"
   },
   "EC": {
     "@claro.com.ec": "Claro",
@@ -479,7 +477,6 @@
   "MA": {
     "@orange.com": "Orange",
     "@iam.ma": "Maroc",
-    "@iam.ma" : "IAM",
     "@orange.ma": "Orange",
     "@inwi.ma" : "INWI"
 
@@ -669,7 +666,7 @@
     "@mobily.com.sa": "Mobily",
     "@sa.zain.com": "Zain",
     "@lebara.sa" : "Lebara",
-    "@stc.com.sa" : "Virgin Mobile"
+    "@virgin.com" : "Virgin Mobile"
   },
   "SD": {
     "@mtn.sd": "MTN",
@@ -806,7 +803,6 @@
     "@southernco.com" : "Southern Linc",
     "@thumbcellular.com" : "Thumb",
     "@unionwireless.com" : "Union",
-    "@sprint.com" : "Boost",
     "@cellularoneaz.com" : "Cellular One",
     "@corewg.com" : "NewCore"
   },
