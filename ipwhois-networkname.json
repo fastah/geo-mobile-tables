@@ -86,6 +86,12 @@
     "@bh.zain.com": "Zain",
     "@viva.com.bh": "STC"
   },
+  "BI": {
+    "@onatel.bi": "Onatel",
+    "@smart.bi": "Smart",
+    "@viettel.com.vn": "Lumitel",
+    "@econet-leo.bi": "Econet"
+  },
   "BJ": {
     "@mtn.bj": "MTN",
     "@mtn.com": "MTN",
@@ -153,6 +159,11 @@
     "@vodacom.co.za": "Vodacom",
     "@cd.airtel.com": "Airtel"
   },
+  "CF": {
+    "@moov.com": "Moov",
+    "@telecel-rca.com": "Telecel",
+    "@orange.com": "Orange"
+  },
   "CG": {
     "@cg.airtel.com": "Airtel",
     "@mtn.com": "MTN"
@@ -178,9 +189,16 @@
     "@claro.com.co": "Claro",
     "@etb.net.co": "eTb"
   },
+  "CM": {
+    "@mtncameroon.net": "MTN",
+    "@mtn.com": "MTN",
+    "@orange.com": "Orange",
+    "@camtel.cm": "Camtel",
+    "@nexttel.com.cm": "Nextel"
+  },
   "CN": {
     "@chinaunicom.cn": "China Unicom",
-    "chinamobile.com": "China Mobile",
+    "@chinamobile.com": "China Mobile",
     "@chinatelecom.cn": "China Telecom"
   },
   "CR": {
@@ -190,6 +208,10 @@
   },
   "CU": {
     "@etecsa.cu": "Cubacel"
+  },
+  "CY": {
+    "@cytanet.com.cy": "Cyta",
+    "@epic.com.cy": "epic"
   },
   "CZ": {
     "@t-mobile.cz": "T-Mobile",
@@ -208,6 +230,12 @@
     "@telia.com": "Telia",
     "@telenor.dk": "Telenor",
     "postmaster@abuse.mail.dk" : "TDC"
+  },
+  "DO": {
+    "@altice.com.do": "Altice",
+    "@claro.com.do": "Claro",
+    "@viva.com.do": "Viva",
+    "@wind.com.do": "Wind"
   },
   "DZ": {
     "@mobilis.dz": "Mobilis",
@@ -284,6 +312,12 @@
     "@virgin.com": "Virgin Mobile",
     "@virginmedia.net": "Virgin Mobile"
   },
+  "GF": {
+    "@francetelecom.fr": "SFR Caraibe",
+    "@free.com": "Free",
+    "@digicelgroup.com": "Digicel",
+    "@orange.com": "Orange"
+  },
   "GH": {
     "@mtn.com.gh": "MTN",
     "@mtn.com": "MTN",
@@ -309,6 +343,10 @@
   "GT": {
     "@claro.com.gt": "Claro"
   },
+  "GY": {
+    "@gtt.co.gy": "GTT",
+    "@digicelgroup.com": "Digicel"
+  },
   "HK": {
     "@hk.chinamobile.com": "China Mobile",
     "@hthk.com": "Three",
@@ -324,6 +362,10 @@
     "@a1.hr": "A1",
     "@a1net.hr" : "A1",
     "@swip.net": "Tele2"
+  },
+  "HT": {
+    "@digicelgroup.com": "Digicel",
+    "@viettel.com.vn" : "NatCom"
   },
   "HU": {
     "@telekom.hu": "Telekom",
@@ -394,6 +436,11 @@
     "@mail.tim.it" : "TIM",
     "@mail.vodafone.it": "Vodafone",
     "@lycamobile.it" : "Lycamobile"
+  },
+  "JM": {
+    "@cwc.com": "Flow",
+    "@caricel.com": "Caricel",
+    "@digicelgroup.com": "Digicel"
   },
   "JO": {
     "@jo.zain.com": "Zain",
@@ -469,17 +516,30 @@
   "LR": {
     "@orange.com": "Orange"
   },
+  "LT": {
+    "@telia.lt": "Telia",
+    "@bi.lt": "BITE",
+    "@swip.net": "Tele2"
+  },
   "LV": {
     "@lmt.lv": "LMT",
     "@bi.lt": "Bite",
     "@swip.net": "Tele2"
+  },
+  "LY": {
+    "@libyana.ly": "Libyana",
+    "@almadar.ly": "Al-Madar",
+    "@lttnet.net": "Libya Phone",
+    "@ltt.ly": "Libya Phone"
   },
   "MA": {
     "@orange.com": "Orange",
     "@iam.ma": "Maroc",
     "@orange.ma": "Orange",
     "@inwi.ma" : "INWI"
-
+  },
+  "MC": {
+    "@monaco-telecom.mc": "Monaco Telecom"
   },
   "MD": {
     "@orange.md": "Orange",
@@ -491,6 +551,10 @@
     "@telma.mg": "Telma",
     "@orange.com": "Orange",
     "@mg.airtel.com" : "Airtel"
+  },
+  "MK": {
+    "@mt.net.mk": "Telekom",
+    "@vipoperator.mk": "vip"
   },
   "ML": {
     "@orangemali.com": "Orange",
@@ -548,6 +612,15 @@
     "@telecom.na": "tn mobile",
     "@mtc.com.na": "MTC"
   },
+  "NC": {
+    "@opt.nc": "Mobilis"
+  },
+  "NE": {
+    "@ne.airtel.com": "Airtel",
+    "@moov.ne": "Moov",
+    "@orange.com" : "Orange",
+    "@nigertelecoms.ne" : "SahelCom"
+  },
   "NG": {
     "@gloworld.com": "Glo",
     "@mtnnigeria.net": "MTN",
@@ -591,10 +664,22 @@
     "@omantel.om": "Omantel",
     "@nawras.om": "Ooredoo"
   },
+  "PA": {
+    "@cwpanama.com": "Cable and Wireless",
+    "@movistar.com": "Movistar",
+    "@telefonica.net.pa": "Movistar",
+    "@claro.com.pa": "Claro",
+    "@digicelgroup.com": "Digicel"
+  },
   "PE": {
     "@telefonica.net.pe": "Movistar",
     "@entel.pe" : "Entel",
     "@claro.com.pe" : "Claro"
+  },
+  "PF": {
+    "@viti.pf": "Ora",
+    "@vodafone.pf" : "Vodafone",
+    "@onati.pf" : "Vini"
   },
   "PG": {
     "@digicelgroup.com": "Digicel"
@@ -668,6 +753,10 @@
     "@lebara.sa" : "Lebara",
     "@virgin.com" : "Virgin Mobile"
   },
+  "SB": {
+    "@telekom.com.sb": "Breeze",
+    "@bmobile.com.pg": "BeMobile"
+  },
   "SD": {
     "@mtn.sd": "MTN",
     "@sd.zain.com": "Zain"
@@ -697,6 +786,11 @@
     "@telekom.sk": "Telekom",
     "@swan.sk": "SWAN 4ka"
   },
+  "SL": {
+    "@africell.sl": "Africell",
+    "@orange-sonatel.com": "Orange",
+    "@sierratel.sl": "SierraTel"
+  },
   "SN": {
     "@orange-sonatel.com": "Orange",
     "@free.sn" : "Free",
@@ -706,15 +800,23 @@
     "@telesom.com": "Telesom",
     "@golis.so": "Golis"
   },
-  "SS": {
+  "SR": {
     "@mtn.com": "MTN",
     "@ss.zain.com": "Zain"
+  },
+  "SS": {
+    "@telesur.com": "Telesur",
+    "@digicelgroup.com": "Zain"
   },
   "SV": {
     "@digicelgroup.com": "Digicel",
     "@telefonica.com.sv": "Movistar",
     "@claro.com.sv": "Claro",
     "@tigo.com.sv": "Tigo"
+  },
+  "SY": {
+    "@syriatel.com.sy": "Syriatel",
+    "@mtn.com.sy": "MTN"
   },
   "TH": {
     "@ais.co.th": "AIS",
@@ -806,6 +908,11 @@
     "@cellularoneaz.com" : "Cellular One",
     "@corewg.com" : "NewCore"
   },
+  "UY": {
+    "@antel.net.uy": "Antel",
+    "@claro.com.uy": "Claro",
+    "@telefonica.com": "Movistar"
+  },
   "UZ": {
     "@beeline.uz": "Beeline",
     "@ucell.uz": "Ucell",
@@ -838,5 +945,9 @@
     "@zm.airtel.com": "Airtel",
     "@mtnzambia.co.zm": "MTN",
     "@zamtel.co.zm": "Zamtel"
+  },
+  "ZW": {
+    "@netone.co.zw": "Net One",
+    "@telecelzim.co.zw": "Telecel"
   }
 }
