@@ -160,7 +160,6 @@
     "@execulinktelecom.ca": "Execulink",
     "@ssimicro.com": "Qiniq",
     "@quadro.net": "Quadro",
-    "@eastlink.ca": "Lynx",
     "@iristel.com": "ICE",
     "@lp.knet.ca": "K-Net"
   },
@@ -690,7 +689,8 @@
     "@movistar.com": "Movistar",
     "@telefonica.net.pa": "Movistar",
     "@claro.com.pa": "Claro",
-    "@digicelgroup.com": "Digicel"
+    "@digicelgroup.com": "Digicel",
+    "@plus.pl": "Plus"
   },
   "PE": {
     "@telefonica.net.pe": "Movistar",
@@ -724,7 +724,9 @@
     "@orange.pl": "Orange",
     "@orange.com": "Orange",
     "@playmobile.pl": "Play",
-    "@t-mobile.pl": "T-Mobile"
+    "@t-mobile.pl": "T-Mobile",
+    "@t-mobile.com": "NetWorkS",
+    "@aerostrada.pl": "Aero2"
   },
   "PR": {
     "@claropr.com": "Claro"
