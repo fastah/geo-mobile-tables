@@ -17,7 +17,7 @@
     "@albtelecom.al": "ALBtelecom"
   },
   "AM": {
-    "@mts.am": "MTS",
+    "@mts.am": "Viva-MTS",
     "@ucom.am": "Ucom",
     "@beeline.am": "Beeline"
   },
@@ -48,8 +48,10 @@
     "@digicelgroup.com": "Digicel"
   },
   "AZ": {
-    "@bakcell.com": "bakcell",
-    "@azercell.com": "Azercell"
+    "@bakcell.com": "Bakcell",
+    "@azercell.com": "Azercell",
+    "@azerfon.az": "Nar",
+    "@nakhinternet.az": "Naxtel"
   },
   "BA": {
     "@hteronet.ba": "HT-ERONET",
@@ -101,7 +103,8 @@
     "@vivacom.bg": "Vivacom",
     "@telenor.bg": "Telenor",
     "@mobiltel.bg": "A1",
-    "@bulsat.com": "Bulsatcom"
+    "@bulsat.com": "Bulsatcom",
+    "@retelbg.com": "T.com"
   },
   "BN": {
     "@dst.com.bn": "DST",
@@ -198,7 +201,9 @@
     "@telecom.com.co": "Movistar",
     "@une.com.co": "Tigo",
     "@claro.com.co": "Claro",
-    "@etb.net.co": "eTb"
+    "@etb.net.co": "eTb",
+    "@edatel.net.co": "Edatel",
+    "@avantel.com.co": "Avantel"
   },
   "CM": {
     "@mtncameroon.net": "MTN",
@@ -243,7 +248,8 @@
     "@telia.net": "Telia",
     "@telia.com": "Telia",
     "@telenor.dk": "Telenor",
-    "postmaster@abuse.mail.dk" : "TDC"
+    "@tdcnet.dk" : "TDC",
+    "@three.co.dk": "Three"
   },
   "DO": {
     "@altice.com.do": "Altice",
@@ -302,7 +308,7 @@
     "@e-i.com": "NRJ Mobile"
   },
   "GA": {
-    "@gabontelecom.ga": "Gabon Telecom",
+    "@gabontelecom.ga": "Libertis",
     "@ga.airtel.com": "Airtel"
   },
   "GE": {
@@ -339,7 +345,8 @@
     "@mtn.com.gh": "MTN",
     "@mtn.com": "MTN",
     "@vodafone.com": "Vodafone",
-    "@busy.com.gh": "busy"
+    "@busy.com.gh": "busy",
+    "airteltigo.com.gh": "AirtelTigo"
   },
   "GM": {
     "@qcell.gm": "QCell",
@@ -358,7 +365,9 @@
     "@wind.gr": "Wind"
   },
   "GT": {
-    "@claro.com.gt": "Claro"
+    "@claro.com.gt": "Claro",
+    "tigo.com.gt": "Tigo",
+    "@telefonica.net.gt": "Movistar"
   },
   "GY": {
     "@gtt.co.gy": "GTT",
@@ -372,7 +381,9 @@
     "@ismart.net": "SmarTone"
   },
   "HN": {
-    "@tigo.com.hn": "Tigo"
+    "@tigo.com.hn": "Tigo",
+    "@hondutel.hn": "Hondutel",
+    "@claro.com.hn" : "Claro"
   },
   "HR": {
     "@t.ht.hr": "Telekom",
@@ -419,7 +430,8 @@
     "@hotnet.net.il" : "HOT Mobile",
     "@hotmobile.co.il" : "HOT Mobile",
     "@golantelecom.co.il" : "Golan Telecom",
-    "@019mobile.co.il": "019 Mobile"
+    "@019mobile.co.il": "019 Mobile",
+    "@018.co.il": "we4G"
   },
   "IN": {
     "@bsnl": "BSNL",
@@ -444,7 +456,10 @@
   "IR": {
     "@mtnirancell.ir": "MTN Irancell",
     "@mci.ir": "MCI",
-    "@rightel.ir" : "RighTel"
+    "@rightel.ir" : "RighTel",
+    "@hiweb.ir": "Avacell",
+    "@tic.ir": "TKC",
+    "@mtce.ir": "MTCE"
   },
   "IT": {
     "@h3g.it": "WindTre",
@@ -490,6 +505,9 @@
     "@yes.com.kh" : "Yes",
     "@seatelgroup.com" : "Yes",
     "@viettel.com.vn" : "Metfone"
+  },
+  "KI": {
+    "@athkl.com.ki": "ATHKL"
   },
   "KR": {
     "@orange.sk": "Orange",
@@ -576,7 +594,9 @@
   },
   "ML": {
     "@orangemali.com": "Orange",
-    "@orangemali.net": "Orange"
+    "@orangemali.net": "Orange",
+    "@telecelmali.com": "Telecel",
+    "@sotelma.ml": "Malitel"
   },
   "MM": {
     "@telenor.com.mm": "Telenor",
@@ -607,7 +627,8 @@
   "MX": {
     "@mail.telcel.com": "Telcel",
     "@att.com" : "AT&T",
-    "@altanredes": "Altan Redes"
+    "@altanredes": "Altan Redes",
+    "@movistar.net.mx": "Movistar"
   },
   "MY": {
     "@maxis.com.my": "Maxis",
@@ -689,8 +710,7 @@
     "@movistar.com": "Movistar",
     "@telefonica.net.pa": "Movistar",
     "@claro.com.pa": "Claro",
-    "@digicelgroup.com": "Digicel",
-    "@plus.pl": "Plus"
+    "@digicelgroup.com": "Digicel"
   },
   "PE": {
     "@telefonica.net.pe": "Movistar",
@@ -726,13 +746,15 @@
     "@playmobile.pl": "Play",
     "@t-mobile.pl": "T-Mobile",
     "@t-mobile.com": "NetWorkS",
-    "@aerostrada.pl": "Aero2"
+    "@aerostrada.pl": "Aero2",
+    "@plus.pl": "Plus"
   },
   "PR": {
     "@claropr.com": "Claro"
   },
   "PS": {
-    "@wataniya.ps": "Wataniya"
+    "@wataniya.ps": "Wataniya",
+    "@jawwal.ps": "Jawwal"
   },
   "PT": {
     "@tmn.pt": "MEO",
@@ -769,10 +791,15 @@
     "@swip.net": "Tele2",
     "@volnamobile.ru": "Volna",
     "@tattelecom.ru": "Letai",
-    "@motivtelecom.ru": "MOTIV"
+    "@motivtelecom.ru": "MOTIV",
+    "@sevmobile.ru": "SevMobile",
+    "@mobile-win.ru": "Win Mobile",
+    "@yota.ru": "Yota"
   },
   "RW": {
-    "@tigo.co.rw": "Tigo"
+    "@tigo.co.rw": "Tigo",
+    "@mtn.com": "MTN",
+    "@ktrn.rw": "Olleh"
   },
   "SA": {
     "@stc.com.sa": "STC",
@@ -787,7 +814,8 @@
   },
   "SD": {
     "@mtn.sd": "MTN",
-    "@sd.zain.com": "Zain"
+    "@sd.zain.com": "Zain",
+    "@sudatel.sd": "Sudani"
   },
   "SE": {
     "@telia.net": "Telia",
@@ -795,7 +823,8 @@
     "@telenor.se" : "Telenor",
     "@tele2.se" : "Tele2",
     "@swip.net" : "Tele2",
-    "@telenorconnexion.com" : "Sweden 2G"
+    "@telenorconnexion.com" : "Sweden 2G",
+    "@hi3gaccess.se": "Three"
   },
   "SG": {
     "@singnet.com.sg": "Singtel",
@@ -832,8 +861,8 @@
     "@somtelnetwork.net": "Somtel"
   },
   "SR": {
-    "@mtn.com": "MTN",
-    "@ss.zain.com": "Zain"
+    "@telesur.sr": "Telesur",
+    "@digicelgroup.com": "Digicel"
   },
   "SS": {
     "@telesur.com": "Telesur",
@@ -956,7 +985,9 @@
     "@ums.uz": "Mobiuz"
   },
   "VE": {
-    "@movistar.net.ve": "Movistar"
+    "@movistar.net.ve": "Movistar",
+    "@cantv.com.ve": "Movilnet",
+    "@digitel.com.ve": "DigiTel"
   },
   "VN": {
     "@mobifone.vn": "Mobifone",
