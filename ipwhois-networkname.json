@@ -284,7 +284,8 @@
     "@yoigo.com": "Yoigo",
     "@digimobil.es": "DIGI",
     "@lycamobile.co.uk": "Lycamobile",
-    "@lycamobile.com": "Lycamobile"
+    "@lycamobile.com": "Lycamobile",
+    "@truphone.com": "Truphone"
   },
   "ET": {
     "@ethiotelecom.et": "MTN"
@@ -448,8 +449,7 @@
   "IQ": {
     "@korektel.com": "Korek",
     "@iq.zain.com": "Zain",
-    "@asiacell.com": "Asiacell",
-    "@korektel.com": "Korek"
+    "@asiacell.com": "Asiacell"
   },
   "IR": {
     "@mtnirancell.ir": "MTN Irancell",
@@ -606,7 +606,8 @@
   },
   "MR": {
     "@chinguitel.mr": "Chinguitel",
-    "@eljawal.mr": "Mauritel"
+    "@eljawal.mr": "Mauritel",
+    "@mattel.com": "Mattel"
   },
   "MU": {
     "@emtelnet.com": "Emtel",
@@ -765,7 +766,8 @@
     "@TIGO.NET.PY": "Tigo",
     "@PERSONAL.COM.PY" : "Personal",
     "@COPACO.COM.PY" : "Copaco",
-    "@claro.com.py": "Claro"
+    "@claro.com.py": "Claro",
+    "@vox.com.py": "VOX"
   },
   "QA": {
     "@qatar.net.qa": "Ooredoo",
