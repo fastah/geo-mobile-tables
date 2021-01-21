@@ -112,7 +112,8 @@
   },
   "BO": {
     "@tigo.net.bo": "Tigo",
-    "@entel.bo": "Entel"
+    "@entel.bo": "Entel",
+    "@nuevatel.com": "Viva"
   },
   "BR": {
     "@telefonica.com": "Vivo",
@@ -145,10 +146,9 @@
     "@windmobile.ca": "Freedom",
     "@freedommobile.ca": "Freedom",
     "@rci.rogers.com": "Rogers",
-    "@sjrb.ca": "Shaw",
+    "@sjrb.ca": "Freedom",
     "@bell.ca": "Bell",
     "@mtsallstream.com": "Bell",
-    "@primus.ca": "Primus",
     "@corp.xplornet.com" : "Xplornet",
     "@telus.com" : "Telus",
     "@eastlink.ca": "EastLink",
@@ -291,7 +291,6 @@
   },
   "FI": {
     "@telia.fi": "Telia",
-    "@digicelgroup.com": "Digicel",
     "@elisa.fi": "Elisa",
     "@dnaip.fi": "DNA"
   },
@@ -317,12 +316,9 @@
     "@silknet.com": "Silk"
   },
   "GB": {
-    "@lycatel.com": "Lycatel",
     "@three.co.uk": "Three",
-    "@sa.zain.com": "Zain",
     "@o2.com": "O2",
     "@o2wifi.co.uk": "O2",
-    "@manxtelecom.com": "Manx Telecom",
     "@talktalkplc.com": "Talk Talk",
     "@gb.vodafone.co.uk": "Vodafone",
     "@vodafone.co.uk": "Vodafone",
@@ -450,8 +446,10 @@
     "@mtnl.net.in": "MTNL"
   },
   "IQ": {
-    "@korektel.com": "Korektel",
-    "@iq.zain.com": "Zain"
+    "@korektel.com": "Korek",
+    "@iq.zain.com": "Zain",
+    "@asiacell.com": "Asiacell",
+    "@korektel.com": "Korek"
   },
   "IR": {
     "@mtnirancell.ir": "MTN Irancell",
@@ -497,20 +495,21 @@
   },
   "KG": {
     "@beeline.kg": "Beeline",
-    "@megacom.kg": "Megacom"
+    "@megacom.kg": "MegaCom",
+    "@nurtelecom.kg": "O"
   },
   "KH": {
     "@smart.com.kh": "Smart",
     "@mobitel.com.kh": "Cellcard",
     "@yes.com.kh" : "Yes",
     "@seatelgroup.com" : "Yes",
-    "@viettel.com.vn" : "Metfone"
+    "@viettel.com.vn" : "Metfone",
+    "@qbmore.com": "qb"
   },
   "KI": {
     "@athkl.com.ki": "ATHKL"
   },
   "KR": {
-    "@orange.sk": "Orange",
     "@lguplus.co.kr": "LG U Plus",
     "@sk.com" : "SK Telecom",
     "@skbroadband.com" : "SK Telecom",
@@ -612,7 +611,6 @@
   "MU": {
     "@emtelnet.com": "Emtel",
     "@emtel.com": "Emtel",
-    "@telecom.mu": "Telecom",
     "@mtmltd.net" : "MTML"
   },
   "MV": {
@@ -706,7 +704,7 @@
     "@nawras.om": "Ooredoo"
   },
   "PA": {
-    "@cwpanama.com": "Cable and Wireless",
+    "@cwpanama.com": "Cable & Wireless",
     "@movistar.com": "Movistar",
     "@telefonica.net.pa": "Movistar",
     "@claro.com.pa": "Claro",
@@ -750,7 +748,8 @@
     "@plus.pl": "Plus"
   },
   "PR": {
-    "@claropr.com": "Claro"
+    "@claropr.com": "Claro",
+    "@prwifi.com": "Open Mobile"
   },
   "PS": {
     "@wataniya.ps": "Wataniya",
@@ -797,7 +796,7 @@
     "@yota.ru": "Yota"
   },
   "RW": {
-    "@tigo.co.rw": "Tigo",
+    "@rw.airtel.com": "Airtel",
     "@mtn.com": "MTN",
     "@ktrn.rw": "Olleh"
   },
@@ -865,7 +864,6 @@
     "@digicelgroup.com": "Digicel"
   },
   "SS": {
-    "@telesur.com": "Telesur",
     "@digicelgroup.com": "Zain",
     "@mtn.ss": "MTN"
   },
@@ -947,7 +945,11 @@
     "@kyivstar.net" : "Kyivstar"
   },
   "UG": {
-    "@mtn.co.ug": "MTN"
+    "@mtn.co.ug": "MTN",
+    "@ug.airtel.com": "Airtel",
+    "@africell.ug": "Africell",
+    "@smart.ug": "Smart",
+    "@smilecoms.com": "Smile"
   },
   "US": {
     "@sprint.net": "T-Mobile",
@@ -1017,6 +1019,7 @@
   },
   "ZW": {
     "@netone.co.zw": "Net One",
-    "@telecelzim.co.zw": "Telecel"
+    "@telecelzim.co.zw": "Telecel",
+    "@econet.zw": "Econet"
   }
 }
