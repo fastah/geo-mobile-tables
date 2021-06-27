@@ -2,6 +2,7 @@ language: go
 go:
   - "1.16.5"
 os: linux
+dist: focal
 virt: lxd
 group: edge
 arch: arm64-graviton2
