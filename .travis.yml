@@ -1,6 +1,10 @@
 language: go
 go:
   - "1.16.5"
+os: linux
+virt: lxd
+group: edge
+arch: arm64-graviton2
 notifications:
   email:
     recipients:
