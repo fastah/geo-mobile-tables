@@ -1225,7 +1225,8 @@
         "640,4": "Vodacom",
         "640,5": "Airtel",
         "640,11": "SmileCom",
-        "640,7": "TTCL Mobile"
+        "640,7": "TTCL Mobile",
+        "640,9": "Halotel"
     },
     "UA": {
         "255,1": "Vodafone",
