@@ -1,6 +1,6 @@
 language: go
 go:
-  - "1.16.5"
+  - "1.18"
 os: linux
 dist: focal
 virt: lxd
